@@ -1,0 +1,1441 @@
+=======================================================
+# Chapter 12 — Exogenetic Forces & Evolution of Landforms
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Exogenetic Processes: The Basic Framework
+-------------------------------------------------------
+
+Exogenetic processes are external geomorphic processes that operate at or near Earth's surface and progressively modify relief through weathering, mass wasting, erosion, transportation and deposition.
+
+They are powered mainly by solar energy, gravity and the hydrological cycle, and operate in interaction with the relief created by endogenic forces.
+
+[FLOW]
+
+Endogenic uplift → relief/elevation increases → weathering + mass wasting + erosion → transport → deposition → relief is lowered/redistributed
+
+[/FLOW]
+
+This continuous lowering and leveling of relief is broadly described as denudation.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important correction: Exogenetic processes do not simply “originate from the atmosphere”. They are driven mainly by solar energy, gravity, water, temperature differences and atmospheric processes, acting on Earth's surface.
+
+[/CLARIFICATION]
+
+[TABLE]
+Process | Meaning | Main result
+Weathering | Breakdown/decomposition of rock in situ. | Regolith and weathered material.
+Mass wasting | Downslope movement of rock, soil or debris primarily under gravity. | Slope modification.
+Erosion | Detachment and removal of material by a geomorphic agent. | Rock/sediment removal.
+Transportation | Movement of eroded material by water, wind, ice, waves etc. | Redistribution of sediments.
+Deposition | Accumulation of transported sediment when the transporting agent loses energy/carrying capacity. | New depositional landforms.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Core distinction: Weathering = breakdown | Erosion = removal | Transportation = movement | Deposition = accumulation | Mass wasting = downslope movement under gravity
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Interplay of Endogenic and Exogenic Processes
+-------------------------------------------------------
+
+Landforms are the product of a continuous competition between uplift and denudation.
+
+[FLOW]
+
+Tectonic uplift → mountains/highlands → enhanced slopes → greater erosion → sediment transport → deposition in lowlands/basins
+
+[/FLOW]
+
+Constructive geomorphology: processes that increase elevation or build relief through uplift, deposition or accumulation.
+
+Destructive geomorphology: processes that wear down and remove existing relief through weathering, erosion and mass wasting.
+
+Examples: Himalayan uplift provides high relief and steep slopes, which encourage intense erosion and landsliding. Sediments eroded from mountains are eventually deposited in foreland basins, floodplains and deltas.
+
+-------------------------------------------------------
+## Weathering
+-------------------------------------------------------
+
+Weathering is the breakdown or decomposition of rocks and minerals at or near the Earth's surface without large-scale transport of the material.
+
+[FLOW]
+
+Rock exposed at surface → temperature/water/chemicals/organisms act on it → disintegration or decomposition → regolith → soil formation
+
+[/FLOW]
+
+Weathering is a major precursor to soil formation, erosion and mass wasting.
+
+### Factors Controlling Weathering
+
+* Climate: temperature, rainfall and freeze-thaw conditions.
+
+* Rock type: mineral composition, hardness and permeability.
+
+* Structure: joints, fractures, bedding planes and faults.
+
+* Topography: slope and elevation influence exposure and drainage.
+
+* Vegetation and organisms: roots and organic acids promote breakdown.
+
+* Time: prolonged exposure increases weathering.
+
+[EXAM FOCUS]
+
+Climate rule: Hot + dry → mechanical weathering tends to dominate
+
+Warm + humid → chemical weathering tends to dominate
+
+[/EXAM FOCUS]
+
+### 1. Mechanical / Physical Weathering
+
+Mechanical weathering breaks rocks into smaller pieces without substantially changing their chemical composition.
+
+### A. Thermal Expansion and Contraction
+
+[FLOW]
+
+Strong heating during day → mineral expansion → cooling at night → contraction → repeated stress → cracks → rock disintegration
+
+[/FLOW]
+
+Important in desert and semi-arid regions where diurnal temperature ranges can be large.
+
+Different minerals expand at different rates, producing stress at mineral boundaries.
+
+### B. Freeze–Thaw / Frost Wedging
+
+[FLOW]
+
+Water enters crack → temperature falls below freezing → water expands as ice → crack widens → repeated freezing/thawing → rock fragments
+
+[/FLOW]
+
+Especially important in high mountains and high latitudes.
+
+### C. Granular Disintegration
+
+Different minerals expand and contract differently under temperature changes. Repeated stress at grain boundaries weakens the rock, eventually producing granular material.
+
+### D. Exfoliation
+
+Exfoliation is the peeling or flaking of outer rock layers, often producing curved sheets.
+
+[FLOW]
+
+Pressure release/unloading + thermal stress → expansion of outer layers → sheet joints → peeling → exfoliation
+
+[/FLOW]
+
+It is common in massive crystalline rocks such as granite.
+
+### E. Unloading / Pressure Release
+
+[FLOW]
+
+Overlying material removed → pressure decreases → underlying rock expands → joints develop parallel to surface → sheets peel off
+
+[/FLOW]
+
+This is particularly important where deeply buried rocks become exposed through erosion.
+
+### F. Other Physical Weathering
+
+* Salt weathering: salt crystals grow in pores and cracks, producing pressure and granular disintegration.
+
+* Wetting and drying: repeated expansion and contraction of clay-rich materials.
+
+* Fire-induced weathering: rapid heating and cooling can fracture exposed rocks.
+
+* Block disintegration: jointed rocks break into angular blocks.
+
+### 2. Chemical Weathering
+
+Chemical weathering changes the chemical composition and mineral structure of rocks.
+
+[FLOW]
+
+Water + oxygen + carbon dioxide + acids → chemical reactions with minerals → alteration/dissolution → new minerals + dissolved material
+
+[/FLOW]
+
+### A. Hydration
+
+Hydration occurs when water molecules become incorporated into mineral structures.
+
+It can increase mineral volume and weaken the rock.
+
+### B. Hydrolysis
+
+Hydrolysis involves reaction between water and minerals, especially silicate minerals.
+
+[FLOW]
+
+Water reacts with silicate minerals → minerals decompose → clay minerals + dissolved ions → weaker rock
+
+[/FLOW]
+
+Feldspar → clay minerals is an important example.
+
+### C. Oxidation
+
+Oxidation occurs when minerals react with oxygen.
+
+[FLOW]
+
+Iron-bearing mineral + O₂ → oxidation → iron oxides/hydroxides → weakening + reddish colour
+
+[/FLOW]
+
+Hence iron-rich rocks commonly develop red, yellow or brown weathering colours.
+
+### D. Carbonation
+
+[FLOW]
+
+CO₂ dissolves in rainwater → carbonic acid forms → CaCO₃ dissolves → limestone weakens/dissolves → karst features
+
+[/FLOW]
+
+Carbonation is especially important in limestone regions.
+
+### E. Solution
+
+Some minerals dissolve directly in water. Soluble salts are especially susceptible.
+
+### F. Chelation
+
+Chelation involves organic compounds forming complexes with metal ions, increasing the mobility of those metals and weakening minerals.
+
+It is promoted by plant roots, microorganisms and organic acids.
+
+### G. Salt Weathering
+
+[FLOW]
+
+Saline water enters pores → evaporation → salt crystallisation → crystal pressure → cracking/disintegration
+
+[/FLOW]
+
+Common in arid, semi-arid and coastal environments.
+
+### 3. Biological Weathering
+
+Biological weathering results from the action of plants, animals and microorganisms.
+
+* Root wedging: roots grow into joints and widen cracks.
+
+* Burrowing organisms: animals disturb and loosen soil and rock material.
+
+* Organic acids: plants, fungi and lichens release acids that dissolve minerals.
+
+* Microorganisms: bacterial and fungal activity can chemically alter minerals.
+
+[FLOW]
+
+Biological activity → physical disturbance + organic acids → rock breakdown → enhanced weathering
+
+[/FLOW]
+
+### Weathering and Climate
+
+[TABLE]
+Environment | Dominant weathering tendency | Main reason
+Hot + humid | Chemical | Abundant water + high temperature accelerate chemical reactions.
+Hot + dry | Mechanical | Large temperature range + limited moisture.
+Cold + wet | Freeze-thaw + chemical processes | Repeated freezing and thawing where temperatures fluctuate around freezing.
+High mountains | Mechanical prominent | Freeze-thaw, pressure changes and rapid temperature fluctuations.
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC 2024 Prelims: Rainfall can promote weathering because rainwater contains dissolved CO₂ and atmospheric oxygen, both of which contribute to chemical weathering.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Mass Wasting / Mass Movement
+-------------------------------------------------------
+
+Mass wasting is the downslope movement of weathered rock, soil or debris under the influence of gravity.
+
+[FLOW]
+
+Weathering + slope instability → material becomes loose/saturated → gravity acts → downslope movement → mass wasting
+
+[/FLOW]
+
+### Factors Increasing Mass Wasting
+
+* Steep slopes
+
+* Heavy rainfall / snowmelt
+
+* Earthquakes and volcanic activity
+
+* Weathering and weakening of rocks
+
+* Removal of vegetation
+
+* Road cutting and excavation
+
+* Mining and quarrying
+
+* Poor drainage and water saturation
+
+* Glacial retreat/permafrost thaw in suitable environments
+
+### Major Types of Mass Wasting
+
+[TABLE]
+Type | Movement | Main clue
+Fall | Material detaches and falls freely. | Very rapid; cliffs/steep slopes.
+Rockfall | Individual rocks/blocks fall from steep slopes. | Common in jointed mountain terrain.
+Slide | Material moves along a relatively distinct failure surface. | Translational or rotational.
+Slump | Rotational movement along a curved failure surface. | Backward rotation and spoon-shaped scar.
+Flow | Material behaves more like a fluid. | Often associated with high water content.
+Debris flow | Rapid mixture of water, mud, rock fragments and debris. | Fast and destructive.
+Creep | Extremely slow downslope movement. | May produce tilted trees, poles and fences.
+Solifluction | Slow downslope flow of water-saturated soil. | Common in cold/periglacial regions over frozen ground.
+Debris avalanche | Very rapid movement of fragmented rock/debris. | Can occur after volcanic collapse or major slope failure.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: F-S-F-C → Falls + Slides + Flows + Creep
+
+[/EXAM FOCUS]
+
+### Slump vs Flow
+
+Slump: movement along a curved surface with rotational displacement.
+
+Flow: material loses internal coherence and behaves more like a viscous fluid.
+
+### Avalanches
+
+An avalanche is a rapid downslope movement of snow, ice and sometimes rock/debris.
+
+[FLOW]
+
+Snow accumulation → weak layer/trigger → slope failure → snow accelerates downslope → avalanche
+
+[/FLOW]
+
+Triggers can include:
+
+* Heavy snowfall
+
+* Rapid warming
+
+* Weak snow layers
+
+* Earthquakes
+
+* Wind loading
+
+* Human disturbance
+
+Gangotri Glacier avalanche events and Himalayan snow avalanches illustrate the hazard in India.
+
+### Landslides
+
+A landslide is a general term for downslope movement of rock, earth or debris. It can occur as a slide, fall, slump or flow.
+
+[FLOW]
+
+Heavy rain/earthquake/road cutting → slope strength decreases → shear stress exceeds resistance → slope failure → landslide
+
+[/FLOW]
+
+[TABLE]
+Himalayas | Western Ghats
+Young, tectonically active mountain system. | Older and comparatively stable mountain system.
+Steep slopes + active uplift + frequent earthquakes. | Steep escarpments and deeply weathered/lateritic slopes in many areas.
+Intense monsoon rainfall and cloudbursts. | Heavy monsoon rainfall.
+Road construction, hydropower and urbanisation can destabilise slopes. | Quarrying, road cutting, agriculture and settlement expansion can increase instability.
+[END TABLE]
+
+UPSC framing: Landslides result from the interaction of susceptibility + trigger + human modification.
+
+[EXAM FOCUS]
+
+Case studies: Kedarnath region, Chamoli/Uttarakhand; Nagaland and Northeast India; Konkan–Western Ghats landslides during intense monsoon rainfall.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Erosion and Transportation
+-------------------------------------------------------
+
+Erosion involves the detachment and removal of rock/soil, while transportation moves the material away from its source.
+
+[FLOW]
+
+Weathering → loose material → erosion → transportation → deposition
+
+[/FLOW]
+
+Major erosional agents are:
+
+[FLOW]
+
+Running water + Groundwater + Glaciers + Wind + Waves/Currents
+
+[/FLOW]
+
+### Running Water
+
+Running water is the most widespread erosional agent and produces extensive fluvial landforms.
+
+### Sheet Erosion
+
+A thin, relatively uniform layer of soil is removed by surface runoff.
+
+[FLOW]
+
+Rainfall → sheet runoff → uniform soil removal → soil depth decreases
+
+[/FLOW]
+
+### Rill Erosion
+
+Runoff concentrates into small channels called rills.
+
+### Gully Erosion
+
+Rills enlarge into deeper, wider channels called gullies.
+
+[FLOW]
+
+Sheet erosion → rill erosion → gully erosion → severe soil loss / badland development
+
+[/FLOW]
+
+Indian example: Chambal ravines are strongly associated with gully erosion and badland topography.
+
+### Corrosion / Solution
+
+Chemical dissolution of soluble rock by water, especially important in limestone terrain.
+
+### Hydraulic Action
+
+Moving water exerts pressure on rock surfaces, especially on cracks, joints and weak zones, accelerating erosion.
+
+### Abrasion / Corrasion
+
+Sediment carried by water, ice or wind strikes and scrapes the underlying surface.
+
+### Attrition
+
+Transported particles collide with one another, becoming smaller, smoother and more rounded.
+
+[EXAM FOCUS]
+
+Remember: Abrasion = agent rubs the surface | Attrition = particles rub each other
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Fluvial Landforms
+-------------------------------------------------------
+
+[FLOW]
+
+Upper course → youthful valley → waterfalls/gorges/V-shaped valleys → Middle course → meanders/floodplains → Lower course → deposition/deltas
+
+[/FLOW]
+
+### Upper Course
+
+High gradient and strong vertical erosion dominate.
+
+* V-shaped valleys
+
+* Interlocking spurs
+
+* Rapids
+
+* Waterfalls
+
+* Potholes
+
+* Gorges
+
+### V-shaped Valley
+
+Strong vertical erosion cuts downward into the valley floor, producing a narrow valley with steep sides.
+
+### Interlocking Spurs
+
+Resistant projections of higher land jut alternately into the river valley, forcing the river to wind around them.
+
+### Waterfalls
+
+Waterfalls occur where there is a sudden drop in the river's long profile.
+
+Causes include:
+
+* Differential erosion of hard and soft rocks
+
+* Faulting
+
+* Tectonic uplift
+
+* River rejuvenation
+
+[FLOW]
+
+Hard rock over soft rock → soft rock erodes faster → unsupported hard rock → plunge develops → waterfall retreats upstream → gorge
+
+[/FLOW]
+
+### Rapids
+
+Rapid turbulent flow occurs where the river gradient changes abruptly, commonly due to resistant rocks or uneven bed structure.
+
+### Potholes
+
+Cylindrical or bowl-shaped depressions formed in riverbeds through abrasion by swirling water and sediment.
+
+### Gorge and Canyon
+
+[TABLE]
+Gorge | Canyon
+Narrow, steep-sided valley. | Typically broader/deeper valley with prominent steep walls.
+Often associated with strong downcutting. | Can develop through prolonged erosion in arid/semi-arid settings.
+Example: Indus gorge in the Himalaya. | Grand Canyon, USA.
+[END TABLE]
+
+### Meanders
+
+A meander is a sinuous bend in a river channel.
+
+[FLOW]
+
+Faster flow on outer bend → lateral erosion → cut bank
+
+[/FLOW]
+
+[FLOW]
+
+Slower flow on inner bend → deposition → point bar
+
+[/FLOW]
+
+Hence:
+
+[FLOW]
+
+Concave bank → erosion | Convex bank → deposition
+
+[/FLOW]
+
+Meanders are especially characteristic of the middle and lower courses.
+
+### Interlocking to Meandering
+
+[FLOW]
+
+Upper course → steep gradient + vertical erosion → V-shaped valley → reduced gradient → lateral erosion increases → meanders develop
+
+[/FLOW]
+
+### Oxbow Lake
+
+[FLOW]
+
+Strongly curved meander → neck becomes narrow → erosion breaches neck → old loop cut off → oxbow lake
+
+[/FLOW]
+
+### Floodplain
+
+A floodplain is a relatively flat valley floor built mainly by repeated deposition during floods.
+
+It commonly contains:
+
+* Natural levees
+
+* Backswamps
+
+* Meander scars
+
+* Oxbow lakes
+
+* Point bars
+
+### Natural Levees
+
+Raised embankments along river banks formed when floodwaters overflow and deposit relatively coarse sediment close to the channel.
+
+[FLOW]
+
+Flood → river overtops bank → velocity falls → coarse sediment deposited near channel → natural levee
+
+[/FLOW]
+
+### Braided Channels
+
+Braided rivers have multiple interconnected channels separated by temporary or semi-permanent sediment bars.
+
+They are favoured by:
+
+* High sediment load
+
+* Variable discharge
+
+* Steep gradients
+
+* Weak, erodible banks
+
+### Alluvial Fans and Cones
+
+An alluvial fan is a fan-shaped depositional body formed where a stream emerges from a steep mountain valley onto a broad, flatter plain.
+
+[FLOW]
+
+Mountain valley → sudden decrease in slope → stream loses energy → coarse sediment deposited near apex → finer sediment outward → alluvial fan
+
+[/FLOW]
+
+An alluvial cone is generally steeper and more cone-like than a broad alluvial fan.
+
+Indian example: piedmont region at the foothills of the Shiwalik Himalayas.
+
+### River Terraces
+
+River terraces are step-like surfaces along valley sides representing remnants of former floodplains.
+
+[FLOW]
+
+Uplift / fall in base level / reduced sediment load → river rejuvenation → renewed downcutting → former floodplain abandoned as terrace
+
+[/FLOW]
+
+### Delta
+
+A delta is a depositional landform formed near the mouth of a river where sediment accumulates faster than it is removed by waves, tides and currents.
+
+### Conditions Favouring Delta Formation
+
+* Large sediment supply
+
+* Gentle offshore slope
+
+* Relatively shallow coastal water
+
+* Weak wave removal
+
+* Weak tidal redistribution
+
+* Stable coastline and sufficient accommodation space
+
+[FLOW]
+
+River enters sea → velocity falls sharply → sediment deposition → distributaries → delta growth
+
+[/FLOW]
+
+### Major Delta Types
+
+[TABLE]
+Type | Shape | Example
+Arcuate / Lobate | Curved, fan-like or arc-shaped. | Nile; Ganges-Brahmaputra is strongly tide-influenced but has extensive deltaic development.
+Bird-foot | Long distributaries project into the sea. | Mississippi.
+Cuspate | Pointed seaward. | Tiber Delta.
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC connection: Rivers draining the Western Ghats generally have short courses, steep gradients and limited sediment storage; many reach the sea before building large deltas, helping explain the contrast with major east-coast delta systems.
+
+[/EXAM FOCUS]
+
+### Estuary vs Delta
+
+[TABLE]
+Estuary | Delta
+River mouth is strongly influenced by tidal action and marine processes. | Sediment accumulation dominates.
+Usually funnel-shaped and relatively deep. | Commonly has distributaries and depositional plains.
+Example: Narmada, Tapi. | Example: Ganges-Brahmaputra, Mahanadi, Godavari, Krishna.
+[END TABLE]
+
+-------------------------------------------------------
+## Groundwater Landforms: Karst Topography
+-------------------------------------------------------
+
+Karst topography develops mainly on soluble rocks such as limestone through groundwater dissolution.
+
+[FLOW]
+
+Rainwater + CO₂ → weak carbonic acid → limestone dissolution → enlarged joints/underground channels → caves + sinkholes + karst landscape
+
+[/FLOW]
+
+### Erosional Groundwater Landforms
+
+[TABLE]
+Landform | Description
+Lapiés / Karren | Grooved, ridged limestone surface produced by solution.
+Sinkhole / Doline | Closed depression produced by dissolution and/or collapse.
+Solution hole | Hole enlarged through chemical dissolution.
+Swallow hole | Opening through which surface drainage disappears underground.
+Cave / Cavern | Underground void enlarged by dissolution.
+Natural bridge | Rock bridge left when surrounding soluble rock is dissolved.
+Karst valley | Valley system influenced strongly by solution and underground drainage.
+[END TABLE]
+
+### Depositional Groundwater Landforms
+
+[FLOW]
+
+Dissolution underground → groundwater becomes mineral-rich → pressure/temperature changes + CO₂ loss → CaCO₃ precipitates → cave deposits
+
+[/FLOW]
+
+[TABLE]
+Feature | Where it forms
+Stalactite | Hangs from cave roof.
+Stalagmite | Grows upward from cave floor.
+Column / Pillar | Forms when stalactite and stalagmite join.
+Drapery / Curtain | Sheet-like cave deposit.
+Flowstone | Sheet-like deposit formed by flowing/seeping water.
+Helictite | Irregular growth projecting sideways or in unusual directions.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: Stalactite = ceiling | Stalagmite = ground
+
+“Stalactite holds tight to the roof.”
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Wind as a Geomorphic Agent
+-------------------------------------------------------
+
+Wind is especially important in arid and semi-arid regions where vegetation is sparse and loose sediment is abundant.
+
+[FLOW]
+
+Strong winds → deflation + abrasion + transport → erosion → deposition where wind loses energy
+
+[/FLOW]
+
+### Wind Erosion Processes
+
+[TABLE]
+Process | Meaning
+Deflation | Removal and lifting of loose fine particles.
+Abrasion | Sand-laden wind mechanically wears down exposed rocks.
+Attrition | Wind-blown grains collide with one another and become smaller/rounder.
+[END TABLE]
+
+### Erosional Landforms of Wind
+
+* Deflation hollows / basins
+
+* Mushroom rocks / pedestal rocks
+
+* Inselbergs
+
+* Yardangs
+
+* Zeugen
+
+* Wind bridges and windows
+
+* Mesas and buttes in arid landscapes where differential erosion operates
+
+### Mushroom Rock
+
+Wind-driven sand is most effective near the ground, so the lower part of the rock is often eroded more strongly.
+
+[FLOW]
+
+Strong near-surface abrasion → lower rock erodes faster → narrow base + broader top → mushroom/pedestal rock
+
+[/FLOW]
+
+### Inselberg
+
+An inselberg is an isolated residual hill or mountain rising abruptly above a relatively level surrounding landscape.
+
+### Yardang
+
+Yardangs are elongated streamlined ridges separated by grooves, produced by wind abrasion and deflation.
+
+They are common in deserts where softer materials are removed faster than resistant layers.
+
+### Zeugen
+
+Zeugen develop through differential wind erosion where harder rock layers protect softer material beneath them.
+
+### Wind Bridges and Windows
+
+Wind abrasion can exploit joints and weak zones in rock, eventually producing openings and arches.
+
+### Loess
+
+Loess is a fine-grained, wind-blown deposit dominated largely by silt.
+
+* Extensive loess deposits are found in China and parts of Central Asia and Europe.
+
+* Loess soils can be highly fertile because of their mineral content.
+
+[EXAM FOCUS]
+
+Loess vs Dune: Loess = predominantly fine silt deposited by wind; dunes = mainly sand-sized particles shaped into mounds/ridges.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Sand Dunes
+-------------------------------------------------------
+
+Dunes are accumulations of sand formed by wind deposition.
+
+[FLOW]
+
+Wind transports sand → obstacle/roughness reduces wind speed → deposition → mound grows → dune migrates
+
+[/FLOW]
+
+Dunes may occur in deserts, coastal areas, riverine environments and near some lake shores.
+
+### Major Types of Sand Dunes
+
+[TABLE]
+Type | Key characteristics
+Barchan | Crescent-shaped; horns point downwind; develops where sand supply is limited and winds are relatively unidirectional.
+Transverse | Long ridges oriented broadly perpendicular to prevailing wind; abundant sand supply.
+Longitudinal / Seif | Long narrow ridges roughly parallel to prevailing wind; common under persistent wind regimes.
+Parabolic | U-shaped; horns generally point upwind, often stabilised by vegetation.
+Star | Multiple arms/ridges radiating from a central high point; develops where wind directions vary strongly.
+Reversing | Develops where winds blow from two dominant opposite directions.
+Dome | Rounded dune with limited slip-face development.
+Nebkha | Sand accumulated around vegetation such as shrubs or grasses.
+Whaleback | Long, elongated dune/ridge resembling the back of a whale.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important correction: The source material reverses the horn orientation of parabolic dunes. In the standard classification, barchan horns point downwind, whereas parabolic dune horns point upwind, usually because vegetation stabilises the arms.
+
+[/CLARIFICATION]
+
+[EXAM FOCUS]
+
+Mnemonic:
+
+Barchan → horns Blow Downwind
+
+Parabolic → plants hold horns Upwind
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Coastal / Sea-Water Landforms
+-------------------------------------------------------
+
+Coastal landscapes are shaped by the interaction of waves, tides, currents, wind and sediment supply.
+
+### Erosional Coastal Processes
+
+* Hydraulic action: wave pressure on cracks and joints.
+
+* Abrasion: rock fragments thrown against the coast by waves.
+
+* Attrition: sediment particles collide and become smaller/rounder.
+
+* Solution: chemical dissolution of susceptible rocks.
+
+[FLOW]
+
+Wave erosion → cracks enlarge → cave → arch → stack → stump
+
+[/FLOW]
+
+### Cliffs
+
+Sea cliffs are steep, often near-vertical coastal slopes produced mainly by marine erosion and subaerial weathering.
+
+### Wave-Cut Platform
+
+[FLOW]
+
+Wave erosion at cliff base → notch develops → cliff collapses → cliff retreats → flat rocky platform remains
+
+[/FLOW]
+
+Wave-cut platforms generally become wider as cliffs retreat.
+
+### Caves, Arches and Stacks
+
+[TABLE]
+Stage | Process
+Cave | Weakness/joint at headland enlarged by wave erosion.
+Arch | Cave cuts through a headland.
+Stack | Roof of arch collapses, leaving isolated rock pillar.
+Stump | Further erosion lowers the stack.
+[END TABLE]
+
+### Depositional Coastal Landforms
+
+### Beach
+
+A beach is an accumulation of sand, gravel, pebbles or shell fragments along the shoreline.
+
+### Spit
+
+A spit is a narrow elongated depositional feature extending from the coastline into a bay, estuary or other body of water.
+
+[FLOW]
+
+Longshore drift → sediment transported along coast → deposition beyond coastline change → spit grows
+
+[/FLOW]
+
+### Barrier Island
+
+A barrier island is an elongated sandbar parallel to the coast, often separating a lagoon or protected water body from the open sea.
+
+### Tombolo
+
+A tombolo is a depositional sand/gravel feature connecting an island to the mainland or another island.
+
+[EXAM FOCUS]
+
+Mnemonic: Spit = sticks out | Tombolo = ties two landmasses | Barrier = blocks/protects the coast
+
+[/EXAM FOCUS]
+
+### Lagoon
+
+A lagoon is a shallow water body separated from the open sea by a barrier island, sand bar, spit or reef structure.
+
+Indian examples: Chilika, Pulicat and Vembanad.
+
+### Estuary
+
+An estuary is a partly enclosed coastal water body where freshwater from rivers mixes with seawater.
+
+Estuaries are influenced strongly by tides, salinity gradients and sediment exchange.
+
+### Mudflats and Salt Marshes
+
+* Mudflats: flat areas of fine sediment exposed during low tide and submerged during high tide.
+
+* Salt marshes: coastal wetlands dominated by salt-tolerant vegetation, especially in temperate regions.
+
+### Coastal Erosion vs Deposition
+
+[TABLE]
+Dominant process | Typical features
+Erosion | Cliff, sea cave, arch, stack, wave-cut platform.
+Deposition | Beach, spit, bar, tombolo, barrier island, lagoon, mudflat, salt marsh.
+[END TABLE]
+
+-------------------------------------------------------
+## Glacial Processes and Landforms
+-------------------------------------------------------
+
+Glaciers are moving masses of ice that flow downslope under gravity.
+
+They presently cover roughly 10% of Earth's land area, while during the Pleistocene their extent was much greater.
+
+### Formation of Glacial Ice
+
+[FLOW]
+
+Snow accumulation > annual melting → compaction → granular firn/nevé → increasing pressure → dense glacial ice → glacier
+
+[/FLOW]
+
+Snowline is the approximate boundary above which snow remains year-round. It varies with latitude, temperature, precipitation and aspect.
+
+### Glacial Movement
+
+Glaciers move because of gravity through a combination of basal sliding and internal deformation.
+
+[FLOW]
+
+Gravity → basal sliding + internal deformation → glacier movement → erosion + transportation + deposition
+
+[/FLOW]
+
+### Types of Glacier Movement
+
+* Basal sliding: glacier slides over underlying bedrock.
+
+* Internal deformation: ice deforms and flows under stress.
+
+* Compression and extension: ice speeds up/slows down and develops crevasses.
+
+* Glacial surges: temporary periods of unusually rapid glacier advance.
+
+### Glacial Erosion
+
+[TABLE]
+Process | Meaning
+Plucking | Ice freezes onto bedrock blocks and pulls them away as the glacier moves.
+Abrasion | Rock fragments embedded in basal ice scrape and grind the bedrock.
+Freeze-thaw | Water freezes in cracks near glacial margins and weakens rock.
+Polishing | Fine debris smooths and polishes bedrock surfaces.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: PAPF → Plucking + Abrasion + Polishing + Freeze-thaw
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Erosional Landforms of Glaciers
+-------------------------------------------------------
+
+### U-Shaped Valley
+
+[FLOW]
+
+River valley (V-shaped) → glacier occupies valley → strong lateral + basal erosion → wide floor + steep sides → U-shaped glacial valley
+
+[/FLOW]
+
+### Hanging Valley
+
+A tributary glacial valley is left at a higher elevation than the main glacial valley because the main glacier erodes more deeply.
+
+This can produce waterfalls where the tributary valley meets the main valley.
+
+### Cirque / Corrie / Cwm
+
+A cirque is an amphitheatre-like, bowl-shaped depression at the head of a glacial valley.
+
+Important parts include the backwall, basin and threshold/sill.
+
+### Arête
+
+An arête is a sharp ridge separating two glacial valleys or cirques.
+
+[FLOW]
+
+Glaciers erode on both sides of a ridge → ridge becomes narrower → sharp knife-edge ridge → arête
+
+[/FLOW]
+
+### Horn / Pyramidal Peak
+
+[FLOW]
+
+Multiple cirques around a mountain → erosion from several sides → pyramidal peak → glacial horn
+
+[/FLOW]
+
+Example: Matterhorn, Alps.
+
+### Truncated Spur
+
+Glacial erosion truncates the projecting spurs that previously extended into a river valley.
+
+### Ribbon Lake
+
+Long, narrow lakes may develop in overdeepened parts of glacial valleys.
+
+### Crag and Tail
+
+A resistant rock obstacle creates a steep crag upstream and a gentler elongated tail downstream where glacial erosion and deposition interact.
+
+### Fjord
+
+A fjord is a deep, narrow, steep-sided glacial valley that has been submerged by the sea.
+
+[FLOW]
+
+Mountain glacier → U-shaped valley → glacial overdeepening → sea-level rise/land subsidence → seawater floods valley → fjord
+
+[/FLOW]
+
+Examples: Norway, New Zealand, Chile and Alaska.
+
+[EXAM FOCUS]
+
+UPSC 2023 Mains: UPSC asked directly about fjord formation and why fjords are among the most picturesque regions. The answer should connect glacial erosion + U-shaped valley + overdeepening + marine submergence.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Depositional Landforms of Glaciers
+-------------------------------------------------------
+
+Glaciers transport sediment ranging from clay-sized particles to huge boulders. When ice melts, the transported material is deposited as till.
+
+### Moraines
+
+[TABLE]
+Type | Location
+Lateral moraine | Along the sides of a glacier.
+Medial moraine | At the junction of two glaciers, formed by joining lateral moraines.
+Terminal moraine | At the glacier's maximum forward extent.
+Ground moraine | Till spread beneath or behind retreating glacier ice.
+[END TABLE]
+
+[FLOW]
+
+Two glaciers meet → lateral moraines merge → medial moraine forms
+
+[/FLOW]
+
+### Drumlins
+
+Drumlins are streamlined, elongated hills composed largely of glacial till.
+
+Their exact origin remains debated, but they are strongly associated with former glacial ice movement.
+
+### Eskers
+
+Eskers are long, sinuous ridges of sand and gravel deposited by meltwater streams flowing beneath or within glaciers.
+
+### Outwash Plains
+
+Outwash plains develop beyond terminal moraines where meltwater spreads sediment in front of the glacier.
+
+[FLOW]
+
+Glacier melts → meltwater flows outward → carrying capacity decreases → sand/gravel deposited → outwash plain
+
+[/FLOW]
+
+### Kettles and Kames
+
+* Kettle: depression produced by melting of buried/isolated ice blocks in glacial deposits.
+
+* Kame: mound or irregular deposit of sand/gravel formed by meltwater around stagnant/retreating ice.
+
+-------------------------------------------------------
+## Major Geomorphic Agents: Quick Comparison
+-------------------------------------------------------
+
+[TABLE]
+Agent | Dominant environment | Major erosional landforms | Major depositional landforms
+Running water | Most climates | V-valley, gorge, waterfall, pothole, canyon | Floodplain, alluvial fan, levee, delta, point bar
+Groundwater | Limestone/soluble-rock regions | Sinkhole, cave, karst valley, lapiés | Stalactite, stalagmite, column, flowstone
+Wind | Arid/semi-arid regions | Yardang, zeugen, deflation hollow, mushroom rock | Dunes, loess, sand sheets
+Glacier | High latitudes/high mountains | U-valley, cirque, arête, horn, hanging valley, fjord | Moraines, drumlins, eskers, outwash plains, kettles
+Waves | Coasts | Cliff, cave, arch, stack, wave-cut platform | Beach, spit, bar, tombolo, barrier island, lagoon
+[END TABLE]
+
+-------------------------------------------------------
+## Human Impact on Exogenetic Processes
+-------------------------------------------------------
+
+Human activities can significantly change the rate and direction of erosion, weathering, runoff and mass wasting.
+
+[TABLE]
+Human activity | Geomorphic effect
+Deforestation | Removes root binding and increases runoff and soil erosion.
+Agriculture | Overgrazing, excessive tillage and farming on steep slopes can increase erosion.
+Urbanisation | Changes drainage, increases impervious surfaces and can accelerate runoff.
+Mining/quarrying | Removes protective cover and creates unstable slopes.
+Road cutting | Steepens and weakens slopes, increasing landslide risk.
+Dams/reservoirs | Trap sediment upstream and alter downstream sediment flow and channel morphology.
+Climate change | Can alter rainfall intensity, glacier mass balance, permafrost stability and coastal erosion.
+[END TABLE]
+
+### Measures to Control Erosion and Slope Instability
+
+* Afforestation and vegetation restoration
+
+* Contour farming and contour bunding
+
+* Terracing on steep agricultural slopes
+
+* Check dams and gully plugs
+
+* Riparian vegetation buffers
+
+* Controlled drainage
+
+* Slope stabilisation and bio-engineering
+
+* Land-use zoning in landslide-prone regions
+
+* Sediment-control measures around construction and mining sites
+
+[FLOW]
+
+Identify hazard → map vulnerable slopes/coasts/rivers → regulate land use → strengthen natural barriers → monitor → early warning → mitigation
+
+[/FLOW]
+
+-------------------------------------------------------
+## Significance of Studying Exogenetic Processes
+-------------------------------------------------------
+
+[TABLE]
+Dimension | Importance
+Landscape evolution | Explains how mountains, valleys, plains, deserts and coasts evolve.
+Soil formation | Weathering provides mineral material for soil development.
+Agriculture | Landforms, soil depth and drainage influence agricultural suitability.
+Mineral concentration | Weathering and erosion can expose, redistribute and concentrate minerals.
+Water resources | River valleys, alluvial plains, aquifers and glacial systems are important water stores.
+Hazard assessment | Understanding processes helps identify landslide, flood, coastal erosion, avalanche and glacial hazards.
+Infrastructure | Geomorphic knowledge is essential for roads, dams, settlements, bridges and urban planning.
+Environmental management | Helps manage soil erosion, sedimentation, coastal degradation and watershed processes.
+[END TABLE]
+
+-------------------------------------------------------
+## UPSC PYQ Analysis
+-------------------------------------------------------
+
+[TABLE]
+Year | Paper | Theme tested | What to prepare from this chapter
+2013 | Mains GS-I | Why deltas are generally absent on the Western Ghats' rivers. | River gradient, short river courses, sediment supply, wave/tidal action, west-coast geomorphology.
+2013 | Geography Optional | Landslides and their greater occurrence in the Himalayas. | Slope, geology, tectonic activity, rainfall, human intervention.
+2014 | Mains GS-I | Weathering and mass wasting; geomorphic significance. | Definitions + classification + climate control + relationship with erosion and relief.
+2014 | Geography Optional | Meander and characteristics of entrenched/ingrown meanders. | Outer-bank erosion, inner-bank deposition, rejuvenation, incision and valley development.
+2015 | Geography Optional | Geomorphic processes from the zonal point of view and channel dynamics in formation of alluvial fans/cones. | Climate-controlled geomorphic regimes + gradient change + sediment load + deposition.
+2021 | Mains | Landslide differences between Himalayan and Western Ghats regions. | Comparative causation: geology + slope + rainfall + seismicity + land-use change.
+2023 | Mains GS-I | Formation of fjords and their distinctive scenery. | Glacial erosion + U-shaped valley + overdeepening + marine submergence.
+2024 | Prelims | Weathering and the role of rainfall, dissolved CO₂ and oxygen. | Chemical weathering mechanisms and statement-based conceptual questions.
+[END TABLE]
+
+UPSC pattern: The chapter is repeatedly tested through process–landform relationships, rather than isolated definitions. A strong preparation chain is:
+
+[FLOW]
+
+Geomorphic agent → process → direction/type of erosion or deposition → landform → climatic/tectonic setting → Indian/world example
+
+[/FLOW]
+
+-------------------------------------------------------
+## Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Confusion | Correct concept
+Weathering transports material. | Weathering is essentially in situ.
+Erosion means only wearing away. | Erosion involves detachment/removal; transportation is the subsequent movement.
+Mass wasting requires flowing water. | Its primary controlling force is gravity; water may act as an important trigger.
+Weathering is strongest everywhere in humid regions. | Type varies with climate; chemical weathering is favoured by warm, humid conditions.
+Mechanical weathering changes minerals chemically. | Mechanical weathering mainly changes size and shape.
+Carbonation is oxidation. | Carbonation involves carbonic acid and dissolution, especially of limestone.
+Hydrolysis means water simply dissolves rock. | Hydrolysis involves a chemical reaction of water with minerals.
+Attrition and abrasion are identical. | Abrasion = sediment wears the surface; attrition = particles collide with each other.
+Creep is rapid. | Creep is extremely slow.
+Slump is the same as any landslide. | Slump is a particular rotational slide along a curved surface.
+Waterfall always forms because of hard rock only. | Differential erosion is important, but faulting, uplift and rejuvenation can also create waterfalls.
+Meander erosion is strongest on the inner bank. | Outer/concave bank = erosion; inner/convex bank = deposition.
+Oxbow lake is formed by deposition only. | It results from erosion of the meander neck + eventual cut-off + deposition/sealing.
+Alluvial fan forms on very steep mountain slopes. | It forms where a stream emerges from a confined mountain valley onto a flatter area.
+Natural levees are artificially built embankments. | They are natural depositional ridges formed along river banks.
+All rivers form deltas. | Delta formation depends on sediment supply + wave/tide action + coastal conditions.
+Estuary and delta are the same. | Estuary = drowned/marine-influenced river mouth; delta = sedimentary accumulation.
+Groundwater caves form primarily by physical erosion. | Karst caves are strongly associated with chemical dissolution.
+Stalagmites hang from the roof. | Stalactites hang from the roof; stalagmites grow from the floor.
+Wind erosion is equally effective in humid forests. | Wind is especially important where vegetation is sparse, particularly arid/semi-arid environments.
+Barchan horns point upwind. | Barchan horns point downwind.
+Parabolic horns point downwind. | Parabolic horns point upwind.
+Longitudinal dunes lie perpendicular to wind. | They are broadly parallel to the prevailing wind.
+Loess is coarse sand. | Loess consists predominantly of fine wind-blown silt.
+Stack forms directly from a cliff. | Common sequence: cave → arch → stack → stump.
+Tombolo and spit are identical. | Spit projects into water; tombolo connects land to an island/another landmass.
+Fjord is a river-made drowned valley. | Fjord = glacially carved U-shaped valley later flooded by the sea.
+Glacier moves only by sliding. | Movement occurs through basal sliding + internal deformation.
+Plucking is the same as abrasion. | Plucking removes blocks; abrasion grinds/scrapes bedrock.
+Medial moraine occurs at the glacier's outer edge. | Medial moraine forms where two glaciers join, through merging lateral moraines.
+Drumlin is a depositional coastal feature. | Drumlin is a glacial landform.
+Esker is a mountain ridge formed by glacier ice itself. | Eskers are mainly meltwater-deposited ridges of sand and gravel.
+[END TABLE]
+
+-------------------------------------------------------
+## Short Revision Sheet
+-------------------------------------------------------
+
+Exogenic system:
+
+[FLOW]
+
+Weathering → Mass wasting → Erosion → Transportation → Deposition
+
+[/FLOW]
+
+Weathering: breakdown in situ
+
+Mechanical: thermal expansion + freeze-thaw + exfoliation + unloading + salt weathering
+
+Chemical: hydration + hydrolysis + oxidation + carbonation + solution + chelation
+
+Biological: roots + burrowing + microorganisms + organic acids
+
+[FLOW]
+
+Hot + humid → chemical weathering
+
+[/FLOW]
+
+[FLOW]
+
+Hot + dry / cold environments → mechanical weathering becomes important
+
+[/FLOW]
+
+Mass wasting: gravity-driven downslope movement.
+
+[FLOW]
+
+Fall → Slide → Flow → Creep
+
+[/FLOW]
+
+River sequence:
+
+[FLOW]
+
+Upper course → V-valley + interlocking spurs + waterfall + gorge
+
+[/FLOW]
+
+[FLOW]
+
+Middle course → meanders + point bars
+
+[/FLOW]
+
+[FLOW]
+
+Lower course → floodplain + levees + oxbow lakes + delta
+
+[/FLOW]
+
+Meander: outer bank = erosion | inner bank = deposition
+
+[FLOW]
+
+Meander neck narrows → cut-off → oxbow lake
+
+[/FLOW]
+
+[FLOW]
+
+Mountain stream emerges onto plain → velocity falls → alluvial fan/cone
+
+[/FLOW]
+
+[FLOW]
+
+River enters sea → velocity falls → sediment deposited → distributaries → delta
+
+[/FLOW]
+
+Karst:
+
+[FLOW]
+
+CO₂ + water → carbonic acid → limestone dissolution → caves + sinkholes + lapiés
+
+[/FLOW]
+
+Cave deposits: Stalactite = roof | Stalagmite = floor | Column = both join
+
+Wind erosion: deflation + abrasion + attrition.
+
+Wind landforms: mushroom rock + yardang + zeugen + inselberg + wind bridge/window.
+
+Wind deposition: loess + dunes.
+
+[FLOW]
+
+Barchan → crescent → horns downwind
+
+[/FLOW]
+
+[FLOW]
+
+Parabolic → U-shaped → horns upwind
+
+[/FLOW]
+
+[FLOW]
+
+Transverse → perpendicular to wind
+
+[/FLOW]
+
+[FLOW]
+
+Longitudinal/Seif → parallel to wind
+
+[/FLOW]
+
+Coastal erosion:
+
+[FLOW]
+
+Cave → Arch → Stack → Stump
+
+[/FLOW]
+
+[FLOW]
+
+Cliff retreats → wave-cut platform develops
+
+[/FLOW]
+
+Coastal deposition: beach + spit + bar + tombolo + barrier island + lagoon + mudflat + salt marsh.
+
+Glacial erosion:
+
+[FLOW]
+
+Plucking + abrasion → U-shaped valley + cirque + arête + horn + hanging valley + fjord
+
+[/FLOW]
+
+Glacial deposition:
+
+[FLOW]
+
+Till → lateral + medial + terminal + ground moraines
+
+[/FLOW]
+
+[FLOW]
+
+Meltwater → outwash plain + esker
+
+[/FLOW]
+
+[FLOW]
+
+Glacial deposits + stagnant ice → kettle
+
+[/FLOW]
+
+Glacial movement: basal sliding + internal deformation.
+
+Human impact:
+
+[FLOW]
+
+Deforestation + agriculture + mining + road cutting + urbanisation → increased runoff/slope instability → erosion + landslides
+
+[/FLOW]
+
+Master UPSC chain:
+
+[FLOW]
+
+Agent → Process → Erosion/Transport/Deposition → Landform → Environmental impact → Human significance
+
+[/FLOW]

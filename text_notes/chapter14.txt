@@ -1,0 +1,991 @@
+=======================================================
+# Chapter 14 — Insolation & Heat Balance
+=======================================================
+
+-------------------------------------------------------
+## Energy, Heat and Temperature
+-------------------------------------------------------
+
+Energy is the capacity to do work. It exists in many forms such as kinetic, potential, electrical, chemical and thermal energy. Energy can be transformed from one form to another, but cannot be created or destroyed according to the law of conservation of energy.
+
+Temperature is a measure of the average kinetic energy of particles in a substance.
+
+Heat is energy transferred between bodies because of a temperature difference.
+
+[TABLE]
+Heat | Temperature
+Energy transferred because of a temperature difference. | Measure of the average kinetic energy of particles.
+Measured in joules, calories, etc. | Measured in °C, °F or K.
+Depends on amount of substance as well as temperature. | Does not directly represent total thermal energy.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Remember: Heat flows naturally from a higher-temperature body → lower-temperature body.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Heat Transfer
+-------------------------------------------------------
+
+Heat is transferred through conduction, convection and radiation. Advection is also important in geographical heat transport.
+
+[TABLE]
+Mechanism | Meaning | Example
+Conduction | Transfer of heat through direct molecular contact. | Ground warming the air immediately above it.
+Convection | Vertical transfer of heat through movement of a fluid. | Warm air rising and cool air sinking.
+Advection | Horizontal transfer of heat by moving air or water. | Warm ocean current transporting heat poleward.
+Radiation | Transfer of energy through electromagnetic waves; no material medium is required. | Solar energy reaching Earth.
+[END TABLE]
+
+Mnemonic: CCR + A
+
+Conduction = Contact
+
+Convection = Vertical
+
+Radiation = Rays
+
+Advection = Across/Horizontally
+
+### Sensible and Latent Heat
+
+Sensible heat: Heat transfer that changes temperature without changing the physical state of a substance.
+
+Latent heat: Energy absorbed or released during a change of state without a corresponding change in temperature.
+
+[FLOW]
+
+Evaporation → absorbs latent heat
+
+[/FLOW]
+
+[FLOW]
+
+Condensation → releases latent heat
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Atmospheric importance: Evaporation stores energy as latent heat; condensation releases that energy and contributes strongly to atmospheric convection and storm development.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Earth–Sun Relationship
+-------------------------------------------------------
+
+Earth receives energy from the Sun primarily in the form of electromagnetic radiation. This incoming energy drives Earth's climate system, weather, hydrological cycle and biological processes.
+
+### Earth's Axial Tilt
+
+* Earth's axis is tilted by approximately 23.44° from the perpendicular to the plane of its orbit.
+
+* Equivalently, the Earth's axis makes an angle of about 66.56° with the plane of the ecliptic.
+
+* The axial tilt is a major cause of seasons and changing solar altitude/day length.
+
+Mnemonic: 23.5° = Tilt → Seasons.
+
+### Earth's Rotation and Revolution
+
+[TABLE]
+Movement | Main significance
+Rotation | Causes day and night and produces apparent daily movement of the Sun.
+Revolution | Earth's annual orbital movement, combined with axial tilt, produces seasonal changes.
+[END TABLE]
+
+Earth completes one revolution relative to the seasonal cycle in approximately 365.24 days.
+
+The sidereal year is approximately 365.256 days, whereas the tropical year is approximately 365.242 days.
+
+### Perihelion and Aphelion
+
+* Perihelion: Earth is closest to the Sun, around early January.
+
+* Aphelion: Earth is farthest from the Sun, around early July.
+
+* Because of the elliptical orbit, incoming solar energy varies over the year.
+
+* However, seasons are primarily caused by axial tilt, not Earth–Sun distance.
+
+The solar-energy difference between perihelion and aphelion is significant but secondary compared with the effect of axial tilt on seasonal insolation.
+
+[EXAM FOCUS]
+
+Classic UPSC trap: Northern Hemisphere summer does not occur because Earth is closest to the Sun. In fact, Earth is near aphelion during Northern Hemisphere summer.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Insolation
+-------------------------------------------------------
+
+Insolation = Incoming Solar Radiation received by Earth.
+
+Most incoming solar radiation is in relatively short wavelengths.
+
+Solar radiation includes ultraviolet, visible and infrared components, with a large proportion concentrated in the visible and near-infrared portions of the spectrum.
+
+### Solar Constant
+
+The solar constant is the mean solar irradiance received at the top of Earth's atmosphere on a surface perpendicular to the Sun's rays at the mean Earth–Sun distance.
+
+Approximate value: 1361 W/m².
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: Older textbooks frequently use ~1367 W/m². The currently accepted approximate total solar irradiance is about 1361 W/m².
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Factors Affecting Insolation
+-------------------------------------------------------
+
+The amount of insolation received at a place depends mainly on:
+
+[TABLE]
+Factor | Effect
+Latitude | Solar angle generally becomes lower with increasing latitude, reducing energy received per unit area.
+Angle of incidence | Near-perpendicular rays concentrate energy on a smaller area; oblique rays spread the same energy over a larger area.
+Duration of sunshine | Longer daylight generally allows greater daily receipt of solar energy.
+Earth–Sun distance | Insolation is slightly greater near perihelion and lower near aphelion.
+Atmospheric transparency | Clouds, dust, gases and aerosols may absorb, scatter or reflect solar radiation.
+Surface characteristics | Albedo determines the fraction reflected rather than absorbed.
+[END TABLE]
+
+Mnemonic: LADASA
+
+Latitude + Angle + Duration + Air/Atmosphere + Sun distance + Albedo.
+
+### Angle of Incidence
+
+When solar rays strike the surface nearly vertically, energy is concentrated over a smaller area and the intensity of insolation is higher.
+
+When rays are oblique, the same energy is spread over a larger surface area and passes through a greater thickness of atmosphere.
+
+[FLOW]
+
+Vertical rays → smaller area → greater intensity
+
+[/FLOW]
+
+[FLOW]
+
+Oblique rays → larger area + longer atmospheric path → lower intensity
+
+[/FLOW]
+
+-------------------------------------------------------
+## Why Does the Equator Not Always Have the Highest Surface Temperature?
+-------------------------------------------------------
+
+The equatorial region receives strong solar radiation, but maximum surface temperatures are often found in the subtropical desert belts rather than exactly at the Equator.
+
+Major reasons include:
+
+* Persistent equatorial cloud cover reflects part of incoming radiation.
+
+* Strong convection transports heat upward.
+
+* Heavy rainfall and evaporation consume substantial energy.
+
+* Subtropical high-pressure belts have generally clearer skies and descending dry air.
+
+[EXAM FOCUS]
+
+Concept: Maximum insolation, maximum surface temperature and maximum mean annual temperature need not occur at exactly the same latitude.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Seasons
+-------------------------------------------------------
+
+The changing seasons are primarily caused by:
+
+[FLOW]
+
+Earth's axial tilt + revolution around the Sun → changing solar angle + changing day length → seasons
+
+[/FLOW]
+
+Not the cause: changing Earth–Sun distance is not the principal reason for seasons.
+
+### Solstices and Equinoxes
+
+[TABLE]
+Event | Approx. date | Sun overhead | NH | SH
+March Equinox | 20/21 March | Equator | Spring begins astronomically | Autumn begins astronomically
+June Solstice | 20/21 June | Tropic of Cancer | Summer | Winter
+September Equinox | 22/23 September | Equator | Autumn begins astronomically | Spring begins astronomically
+December Solstice | 21/22 December | Tropic of Capricorn | Winter | Summer
+[END TABLE]
+
+Mnemonic:
+
+[FLOW]
+
+MARCH = Middle (Equator)
+JUNE = Cancer
+SEPTEMBER = Middle (Equator)
+DECEMBER = Capricorn
+
+[/FLOW]
+
+Season mnemonic for Northern Hemisphere:
+
+[FLOW]
+
+J → Summer → North tilted toward Sun
+D → Winter → North tilted away from Sun
+
+[/FLOW]
+
+### Solstice Logic
+
+* During the June solstice, Northern Hemisphere receives more direct rays and has longer days.
+
+* During the December solstice, Southern Hemisphere receives more direct rays and has longer days.
+
+* At the equinoxes, the Sun is overhead near the Equator and day/night are approximately equal worldwide.
+
+Important: Day and night are not exactly 12 hours everywhere on the equinox because of atmospheric refraction and the finite angular size of the Sun.
+
+### Day Length
+
+[FLOW]
+
+Poleward → seasonal variation in daylight increases
+
+[/FLOW]
+
+At the poles, summer may experience approximately 24-hour daylight, while winter may experience approximately 24-hour darkness.
+
+### Midnight Sun
+
+The midnight sun is the phenomenon in which the Sun remains above the horizon at midnight.
+
+It occurs within the Arctic Circle and Antarctic Circle during their respective summer periods.
+
+[EXAM FOCUS]
+
+June: Midnight sun in the Arctic region.
+
+December: Midnight sun in the Antarctic region.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Heat Balance / Heat Budget of the Earth
+-------------------------------------------------------
+
+The heat budget refers to the balance between incoming solar radiation and outgoing terrestrial radiation over sufficiently long periods.
+
+[FLOW]
+
+Incoming solar radiation ≈ Outgoing terrestrial radiation → long-term thermal balance
+
+[/FLOW]
+
+Earth's climate system does not have an identical energy balance at every location. There are regional surpluses and deficits, which are redistributed by atmospheric circulation and ocean currents.
+
+### Classic 100-Unit Heat Budget
+
+For UPSC revision, the classical NCERT-style budget can be remembered as follows:
+
+[TABLE]
+Process | Approx. units
+Incoming solar radiation | 100
+Reflected back to space | 35
+Absorbed by Earth–atmosphere system | 65
+Absorbed by atmosphere/clouds | 14
+Absorbed by Earth's surface | 51
+Surface long-wave radiation absorbed by atmosphere | 34
+Surface radiation escaping directly to space | 17
+Atmosphere radiated to space | 48
+[END TABLE]
+
+Check:
+
+[FLOW]
+
+35 reflected + 65 retained/absorbed = 100
+
+[/FLOW]
+
+[FLOW]
+
+17 direct from surface + 48 from atmosphere = 65 outgoing
+
+[/FLOW]
+
+Heat Budget mnemonic: “35 – 65 / 14 – 51 / 34 – 17 / 48”
+
+Think:
+
+[FLOW]
+
+100 in → 35 reflected → 65 absorbed
+65 = 14 atmosphere + 51 surface
+51 = 34 absorbed by atmosphere + 17 escapes directly
+Atmosphere sends 48 to space
+
+[/FLOW]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important: These values are a classical teaching model used for conceptual understanding, not a statement that Earth's real energy budget consists of permanently fixed whole-number percentages.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Shortwave and Longwave Radiation
+-------------------------------------------------------
+
+[TABLE]
+Feature | Shortwave Radiation | Longwave Radiation
+Source | Mainly Sun | Mainly Earth and atmosphere
+Wavelength | Relatively short | Relatively long
+Nature | Mainly UV, visible and near-infrared solar energy | Terrestrial infrared radiation
+Atmospheric interaction | Atmosphere is comparatively transparent to much of it | Strongly absorbed by greenhouse gases and clouds at particular wavelengths
+Main role | Provides incoming solar energy | Earth's mechanism for losing heat to space
+[END TABLE]
+
+Memory trick:
+
+[FLOW]
+
+SUN → SHORTWAVE IN
+EARTH → LONGWAVE OUT
+
+[/FLOW]
+
+-------------------------------------------------------
+## Transmission, Absorption, Reflection and Scattering
+-------------------------------------------------------
+
+### Transmission
+
+Transmission occurs when radiation passes through the atmosphere or another medium without being significantly absorbed or reflected.
+
+### Absorption
+
+Atmospheric gases and clouds absorb particular wavelengths of radiation.
+
+Important absorbers include:
+
+* Water vapour
+
+* Carbon dioxide
+
+* Ozone
+
+* Clouds and aerosols for particular portions of the spectrum
+
+### Reflection
+
+Radiation is sent back without being absorbed.
+
+Clouds, snow, ice and some land surfaces have relatively high reflectivity.
+
+### Scattering
+
+Scattering redirects radiation in different directions because of interaction with atmospheric molecules and particles.
+
+Rayleigh scattering: scattering by molecules much smaller than the wavelength of visible light; shorter wavelengths are scattered more strongly.
+
+[FLOW]
+
+Blue/violet wavelengths → stronger scattering
+Red wavelengths → comparatively weaker scattering
+
+[/FLOW]
+
+-------------------------------------------------------
+## Albedo
+-------------------------------------------------------
+
+Albedo is the fraction of incoming solar radiation reflected by a surface.
+
+[FLOW]
+
+Albedo = Reflected solar radiation / Incoming solar radiation
+
+[/FLOW]
+
+* High albedo → more reflection → less absorption.
+
+* Low albedo → less reflection → greater absorption.
+
+[TABLE]
+Surface | General albedo tendency
+Fresh snow | Very high
+Ice | High to moderate, depending on condition
+Desert/sandy surfaces | Moderate to high
+Vegetation | Generally lower
+Dark ocean surface | Generally low, especially when the Sun is high
+[END TABLE]
+
+Mnemonic: WHITE → REFLECTS; DARK → ABSORBS.
+
+### Albedo and Climate
+
+[FLOW]
+
+Ice melts → darker surface exposed → more solar absorption → warming → more melting
+
+[/FLOW]
+
+This is a positive feedback known as the ice–albedo feedback.
+
+-------------------------------------------------------
+## Atmospheric Windows
+-------------------------------------------------------
+
+An atmospheric window is a wavelength region through which radiation can pass relatively efficiently through the atmosphere.
+
+[TABLE]
+Radiation | Atmospheric behaviour
+Much visible sunlight | Passes relatively efficiently through the atmosphere under clear conditions.
+Some infrared wavelengths | Relatively transparent and form important atmospheric windows.
+Other infrared wavelengths | Absorbed strongly by greenhouse gases and water vapour.
+[END TABLE]
+
+An important terrestrial infrared atmospheric window is approximately the 8–14 μm region, although atmospheric transmission varies with water vapour and other conditions.
+
+-------------------------------------------------------
+## Greenhouse Effect
+-------------------------------------------------------
+
+The natural greenhouse effect is the process through which certain atmospheric gases absorb and re-emit part of Earth's outgoing long-wave radiation, helping keep the surface warmer than it would otherwise be.
+
+[FLOW]
+
+Solar shortwave enters → surface absorbs → surface emits longwave → greenhouse gases absorb → re-radiation → warming of lower atmosphere/surface
+
+[/FLOW]
+
+### Major Greenhouse Gases
+
+[TABLE]
+Gas | Important source/role
+Water vapour | Most important natural greenhouse gas; concentration responds strongly to temperature.
+CO2 | Fossil fuels, deforestation, cement production; major anthropogenic forcing agent.
+CH4 | Wetlands, livestock, rice cultivation, fossil-fuel systems and waste.
+N2O | Agriculture and industrial processes.
+O3 | Greenhouse effect varies by atmospheric layer; stratospheric ozone also absorbs UV radiation.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Do not confuse:
+
+Natural greenhouse effect makes Earth habitable.
+
+Enhanced greenhouse effect results from increased concentrations of greenhouse gases, contributing to modern global warming.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Why the Atmosphere is Heated Mainly from Below
+-------------------------------------------------------
+
+The atmosphere absorbs only part of incoming solar radiation directly. A large fraction reaches Earth's surface, which absorbs the energy and emits long-wave terrestrial radiation.
+
+[FLOW]
+
+Sun → shortwave → Earth surface → longwave → atmosphere → atmospheric heating
+
+[/FLOW]
+
+Additional heat reaches the atmosphere through convection, conduction, latent heat release and absorption of solar radiation.
+
+[EXAM FOCUS]
+
+UPSC Concept: In the lower atmosphere, the Earth's surface is the dominant immediate source of heating. Therefore, the troposphere is said to be heated from below.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Variation of Insolation Over Earth's Surface
+-------------------------------------------------------
+
+### Latitudinal Heat Balance
+
+Because solar angle and day length vary by latitude, different regions receive different amounts of net radiation.
+
+[FLOW]
+
+Low latitudes → greater annual radiation surplus
+Mid-latitudes → transition
+High latitudes → radiation deficit
+
+[/FLOW]
+
+In the classical geographical framework, a broad belt of net radiation surplus extends roughly from 40°N to 40°S, while higher latitudes generally experience a deficit.
+
+This imbalance drives the need for poleward heat transport through:
+
+* Atmospheric circulation
+
+* Ocean currents
+
+[FLOW]
+
+Equatorial/tropical surplus → atmospheric + oceanic transport → higher latitudes → global heat redistribution
+
+[/FLOW]
+
+-------------------------------------------------------
+## Heat Surplus and Heat Deficit Regions
+-------------------------------------------------------
+
+### Heat Surplus
+
+* Generally found at low latitudes.
+
+* Solar radiation received exceeds energy lost over longer periods.
+
+* Strong evaporation and convection redistribute part of the surplus.
+
+### Heat Deficit
+
+* Generally found at high latitudes.
+
+* Low solar angles and seasonal darkness reduce incoming energy.
+
+* Energy loss can exceed incoming radiation.
+
+-------------------------------------------------------
+## Land and Water Heating
+-------------------------------------------------------
+
+Land and water respond differently to incoming solar energy.
+
+[TABLE]
+Land | Water
+Heats and cools relatively rapidly. | Heats and cools relatively slowly.
+Lower effective heat storage compared with deep water bodies. | High heat capacity and mixing allow greater heat storage.
+Large daily and annual temperature range. | Smaller temperature range.
+Strongly influences continental climates. | Moderates coastal climates.
+[END TABLE]
+
+Mnemonic: Land = Fast; Water = Slow.
+
+-------------------------------------------------------
+## Seasonal Insolation and Surface Conditions
+-------------------------------------------------------
+
+### Dry vs Moist Surfaces
+
+* Dry conditions can permit strong daytime heating under clear skies.
+
+* Moist conditions support evaporation, transferring energy into latent heat.
+
+* Clouds can reduce incoming shortwave radiation but can also reduce nighttime cooling by absorbing/re-emitting longwave radiation.
+
+### Clouds and Heat Budget
+
+[TABLE]
+Day | Night
+Clouds may reflect incoming solar radiation and produce a cooling tendency. | Clouds absorb/re-emit outgoing longwave radiation and can reduce radiative cooling.
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC example: Dew formation is generally favoured on clear nights because the surface can lose heat rapidly through outgoing longwave radiation. Cloudy nights reduce this radiative cooling.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Aspect, Slope and Insolation
+-------------------------------------------------------
+
+Aspect means the direction in which a slope faces.
+
+In the Northern Hemisphere:
+
+* South-facing slopes generally receive more direct sunlight and tend to be warmer.
+
+* North-facing slopes generally receive less direct sunlight and tend to be cooler.
+
+This can affect:
+
+* Snow persistence
+
+* Soil moisture
+
+* Vegetation
+
+* Agriculture
+
+* Local microclimates
+
+[EXAM FOCUS]
+
+Important: The reverse tendency generally applies in the Southern Hemisphere.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Greenhouse Effect vs Heat Budget
+-------------------------------------------------------
+
+[TABLE]
+Greenhouse Effect | Heat Budget
+Mechanism of absorption and re-emission of longwave radiation by gases/clouds. | Overall accounting of incoming and outgoing energy.
+Helps determine Earth's surface temperature. | Describes Earth's thermal equilibrium and regional energy surplus/deficit.
+Main gases include H2O, CO2, CH4 etc. | Includes reflection, absorption, terrestrial radiation and energy transfer.
+[END TABLE]
+
+-------------------------------------------------------
+## Heat Islands and Urban Energy Balance
+-------------------------------------------------------
+
+The Urban Heat Island (UHI) effect refers to the tendency of urban areas to be warmer than surrounding rural areas.
+
+### Major Causes
+
+* Concrete and asphalt absorb and store heat.
+
+* Reduced vegetation reduces evapotranspiration.
+
+* Buildings reduce wind flow and alter radiation exchange.
+
+* Anthropogenic heat from vehicles, buildings and industries adds energy.
+
+* Urban geometry can trap radiation.
+
+[FLOW]
+
+Concrete/asphalt ↑ + vegetation ↓ + anthropogenic heat ↑ → urban heat storage ↑ → UHI
+
+[/FLOW]
+
+Mitigation: urban vegetation, reflective/cool roofs, permeable surfaces, improved ventilation corridors and reduced anthropogenic heat.
+
+-------------------------------------------------------
+## Heat Waves in India
+-------------------------------------------------------
+
+A heat wave is a period of unusually hot weather whose significance depends on local climatic conditions and duration.
+
+### IMD Criteria — High-Yield Fact
+
+[TABLE]
+Condition | Criterion
+Plains | Heat-wave consideration begins when maximum temperature reaches at least 40°C.
+Hilly regions | Threshold is at least 30°C.
+Departure from normal | 4.5–6.4°C = Heat Wave; >6.4°C = Severe Heat Wave.
+Actual maximum temperature | ≥45°C = Heat Wave; ≥47°C = Severe Heat Wave.
+Coastal areas | Heat wave may be described when maximum temperature is at least 37°C and departure from normal is at least 4.5°C.
+[END TABLE]
+
+For the relevant absolute/departure criteria, IMD uses a combination of temperature thresholds and departures from normal; the operational declaration also involves spatial and persistence requirements.
+
+### Why Heat Waves Occur in India
+
+* Strong pre-monsoon solar heating.
+
+* Persistent clear skies.
+
+* Hot and dry continental air masses.
+
+* Subsidence under high-pressure conditions.
+
+* Hot winds from arid/semi-arid regions.
+
+* Dry soils reduce evaporative cooling.
+
+* Urbanisation amplifies local warming through the urban heat island effect.
+
+[FLOW]
+
+Strong solar heating + dry air + clear sky + weak evaporative cooling → heat-wave conditions
+
+[/FLOW]
+
+### Heat Wave Impacts
+
+[TABLE]
+Sector | Impact
+Health | Heat exhaustion, heat stroke, dehydration and increased mortality risk.
+Agriculture | Crop stress, yield losses, livestock stress and increased irrigation demand.
+Water | Higher evaporation and greater demand for water.
+Energy | Higher cooling demand and pressure on electricity systems.
+Urban systems | Higher indoor temperatures and greater exposure of vulnerable populations.
+[END TABLE]
+
+### Heat-Action Approach
+
+[FLOW]
+
+Early warning → Public awareness → Cooling measures → Health preparedness → Targeted support → Post-event assessment
+
+[/FLOW]
+
+Heat-health warning systems and Heat Action Plans are examples of adaptation measures used to reduce risks from extreme heat. WMO emphasises that heat-wave definitions depend on local climatic conditions rather than a single universal temperature threshold.
+
+-------------------------------------------------------
+## Climate Change and Earth's Energy Budget
+-------------------------------------------------------
+
+Climate change can occur when factors alter the balance between energy received by Earth and energy emitted back to space.
+
+### Climate Forcing
+
+A climate forcing is a factor that changes the Earth's radiative energy balance.
+
+[TABLE]
+Natural forcing | Human-related forcing
+Changes in solar activity | Increasing greenhouse-gas concentrations
+Volcanic eruptions | Anthropogenic aerosols
+Orbital variations over very long timescales | Land-use change
+[END TABLE]
+
+### Positive and Negative Energy Imbalance
+
+[FLOW]
+
+Incoming energy > outgoing energy → positive imbalance → warming
+
+[/FLOW]
+
+[FLOW]
+
+Outgoing energy > incoming energy → negative imbalance → cooling
+
+[/FLOW]
+
+-------------------------------------------------------
+## Ice–Albedo Feedback
+-------------------------------------------------------
+
+[FLOW]
+
+Warming → ice/snow melt → albedo decreases → more solar absorption → further warming
+
+[/FLOW]
+
+This is a classic example of a positive climate feedback.
+
+-------------------------------------------------------
+## Oceanic Role in Heat Redistribution
+-------------------------------------------------------
+
+Oceans absorb and store enormous quantities of solar energy and redistribute heat through ocean currents.
+
+[FLOW]
+
+Tropical surplus → warm currents → poleward heat transport
+
+[/FLOW]
+
+Cold currents transport relatively cooler water toward lower latitudes and can moderate coastal climates.
+
+-------------------------------------------------------
+## Atmospheric Circulation and Heat Redistribution
+-------------------------------------------------------
+
+The unequal distribution of heating between low and high latitudes creates pressure and temperature differences that contribute to large-scale atmospheric circulation.
+
+[FLOW]
+
+Unequal heating → pressure differences → winds → poleward/equatorward heat transport
+
+[/FLOW]
+
+Ocean currents provide another major mechanism for redistributing heat.
+
+[EXAM FOCUS]
+
+Core geographical relationship:
+
+Heat imbalance → atmospheric circulation + ocean circulation → redistribution of heat → global climate system.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## UPSC PYQ Analysis — Chapter 14
+-------------------------------------------------------
+
+[TABLE]
+Year | PYQ theme | What UPSC tested
+2013 Prelims | Solar radiation / atmosphere / temperature | Relationship between insolation, atmospheric absorption and temperature distribution.
+2013 Prelims | Atmospheric optical phenomena | Atmospheric refraction and optical effects.
+2013 Mains | Urban Heat Islands | Human modification of local energy balance and causes of urban warming.
+2015 Mains | Heat budget | Heat budget and anthropogenic disruption of the balance.
+2019 Prelims | Clouds and terrestrial radiation | Effect of clouds on outgoing longwave radiation and surface cooling.
+2024 Prelims | Water vapour | Vertical and latitudinal variation of atmospheric moisture.
+2024 Prelims | Atmospheric heating | Whether atmosphere is heated mainly through direct solar radiation or terrestrial radiation.
+2025 Prelims | Greenhouse effect | Atmosphere's role in retaining heat and maintaining Earth's average temperature.
+[END TABLE]
+
+PYQ trend: UPSC repeatedly converts apparently simple facts into conceptual statement questions. The recurring chain is:
+
+[FLOW]
+
+Insolation → atmospheric interaction → terrestrial radiation → greenhouse effect → heat budget → temperature → climate
+
+[/FLOW]
+
+### What UPSC is Most Likely to Mix Up
+
+[TABLE]
+UPSC Trap | Correct Concept
+Seasons caused by Earth–Sun distance | Axial tilt + revolution are the principal causes.
+Atmosphere heated mainly directly by Sun | Lower atmosphere is heated mainly from below by terrestrial radiation, supplemented by convection, conduction, latent heat and direct absorption.
+Maximum water vapour at poles | Water vapour generally decreases toward the poles and with altitude.
+High albedo = high absorption | High albedo = high reflection.
+Clouds always cool Earth | Daytime reflection may cool; longwave absorption/re-emission may produce warming, especially at night.
+Greenhouse effect = global warming | Natural greenhouse effect is essential; enhancement of the greenhouse effect contributes to modern warming.
+Perihelion causes Northern summer | Northern summer occurs mainly because the Northern Hemisphere is tilted toward the Sun.
+Ionosphere = one atmospheric temperature layer | Ionosphere is an ionisation-based region overlapping several temperature layers.
+[END TABLE]
+
+-------------------------------------------------------
+## Mnemonics for Rapid Revision
+-------------------------------------------------------
+
+### 1. Factors of Insolation
+
+[FLOW]
+
+LADASA
+L = Latitude
+A = Angle of incidence
+D = Duration of sunshine
+A = Atmospheric condition
+S = Sun–Earth distance
+A = Albedo
+
+[/FLOW]
+
+### 2. Heat Transfer
+
+[FLOW]
+
+CCR + A
+Conduction = Contact
+Convection = Vertical
+Radiation = Rays
+Advection = Across/Horizontal
+
+[/FLOW]
+
+### 3. Seasons
+
+[FLOW]
+
+JUNE → CANCER → NORTH SUMMER
+DECEMBER → CAPRICORN → NORTH WINTER
+MARCH/SEPTEMBER → EQUATOR → EQUINOX
+
+[/FLOW]
+
+### 4. Radiation
+
+[FLOW]
+
+SUN = SHORTWAVE
+EARTH = LONGWAVE
+
+[/FLOW]
+
+### 5. Albedo
+
+[FLOW]
+
+WHITE → REFLECT
+DARK → ABSORB
+
+[/FLOW]
+
+### 6. Heat Budget
+
+[FLOW]
+
+100 → 35 reflected → 65 absorbed
+65 → 14 atmosphere + 51 surface
+51 → 34 atmosphere + 17 space
+Atmosphere → 48 space
+
+[/FLOW]
+
+### 7. Temperature Trend with the Main Atmosphere Layers
+
+[FLOW]
+
+TROPO ↓
+STRATO ↑
+MESO ↓
+THERMO ↑
+
+[/FLOW]
+
+Mnemonic: Down – Up – Down – Up.
+
+-------------------------------------------------------
+## One-Page Revision
+-------------------------------------------------------
+
+[TABLE]
+Concept | Remember
+Insolation | Incoming solar radiation.
+Solar constant | ~1361 W/m².
+Seasonal cause | Axial tilt + revolution.
+Earth's tilt | ~23.44° from perpendicular to orbital plane.
+Perihelion | Early January.
+Aphelion | Early July.
+June solstice | Sun overhead at Tropic of Cancer.
+December solstice | Sun overhead at Tropic of Capricorn.
+Equinox | Sun overhead at Equator; day and night approximately equal.
+Atmospheric heating | Lower atmosphere mainly heated from below.
+Shortwave | Primarily incoming solar radiation.
+Longwave | Primarily outgoing terrestrial radiation.
+Albedo | Fraction of incoming solar energy reflected.
+Greenhouse gases | Absorb/re-emit outgoing longwave radiation.
+Heat budget | Balance of incoming and outgoing energy.
+Heat surplus | Mainly low latitudes.
+Heat deficit | Mainly high latitudes.
+Land vs water | Land heats/cools faster; water heats/cools slower.
+Heat-wave threshold | 40°C plains, 30°C hills; special coastal and departure criteria apply.
+Ice–albedo feedback | Ice melt → albedo ↓ → absorption ↑ → warming ↑.
+[END TABLE]
+
+-------------------------------------------------------
+## Master Conceptual Flow
+-------------------------------------------------------
+
+[FLOW]
+
+Sun
+↓
+Shortwave Solar Radiation
+↓
+Atmosphere modifies radiation
+(Reflection + Scattering + Absorption + Transmission)
+↓
+Earth's Surface absorbs energy
+↓
+Terrestrial Longwave Radiation
+↓
+Atmosphere absorbs part of it
+↓
+Greenhouse Effect
+↓
+Atmospheric Heating
+↓
+Temperature & Pressure Differences
+↓
+Atmospheric + Oceanic Circulation
+↓
+Redistribution of Heat
+↓
+Weather & Climate
+
+[/FLOW]

@@ -1,0 +1,776 @@
+=======================================================
+# Chapter 8 — Geomorphic Processes
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Geomorphic Processes: Basic Framework
+-------------------------------------------------------
+
+Geomorphic processes are the natural processes responsible for creating, modifying and destroying Earth's landforms.
+
+Geomorphic agents are the natural forces/media through which these processes operate, such as water, wind, ice, waves, gravity and living organisms.
+
+[FLOW]
+
+Geomorphic processes → Endogenic + Exogenic
+
+[/FLOW]
+
+[TABLE]
+Endogenic | Exogenic
+Originate from Earth's internal energy. | Operate mainly through surface/external energy.
+Build relief or deform Earth's crust. | Weather, erode, transport and deposit material.
+Examples: diastrophism, earthquakes, volcanism. | Examples: weathering, erosion, transportation, deposition.
+[END TABLE]
+
+[FLOW]
+
+Endogenic → Diastrophic + Sudden
+
+[/FLOW]
+
+[FLOW]
+
+Exogenic → Weathering + Erosion + Transportation + Deposition
+
+[/FLOW]
+
+Endogenic forces are ultimately powered mainly by Earth's internal heat, derived from primordial heat and radioactive decay, while exogenic processes are powered largely by solar energy + gravity.
+
+### Earth's Internal Dynamics
+
+[FLOW]
+
+Internal heat → temperature/density differences → mantle movement → plate motion → deformation of crust → mountains + rifts + faults + earthquakes + volcanism
+
+[/FLOW]
+
+Plate tectonics is the central framework connecting many endogenic geomorphic processes.
+
+-------------------------------------------------------
+## Diastrophism: Slow Crustal Movements
+-------------------------------------------------------
+
+Diastrophic forces are slow, large-scale movements and deformation of Earth's crust caused mainly by tectonic processes.
+
+They are divided broadly into:
+
+[FLOW]
+
+Diastrophism → Epeirogenic movements + Orogenic movements
+
+[/FLOW]
+
+### Epeirogenic Movements
+
+Epeirogenic movements are predominantly broad, regional vertical movements of the crust involving uplift or subsidence, generally producing relatively little folding compared with orogenic deformation.
+
+[FLOW]
+
+Vertical crustal movement → uplift → emergence
+
+[/FLOW]
+
+[FLOW]
+
+Vertical crustal movement → subsidence → submergence
+
+[/FLOW]
+
+* Can affect very large continental areas or specific coastal regions.
+
+* May alter relative land–sea levels without producing intense folding.
+
+* Can contribute to emergence of land and formation of extensive plateaus.
+
+Examples: uplift of the Colorado Plateau; broad uplift/subsidence associated with continental areas.
+
+### Orogenic Movements
+
+Orogeny refers to mountain-building processes involving significant horizontal compression, extension, folding, faulting and crustal deformation.
+
+[FLOW]
+
+Plate convergence → compression → folding + thrust faulting + crustal shortening → mountain building
+
+[/FLOW]
+
+Extension can also create tectonic relief through faulting and crustal stretching.
+
+-------------------------------------------------------
+## Faults and Tectonic Fractures
+-------------------------------------------------------
+
+A fault is a fracture in Earth's crust along which there has been significant displacement of rocks.
+
+[TABLE]
+Term | Meaning
+Fault plane | Surface along which displacement takes place.
+Fault dip | Angle made by the fault plane with the horizontal.
+Hanging wall | Block of rock lying above an inclined fault plane.
+Footwall | Block lying below the fault plane.
+Fault scarp | Steep topographic step created by fault displacement.
+[END TABLE]
+
+### Types of Faults
+
+[TABLE]
+Fault | Dominant stress | Movement | Typical setting
+Normal fault | Tension | Hanging wall moves downward relative to footwall. | Divergent settings, rift zones
+Reverse fault | Compression | Hanging wall moves upward relative to footwall. | Compressional settings
+Thrust fault | Strong compression | Low-angle reverse fault. | Mountain belts and convergent boundaries
+Strike-slip fault | Shear | Blocks move mainly horizontally past one another. | Transform boundaries
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic:
+
+Normal = apart → wall goes down
+
+Reverse = together → wall goes up
+
+Strike-slip = slide sideways
+
+[/EXAM FOCUS]
+
+### Fault Systems
+
+A fault system is a group of related faults produced by a common tectonic stress regime.
+
+Multiple normal faults can produce characteristic block landscapes.
+
+[FLOW]
+
+Normal faulting → blocks move vertically → uplifted block = Horst → down-dropped block = Graben
+
+[/FLOW]
+
+### Horst and Graben
+
+[TABLE]
+Horst | Graben
+Uplifted crustal block between faults. | Down-dropped crustal block between faults.
+May form elongated block mountains. | May form elongated structural valleys.
+Example: Vosges / Black Forest region. | Example: Rhine Graben, parts of East African Rift.
+[END TABLE]
+
+[FLOW]
+
+Two normal faults + central block rises → Horst
+
+[/FLOW]
+
+[FLOW]
+
+Two normal faults + central block subsides → Graben / Rift Valley floor
+
+[/FLOW]
+
+Important distinction: A rift valley is commonly associated with extension + normal faulting + down-dropped blocks.
+
+### Step Faults
+
+Step faulting occurs where a series of roughly parallel normal faults produce blocks at progressively different elevations.
+
+[FLOW]
+
+Repeated normal faults → successive downthrows → stair-step topography → step-fault landscape
+
+[/FLOW]
+
+Examples: parts of the East African Rift and Western Ghats-related faulted terrains.
+
+-------------------------------------------------------
+## Rift Valleys and Continental Rifting
+-------------------------------------------------------
+
+A rift valley is a long depression associated mainly with crustal extension and normal faulting.
+
+[FLOW]
+
+Plate divergence → crust stretches → normal faults develop → central block subsides → rift valley
+
+[/FLOW]
+
+### East African Rift System
+
+The East African Rift System represents an active continental-rifting environment. The African Plate is being progressively divided into the Nubian and Somali plates, with the region involving several interacting fault and volcanic systems.
+
+[FLOW]
+
+African continental crust → extension → faulting + volcanism → East African Rift → progressive thinning → future oceanic opening possible
+
+[/FLOW]
+
+* The rift extends through parts of Ethiopia, Kenya, Tanzania, Uganda, Rwanda, Burundi, Malawi and Mozambique.
+
+* It includes major rift valleys, volcanic zones and deep lakes.
+
+* The process is extremely slow and would take millions of years to produce a mature new ocean basin.
+
+* The Afar region is especially important because continental rifting approaches a transition towards oceanic spreading.
+
+[EXAM FOCUS]
+
+Prelims trap: Africa has not already split into two continents. It is undergoing active continental rifting that may eventually lead to a new ocean basin.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Folds and Orogenic Structures
+-------------------------------------------------------
+
+A fold is a bend or warp in rock strata produced mainly by tectonic stress, especially compression.
+
+[FLOW]
+
+Compression → rock layers shorten → layers bend → folds develop → fold mountains may form on a large scale
+
+[/FLOW]
+
+### Parts of a Fold
+
+[TABLE]
+Term | Meaning
+Limb | Side of a fold.
+Hinge | Zone where curvature is greatest.
+Axial plane | Imaginary plane dividing the fold as symmetrically as possible and containing the hinge/axial region.
+Hinge line / fold axis | Line following the zone of maximum curvature along a fold.
+Fold amplitude | Vertical measure of the displacement from the median level of the folded layer toward crest/trough.
+Wavelength | Horizontal distance between successive corresponding crests or troughs.
+Anticline | Arch-like upward fold; in a normal anticline the oldest rocks are generally exposed near the core.
+Syncline | Trough-like downward fold; in a normal syncline the youngest rocks are generally near the core.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic:
+
+Anti = Arch / Age-old at core
+
+Syn = Sink / Young at core
+
+[/EXAM FOCUS]
+
+### Major Types of Folds
+
+[TABLE]
+Type | Characteristic | Example / significance
+Symmetrical | Both limbs have similar inclination. | Relatively balanced compressional deformation.
+Asymmetrical | Limbs have unequal inclination. | Common in stronger or uneven compression.
+Monoclinal | One limb bends downward/upward between relatively flatter layers. | Associated with underlying structural movement.
+Isoclinal | Limbs are nearly parallel. | Strong compression.
+Overturned | One limb has been pushed beyond the vertical so both limbs dip in the same general direction. | Strong deformation.
+Recumbent | Fold becomes nearly horizontal; axial plane is highly inclined or nearly horizontal. | Intense compressional deformation.
+Chevron | Sharp angular hinges with relatively straight limbs. | Common in strongly layered rocks under compression.
+Nappe | Large sheet of rock displaced considerable distances along a low-angle thrust. | Important in major mountain belts such as the Alps and Himalaya.
+[END TABLE]
+
+-------------------------------------------------------
+## Mountains: Formation and Major Types
+-------------------------------------------------------
+
+Mountains develop through several processes. They should therefore not be treated as if all mountains were formed by folding alone.
+
+[TABLE]
+Type | Main process | Examples
+Fold Mountains | Compression, folding and crustal shortening, generally at convergent plate boundaries. | Himalayas, Alps, Andes, Rockies
+Block Mountains | Faulting and uplift/downthrow of crustal blocks. | Vosges, Black Forest, Sierra Nevada
+Dome Mountains | Upwarping caused by magmatic intrusion or broad crustal uplift. | Black Hills, USA
+Volcanic Mountains | Accumulation of lava, ash and pyroclastic material around volcanic vents. | Mount Fuji, Mount St. Helens
+Relic / Residual Mountains | Resistant remnants left after prolonged erosion and denudation. | Aravallis, Eastern Ghats
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: Fold, block, dome, volcanic and relic/residual mountains are different genetic categories. They should not all be described as direct products of “orogenic forces.”
+
+[/CLARIFICATION]
+
+### Fold Mountains
+
+[FLOW]
+
+Convergence → compression → folding + thrusting → crustal shortening + thickening → uplift → fold mountain system
+
+[/FLOW]
+
+The world's great young fold mountains occur prominently along active convergent plate margins.
+
+Examples: Himalayas, Alps, Andes, Rockies.
+
+[EXAM FOCUS]
+
+UPSC 2014 Mains: UPSC directly asked why fold mountain systems are located along continental margins and their relationship with earthquakes and volcanoes. Hence the combination fold mountains + convergent boundaries + seismicity + volcanism is a major Mains theme.
+
+[/EXAM FOCUS]
+
+### Himalayas
+
+[FLOW]
+
+Indian Plate → northward convergence → collision with Eurasian Plate → crustal shortening + folding + thrusting → Himalayan uplift
+
+[/FLOW]
+
+The Himalayas remain tectonically active and are therefore associated with earthquakes, landslides and continuing uplift.
+
+### Block Mountains
+
+Block mountains form mainly through large-scale faulting.
+
+[FLOW]
+
+Tensional forces → normal faults → crustal blocks displaced → uplifted block = horst → block mountain
+
+[/FLOW]
+
+Examples: Vosges and Black Forest in Europe; Sierra Nevada in the United States.
+
+Prelims 2024: UPSC tested the distinction among Vosges, Alps, Appalachians and Andes, including fold vs block mountain classification.
+
+### Dome Mountains
+
+Dome mountains are rounded or elliptical uplifts produced by broad upwarping, commonly associated with magmatic intrusions or tectonic uplift.
+
+[FLOW]
+
+Magma intrusion / crustal uplift → upward warping → erosion strips upper layers → resistant rocks remain → dome mountain
+
+[/FLOW]
+
+Example: Black Hills, South Dakota, USA.
+
+### Volcanic Mountains
+
+[FLOW]
+
+Magma rises → reaches surface → lava + ash + pyroclasts accumulate → repeated eruptions → volcanic cone/mountain
+
+[/FLOW]
+
+Examples: Mount Fuji, Mount St. Helens.
+
+Volcanic mountains are commonly associated with convergent subduction zones or hotspots, though their exact tectonic setting varies.
+
+### Residual / Relic Mountains
+
+[FLOW]
+
+Old mountain/plateau → prolonged weathering + erosion → weaker rocks removed → resistant remnants remain → residual mountain
+
+[/FLOW]
+
+Examples: Aravalli Range and parts of the Eastern Ghats.
+
+-------------------------------------------------------
+## Fold Mountains: Global Distribution and UPSC Mapping
+-------------------------------------------------------
+
+[TABLE]
+Mountain Range | Major tectonic setting | Region
+Himalayas | Continental–continental convergence | Asia
+Alps | African–Eurasian convergence | Europe
+Andes | Oceanic–continental convergence | Western South America
+Rockies | Convergent western North American margin | North America
+Appalachians | Ancient convergent/orogenic history | Eastern North America
+Atlas | Convergence between African and Eurasian plates | Northwest Africa
+Ural Mountains | Ancient continental collision | Russia / Kazakhstan region
+[END TABLE]
+
+[EXAM FOCUS]
+
+Map memory:
+
+Andes → west coast of South America
+
+Rockies → west North America
+
+Alps → Europe
+
+Himalayas → South Asia
+
+Atlas → northwest Africa
+
+Urals → Europe–Asia boundary region
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Sudden Endogenic Forces
+-------------------------------------------------------
+
+Sudden forces act rapidly and can produce major changes in Earth's surface over seconds to minutes.
+
+Main examples:
+
+[FLOW]
+
+Sudden endogenic forces → Earthquakes + Volcanic eruptions
+
+[/FLOW]
+
+### Earthquakes
+
+[FLOW]
+
+Stress accumulation along fault → rupture/slip → sudden elastic energy release → seismic waves → earthquake
+
+[/FLOW]
+
+The same basic process is explained by the Elastic Rebound Theory.
+
+Most earthquakes are associated with tectonic plate movement, especially at plate boundaries.
+
+[FLOW]
+
+Plate motion → friction/locking → stress accumulation → sudden slip → seismic waves
+
+[/FLOW]
+
+### Volcanic Activity
+
+[FLOW]
+
+Magma generation → magma rises → pressure/ buoyancy drive ascent → eruption → lava + ash + gases → volcanic landforms
+
+[/FLOW]
+
+Volcanism can produce volcanic cones, lava plateaus, calderas, lava flows and ash deposits.
+
+Example: Deccan Traps are ancient large-scale flood-basalt formations, while Mount St. Helens represents explosive stratovolcanic activity.
+
+-------------------------------------------------------
+## Exogenic Forces
+-------------------------------------------------------
+
+Exogenic forces operate at or near Earth's surface and are responsible for weathering, erosion, transportation and deposition.
+
+[FLOW]
+
+Weathering → breakdown of rock → erosion → removal → transportation → deposition → new landform
+
+[/FLOW]
+
+[TABLE]
+Process | Meaning | Major agents
+Weathering | In-situ breakdown or decomposition of rocks. | Temperature change, water, chemicals, organisms
+Erosion | Detachment and removal of weathered/rock material. | Running water, wind, glaciers, waves
+Transportation | Movement of sediments from one location to another. | Rivers, wind, ice, waves, groundwater
+Deposition | Accumulation of transported material when transporting energy decreases. | All major geomorphic agents
+[END TABLE]
+
+### Weathering Types
+
+Physical weathering: mechanical breakdown without major chemical change.
+
+Chemical weathering: alteration of minerals through chemical reactions.
+
+Biological weathering: breakdown or alteration caused by organisms and their activities.
+
+[EXAM FOCUS]
+
+Mnemonic: P-C-B → Physical → Chemical → Biological
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Coriolis Force and Geomorphic/Atmospheric Processes
+-------------------------------------------------------
+
+The Coriolis effect is the apparent deflection of moving objects when viewed in a rotating reference frame such as Earth.
+
+[FLOW]
+
+Earth's rotation + moving air/water → apparent deflection of path → Coriolis effect
+
+[/FLOW]
+
+* Northern Hemisphere: deflection to the right of the direction of motion.
+
+* Southern Hemisphere: deflection to the left.
+
+* Deflection increases with latitude and generally with the speed of the moving object.
+
+* It is effectively zero at the Equator.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important correction: The Coriolis force does not create the pressure gradient that drives wind. The pressure-gradient force initiates atmospheric motion; Coriolis deflects the moving air because Earth rotates.
+
+[/CLARIFICATION]
+
+Coriolis effects are important in:
+
+* Atmospheric circulation
+
+* Ocean currents
+
+* Cyclone rotation
+
+* Large-scale movement of water and air
+
+-------------------------------------------------------
+## Why Geomorphic Processes Matter
+-------------------------------------------------------
+
+[FLOW]
+
+Endogenic forces → construct / deform relief
+
+[/FLOW]
+
+[FLOW]
+
+Exogenic forces → weather / erode / transport / deposit
+
+[/FLOW]
+
+[FLOW]
+
+Endogenic uplift → relief formation → exogenic erosion → sediment transport/deposition → landscape adjustment
+
+[/FLOW]
+
+Earth's landscapes therefore result from the continuous interaction between tectonic construction and surface denudation.
+
+[EXAM FOCUS]
+
+Mains framework: Instead of explaining a landform through a single process, examine the tectonic setting + rock type + climate + geomorphic agent + time.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## PYQ-Based Analysis
+-------------------------------------------------------
+
+[TABLE]
+UPSC area | What has been tested | Preparation focus
+Fold mountains | Why major fold mountains occur along continental margins and their association with earthquakes and volcanoes. | Convergence → compression → folding/thrusting + seismicity + volcanism.
+Mountain classification | Matching ranges with mountain type and region; 2024 Prelims used Vosges, Alps, Appalachians and Andes. | Know fold vs block and world map locations.
+Continental tectonic change | 2025 Mains asked how continental and ocean-basin shapes change through tectonic movements. | Extension, subduction, collision, transform motion, rifting and seafloor spreading.
+Circum-Pacific zone | 2020 Mains asked about its geophysical characteristics. | Plate boundaries + subduction + earthquakes + volcanoes + mountain building.
+Mantle plume | 2018 Mains asked about mantle plumes and their role in plate tectonics. | Connect internal heat, mantle dynamics, hotspots and volcanism.
+Geomorphology broadly | Recurring questions on tectonic processes, mountain formation, Earth processes and landform development. | Always link process → landform → example → spatial distribution.
+[END TABLE]
+
+The current UPSC question archive confirms the official availability of CSE papers, while topic-wise compilations show that geomorphology has been repeatedly tested in Mains through fold mountains, tectonics, mountain ranges, mantle plumes and changes in continents/ocean basins.
+
+### Prelims Priority
+
+[TABLE]
+Topic | Priority
+Normal, reverse, thrust, strike-slip faults | ★★★★★
+Horst, graben, rift valley | ★★★★★
+Fold types and terminology | ★★★★★
+Fold vs block mountains | ★★★★★
+Mountain-range mapping | ★★★★★
+Plate convergence and mountain building | ★★★★★
+East African Rift | ★★★★☆
+Endogenic vs exogenic | ★★★★☆
+Coriolis effect | ★★★★☆
+Epeirogenic vs orogenic movements | ★★★★☆
+[END TABLE]
+
+### Mains Dimensions
+
+[FLOW]
+
+Plate movement → stress regime → deformation → fault/fold → mountain/rift/valley
+
+[/FLOW]
+
+[FLOW]
+
+Convergent boundary → compression → folding + thrusting → mountain building → earthquakes
+
+[/FLOW]
+
+[FLOW]
+
+Divergent boundary → tension → normal faulting → rift valley → crustal thinning → possible ocean formation
+
+[/FLOW]
+
+[FLOW]
+
+Endogenic uplift → relief creation → weathering + erosion → sediment transfer → deposition → landscape evolution
+
+[/FLOW]
+
+[FLOW]
+
+Climate + rock type + tectonic setting + geomorphic agents + time → landform development
+
+[/FLOW]
+
+Mains keyword bank: diastrophism, epeirogeny, orogeny, crustal shortening, crustal extension, compression, tension, shear, faulting, folding, uplift, subsidence, horst, graben, rifting, denudation, weathering, erosion, deposition, differential erosion, tectonic relief, geomorphic equilibrium.
+
+-------------------------------------------------------
+## High-Yield Mnemonics
+-------------------------------------------------------
+
+[TABLE]
+Concept | Mnemonic
+Major geomorphic grouping | ED-DSWE → Endogenic → Diastrophic/Sudden | Exogenic → Weathering/Erosion
+Fault types | N-R-T-S → Normal → Reverse → Thrust → Strike-slip
+Normal fault | Tension = Together? No — apart → hanging wall DOWN
+Reverse fault | Compression → hanging wall UP
+Horst–Graben | H = High | G = Goes down
+Fold basics | Anti = Arch | Syn = Sink
+Fold mountain examples | HARA → Himalayas → Alps → Rockies → Andes
+Rift process | T-F-D → Tension → Faulting → Depression
+Metamorphic-style force distinction | C-T-S → Compression → Tension → Shear
+Exogenic agents | W-I-R-W-G → Water → Ice → River → Wind → Gravity
+Weathering types | P-C-B → Physical → Chemical → Biological
+Coriolis | NH = Right | SH = Left | Equator = Zero
+Geomorphic process logic | Build → Break → Move → Deposit → endogenic construction → weathering → transportation → deposition
+[END TABLE]
+
+-------------------------------------------------------
+## Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Trap | Correct Concept
+Fold mountains are formed by faulting. | Folding is dominant; faulting and thrusting may accompany mountain building.
+Block mountains are formed by compression only. | Usually associated with faulting under extensional/tensional conditions, though fault systems can arise under different stress regimes.
+Normal fault = hanging wall rises. | Normal fault → hanging wall moves down.
+Reverse fault = hanging wall moves down. | Reverse fault → hanging wall moves up.
+Thrust fault is a separate force from reverse fault. | A thrust fault is a low-angle reverse fault.
+Horst = down-dropped block. | Horst = uplifted block; graben = down-dropped block.
+Rift valley is formed mainly by compression. | Rift valley → crustal extension + normal faulting.
+Africa has already split into two continents. | East African rifting is an ongoing process; a future ocean basin may eventually develop.
+All mountains are fold mountains. | Mountains can be fold, block, dome, volcanic and residual/relic.
+Volcanic mountains are always formed at convergent boundaries. | They can form at subduction zones, divergent settings and hotspots.
+Residual mountains are newly uplifted young mountains. | They are commonly erosional remnants of older landscapes.
+Anticline always has young rocks at its core. | In a normal, non-overturned sequence, anticline core generally contains older rocks.
+Syncline always has older rocks at its core. | In a normal sequence, syncline core generally contains younger rocks.
+All folds have equal limbs. | Folds can be symmetrical, asymmetrical, isoclinal, overturned, recumbent and more.
+Coriolis force drives winds. | Pressure-gradient force initiates motion; Coriolis deflects moving air.
+Coriolis is strongest at the Equator. | Zero at Equator; increases towards the poles.
+Exogenic processes only destroy landforms. | They also transport and deposit sediments, creating depositional landforms.
+[END TABLE]
+
+-------------------------------------------------------
+## Short Revision Sheet
+-------------------------------------------------------
+
+[FLOW]
+
+Geomorphic Processes → Endogenic + Exogenic
+
+[/FLOW]
+
+[FLOW]
+
+Endogenic → Diastrophic + Sudden
+
+[/FLOW]
+
+[FLOW]
+
+Diastrophic → Epeirogenic + Orogenic
+
+[/FLOW]
+
+Epeirogenic: broad vertical uplift/subsidence
+
+Orogenic: mountain building through major crustal deformation
+
+[FLOW]
+
+Tension → Normal fault → Hanging wall down
+
+[/FLOW]
+
+[FLOW]
+
+Compression → Reverse fault → Hanging wall up
+
+[/FLOW]
+
+[FLOW]
+
+Low-angle reverse fault → Thrust fault
+
+[/FLOW]
+
+[FLOW]
+
+Shear → Strike-slip fault → Horizontal displacement
+
+[/FLOW]
+
+[FLOW]
+
+Normal faults → uplifted block = Horst → down-dropped block = Graben
+
+[/FLOW]
+
+[FLOW]
+
+Tension → crustal extension → normal faulting → rift valley
+
+[/FLOW]
+
+[FLOW]
+
+African Rift → Nubian + Somali plate divergence → crustal thinning → volcanism + earthquakes → possible future ocean
+
+[/FLOW]
+
+[FLOW]
+
+Compression → shortening → folding + thrusting → fold mountains
+
+[/FLOW]
+
+Anticline = arch + older core
+
+Syncline = trough + younger core
+
+[FLOW]
+
+Magma intrusion → upwarping → erosion → dome mountain
+
+[/FLOW]
+
+[FLOW]
+
+Magma → eruption → lava/ash accumulation → volcanic mountain
+
+[/FLOW]
+
+[FLOW]
+
+Old uplifted terrain → prolonged erosion → resistant remnant → residual mountain
+
+[/FLOW]
+
+Mountain examples: Himalayas/Alps/Andes/Rockies → fold | Vosges/Black Forest/Sierra Nevada → block | Black Hills → dome | Fuji/St Helens → volcanic | Aravalli/Eastern Ghats → residual/relic
+
+[FLOW]
+
+Weathering → erosion → transportation → deposition
+
+[/FLOW]
+
+Weathering: Physical + Chemical + Biological
+
+[FLOW]
+
+Earth rotates → moving air/water deflects → NH right + SH left → Coriolis effect
+
+[/FLOW]
+
+Core UPSC chain:
+
+[FLOW]
+
+Tectonic forces → stress → deformation → faults/folds → relief formation → earthquakes/volcanism → interaction with exogenic processes → evolving landscape
+
+[/FLOW]

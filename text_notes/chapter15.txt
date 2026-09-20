@@ -1,0 +1,1276 @@
+=======================================================
+# Chapter 15 — Temperature: Distribution & Variations
+=======================================================
+
+-------------------------------------------------------
+## Temperature: Meaning & Basic Concepts
+-------------------------------------------------------
+
+Temperature is a measure of the average kinetic energy of particles in a substance. It indicates the degree of hotness or coldness of a body or environment.
+
+* Higher temperature → particles have greater average kinetic energy.
+
+* Lower temperature → particles have lower average kinetic energy.
+
+* Surface temperature refers to the temperature of the physical surface such as land, soil or water.
+
+* Air temperature refers to the temperature of the surrounding atmosphere, generally measured at a standard height above the surface.
+
+[TABLE]
+Feature | Surface Temperature | Air Temperature
+Meaning | Temperature of the surface itself. | Temperature of the air.
+Measurement | Can vary sharply according to surface material. | Measured using instruments at a standard exposure height.
+Variation | Usually more rapid and extreme. | Generally more gradual.
+Main controls | Radiation, surface characteristics, moisture. | Radiation, convection, advection, atmospheric moisture and circulation.
+[END TABLE]
+
+### Temperature Scales
+
+[TABLE]
+Conversion | Formula
+Celsius → Fahrenheit | F = (9/5)C + 32
+Fahrenheit → Celsius | C = (F − 32) × 5/9
+Celsius → Kelvin | K = C + 273.15
+Kelvin → Celsius | C = K − 273.15
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC fact: Temperature is normally measured in °C, while the SI unit of thermodynamic temperature is Kelvin (K).
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Temperature Measurement
+-------------------------------------------------------
+
+[TABLE]
+Instrument | Main Use / Principle
+Thermometer | Measurement of temperature.
+Thermocouple | Generates electrical voltage because of a temperature difference between dissimilar metals.
+Resistance Temperature Detector (RTD) | Uses change in electrical resistance with temperature.
+Thermistor | Uses temperature-dependent electrical resistance.
+Pyrometer | Measures high temperatures through emitted thermal radiation.
+Gas thermometer | Uses expansion/pressure characteristics of a gas.
+[END TABLE]
+
+-------------------------------------------------------
+## Temperature Variation
+-------------------------------------------------------
+
+Temperature varies over different time scales and across different spatial scales.
+
+[FLOW]
+
+Diurnal → Seasonal → Annual → Regional → Global
+
+[/FLOW]
+
+### Diurnal Variation
+
+Diurnal variation refers to changes in temperature over a 24-hour period.
+
+* Daytime: solar heating of the surface increases.
+
+* Night: incoming solar radiation stops and the surface loses energy through longwave radiation.
+
+* The minimum temperature usually occurs shortly after sunrise, not exactly at midnight.
+
+* The maximum temperature usually occurs in the afternoon, often around 2–4 PM depending on local conditions.
+
+### Seasonal Variation
+
+Seasonal temperature variation occurs because Earth's axis is tilted and Earth revolves around the Sun.
+
+[FLOW]
+
+Axial tilt + Revolution
+↓
+Changing solar angle + changing day length
+↓
+Seasonal temperature variation
+
+[/FLOW]
+
+-------------------------------------------------------
+## Isopleths
+-------------------------------------------------------
+
+Isopleths are lines joining places having the same value of a particular variable.
+
+[TABLE]
+Term | Meaning
+Isotherm | Equal temperature.
+Isobar | Equal atmospheric pressure.
+Isohyet | Equal rainfall/precipitation.
+Isohaline | Equal salinity.
+Isobath | Equal depth below sea level.
+Isohyps | Equal elevation/height.
+Isopycnic | Equal density.
+Isochron | Equal travel time / equal time interval.
+Isopach | Equal thickness of a geological formation.
+Isogonal | Equal magnetic declination.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction to source page: Some specialised isopleth terms in the source table are inaccurately described. For UPSC, prioritise isotherm, isobar, isohyet, isohaline, isobath, isopycnic and isopach.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Major Factors Affecting Temperature Distribution
+-------------------------------------------------------
+
+[FLOW]
+
+Latitude + Altitude + Land/Water + Ocean Currents + Winds
++ Albedo/Clouds + Aspect + Day/Night
+↓
+Temperature Distribution
+
+[/FLOW]
+
+Mnemonic: LALA-WACO
+
+[FLOW]
+
+L = Latitude
+A = Altitude
+L = Land–water contrast
+A = Albedo
+W = Winds
+A = Aspect
+C = Cloud cover
+O = Ocean currents
+
+[/FLOW]
+
+-------------------------------------------------------
+## 1. Latitude
+-------------------------------------------------------
+
+Latitude is one of the most important controls of temperature because it influences the angle of incidence of solar radiation and the duration of sunlight.
+
+* Near the Equator, solar rays are more nearly vertical.
+
+* Toward the poles, solar rays become increasingly oblique.
+
+* Oblique rays spread the same energy over a larger area.
+
+* They also pass through a greater thickness of atmosphere.
+
+* Therefore, average temperature generally decreases from low to high latitudes.
+
+[FLOW]
+
+Equator → more direct rays → concentrated energy → warmer
+Poles → oblique rays → dispersed energy → colder
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+But remember: Latitude alone does not explain actual temperature at a location. Ocean currents, elevation, winds, continentality and other factors modify the basic latitudinal pattern.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 2. Altitude
+-------------------------------------------------------
+
+Temperature generally decreases with increasing altitude in the troposphere.
+
+The average environmental lapse rate is approximately:
+
+[FLOW]
+
+6.5°C per 1000 m (6.5°C/km)
+
+[/FLOW]
+
+* Atmospheric pressure decreases with height.
+
+* Air becomes thinner.
+
+* The lower atmosphere receives much of its heat indirectly from Earth's surface.
+
+### Why Does Temperature Decrease with Height?
+
+[FLOW]
+
+Earth surface absorbs shortwave
+↓
+Surface emits longwave radiation
+↓
+Lower atmosphere receives much of its heat from below
+↓
+Heating generally decreases upward
+↓
+Temperature falls with altitude in the troposphere
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Important distinction: The environmental lapse rate is the actual rate at which atmospheric temperature decreases with height at a particular time and place. It is not always exactly 6.5°C/km.
+
+[/EXAM FOCUS]
+
+### Air Temperature vs Elevation
+
+Because elevation affects temperature, two places at the same latitude may have very different temperatures.
+
+Example: A high-elevation city near the Equator can be much cooler than a lowland tropical city at nearly the same latitude.
+
+-------------------------------------------------------
+## 3. Albedo, Cloud Cover and Ice
+-------------------------------------------------------
+
+Albedo is the fraction of incoming solar radiation reflected by a surface.
+
+[FLOW]
+
+High albedo → more reflection → less absorption → cooling tendency
+
+[/FLOW]
+
+[FLOW]
+
+Low albedo → less reflection → more absorption → warming tendency
+
+[/FLOW]
+
+[TABLE]
+Surface | General albedo tendency
+Fresh snow | Very high
+Ice | High
+Clouds | Generally high reflection of incoming solar radiation
+Vegetation | Moderate/relatively low
+Dark ocean surface | Low, especially at high Sun angles
+[END TABLE]
+
+### Clouds Have a Dual Effect
+
+[TABLE]
+Day | Night
+Reflect incoming solar radiation → cooling tendency. | Absorb/re-emit terrestrial longwave radiation → reduces nighttime cooling.
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC trap: Clouds do not necessarily mean cooling under all conditions. Their effect depends on the balance between reflected shortwave radiation and retained longwave radiation.
+
+[/EXAM FOCUS]
+
+### Ice–Albedo Feedback
+
+[FLOW]
+
+Warming
+↓
+Ice/Snow melt
+↓
+Albedo decreases
+↓
+More solar energy absorbed
+↓
+Further warming
+↓
+More ice/snow melt
+
+[/FLOW]
+
+This is a classic example of a positive climate feedback.
+
+-------------------------------------------------------
+## 4. Differential Heating of Land and Water
+-------------------------------------------------------
+
+Land and water heat and cool at different rates. This produces the land–sea thermal contrast.
+
+[TABLE]
+Land | Water
+Heats faster. | Heats more slowly.
+Cools faster. | Cools more slowly.
+Generally greater temperature range. | Generally smaller temperature range.
+Strong continental effect. | Strong maritime/moderating effect.
+[END TABLE]
+
+### Why Does Water Heat Slowly?
+
+* Water has a high heat capacity.
+
+* Solar energy can penetrate into a layer of water rather than being concentrated only at the surface.
+
+* Waves and convection distribute heat vertically.
+
+* Evaporation removes substantial heat.
+
+[FLOW]
+
+Land = Faster heating/cooling
+Water = Slower heating/cooling
+
+[/FLOW]
+
+Mnemonic: LAND = FAST; WATER = SLOW.
+
+-------------------------------------------------------
+## Continentality vs Maritime Influence
+-------------------------------------------------------
+
+Continentality refers to the influence of large landmasses, while maritime influence refers to the moderating effect of nearby water bodies.
+
+[FLOW]
+
+Interior continental areas → hotter summers + colder winters → large annual range
+Coastal areas → cooler summers + milder winters → smaller annual range
+
+[/FLOW]
+
+### Annual Temperature Range
+
+Annual temperature range = Mean temperature of warmest month − Mean temperature of coldest month.
+
+* Generally larger in continental interiors.
+
+* Generally smaller near oceans.
+
+* The difference is especially pronounced in the Northern Hemisphere because it contains much more land at middle and high latitudes.
+
+-------------------------------------------------------
+## 5. Prevailing Winds
+-------------------------------------------------------
+
+Winds transport heat horizontally through advection.
+
+* Winds from warmer regions can raise temperature.
+
+* Winds from colder regions can lower temperature.
+
+* Marine winds can moderate temperatures near coasts.
+
+[FLOW]
+
+Warm-source air → warmer destination
+Cold-source air → cooler destination
+
+[/FLOW]
+
+### Example
+
+Western Europe is warmer than many places at similar latitudes because of the combined influence of the North Atlantic Drift and prevailing westerlies.
+
+-------------------------------------------------------
+## 6. Ocean Currents
+-------------------------------------------------------
+
+Ocean currents transport enormous quantities of heat and therefore influence the temperature of adjacent coastal regions.
+
+[TABLE]
+Current | Nature | General Temperature Effect
+Gulf Stream / North Atlantic Drift | Warm | Warms adjacent western Europe.
+Kuroshio | Warm | Raises temperatures along parts of Japan.
+California Current | Cold | Cooling influence on western North America.
+Canary Current | Cold | Cooling influence along northwest Africa.
+Peru/Humboldt Current | Cold | Cooling influence along western South America.
+[END TABLE]
+
+[FLOW]
+
+Warm current → warmer adjacent coast
+Cold current → cooler adjacent coast
+
+[/FLOW]
+
+### Ocean Current + Wind = Coastal Climate
+
+The effect of an ocean current is often amplified or modified by the prevailing wind direction.
+
+Example: A warm ocean current transporting heat toward a coast, combined with onshore winds, can strongly moderate the coastal climate.
+
+-------------------------------------------------------
+## 7. Aspect of Slope
+-------------------------------------------------------
+
+Aspect means the direction towards which a slope faces.
+
+### Northern Hemisphere
+
+* South-facing slopes: generally receive more direct sunlight.
+
+* North-facing slopes: generally receive less direct sunlight.
+
+[EXAM FOCUS]
+
+Reverse in Southern Hemisphere: North-facing slopes generally receive more direct solar radiation than south-facing slopes.
+
+[/EXAM FOCUS]
+
+### Factors Controlling the Effect of Aspect
+
+* Angle of incidence of sunlight.
+
+* Duration of sunshine.
+
+* Season.
+
+* Latitude.
+
+* Slope steepness.
+
+* Cloud cover.
+
+### Environmental Importance
+
+Aspect affects:
+
+[FLOW]
+
+Aspect
+↓
+Insolation
+↓
+Temperature + Evaporation + Soil Moisture
+↓
+Vegetation + Snow Persistence + Agriculture
+
+[/FLOW]
+
+-------------------------------------------------------
+## 8. Day–Night Cycle
+-------------------------------------------------------
+
+Earth's rotation produces the daily cycle of heating and cooling.
+
+[FLOW]
+
+Sunrise → heating begins
+↓
+Afternoon → maximum surface temperature generally occurs
+↓
+Sunset → cooling begins
+↓
+Pre-dawn → minimum temperature generally occurs
+
+[/FLOW]
+
+### Why Does Maximum Temperature Occur After Noon?
+
+Earth's surface continues receiving more energy than it loses for some time after solar noon. Therefore, maximum temperature generally occurs in the afternoon rather than exactly at noon.
+
+[EXAM FOCUS]
+
+UPSC concept: Solar noon ≠ maximum daily temperature.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Daily Temperature Cycle
+-------------------------------------------------------
+
+[TABLE]
+Time | Radiation Balance | Temperature
+Morning | Incoming solar radiation increasing. | Rising.
+Solar noon | Sun highest, but surface energy storage continues. | Still rising.
+Afternoon | Surface heat storage reaches maximum. | Maximum temperature usually occurs.
+Night | No incoming solar radiation; outgoing radiation continues. | Falling.
+Near sunrise | Maximum nocturnal cooling has occurred. | Minimum temperature generally occurs shortly after sunrise.
+[END TABLE]
+
+-------------------------------------------------------
+## Temperature Anomalies
+-------------------------------------------------------
+
+Temperature anomaly means the difference between an observed temperature and the long-term normal temperature for that place and period.
+
+[FLOW]
+
+Temperature anomaly = Observed temperature − Normal temperature
+
+[/FLOW]
+
+[TABLE]
+Type | Meaning
+Positive anomaly | Observed temperature is above normal.
+Negative anomaly | Observed temperature is below normal.
+[END TABLE]
+
+Example: Normal temperature = 25°C; observed temperature = 27°C.
+
+[FLOW]
+
+Anomaly = 27 − 25 = +2°C
+
+[/FLOW]
+
+-------------------------------------------------------
+## Urban Heat Island (UHI)
+-------------------------------------------------------
+
+An Urban Heat Island is a built-up urban area that is warmer than its less-developed or rural surroundings.
+
+The phenomenon was studied extensively by Luke Howard in London, while the term “urban heat island” is associated with later urban-climatology literature.
+
+### Why Are Cities Hotter?
+
+* Concrete and asphalt: store large amounts of heat.
+
+* Low vegetation: reduces evapotranspiration and natural cooling.
+
+* Anthropogenic heat: vehicles, buildings, industries and air-conditioning systems release heat.
+
+* Urban canyon effect: buildings alter radiation exchange and ventilation.
+
+* Impervious surfaces: reduce evaporation of water.
+
+* Reduced wind: dense construction restricts heat dispersion.
+
+* Air pollution: alters radiation and atmospheric conditions.
+
+[FLOW]
+
+Vegetation ↓ + Dark surfaces ↑ + Heat storage ↑ + Anthropogenic heat ↑
+↓
+Urban Heat Island
+
+[/FLOW]
+
+### Types of Urban Heat Islands
+
+[TABLE]
+Type | Meaning
+Surface UHI | Difference in land-surface temperature between urban and rural areas.
+Canopy Layer UHI | Urban warming within the layer extending roughly from the surface to building/vegetation canopy level.
+Boundary Layer UHI | Urban warming extending upward into the lower atmosphere above the urban canopy.
+[END TABLE]
+
+### UHI — Major Impacts
+
+* Higher nighttime temperatures.
+
+* Greater cooling and electricity demand.
+
+* Increased heat stress.
+
+* Changes in local precipitation and convection.
+
+* Interaction with air pollution and ozone formation.
+
+* Greater vulnerability during heat waves.
+
+### UHI Mitigation
+
+[FLOW]
+
+Green roofs + Urban trees + Cool roofs + Reflective surfaces
++ Water-sensitive design + Better ventilation
+↓
+Lower urban heat storage
+↓
+Reduced UHI
+
+[/FLOW]
+
+### Key Indian Applications
+
+* Urban greening.
+
+* Cool/reflective roofs.
+
+* Permeable surfaces.
+
+* Water bodies and blue-green infrastructure.
+
+* Heat Action Plans.
+
+* Reduced anthropogenic heat emissions.
+
+-------------------------------------------------------
+## Horizontal Distribution of Temperature
+-------------------------------------------------------
+
+The horizontal distribution of temperature refers to the variation of temperature across Earth's surface from one location to another.
+
+This is commonly represented through isotherms.
+
+### General Rule
+
+[FLOW]
+
+Temperature generally decreases from Equator → Poles
+
+[/FLOW]
+
+However, actual isotherms rarely follow latitude perfectly because of:
+
+* Continents and oceans.
+
+* Ocean currents.
+
+* Prevailing winds.
+
+* Altitude.
+
+* Cloud cover.
+
+* Relief.
+
+-------------------------------------------------------
+## Isotherms
+-------------------------------------------------------
+
+Isotherms are lines joining places having the same temperature.
+
+### General Characteristics
+
+* They tend to run approximately east–west because of the basic latitudinal temperature gradient.
+
+* They deviate substantially where land and water contrasts are strong.
+
+* They bend around warm and cold ocean currents.
+
+* Spacing of isotherms indicates the temperature gradient.
+
+[FLOW]
+
+Close isotherms → Steep temperature gradient
+Wide isotherm spacing → Gentle temperature gradient
+
+[/FLOW]
+
+-------------------------------------------------------
+## Why Do Isotherms Bend?
+-------------------------------------------------------
+
+### 1. Land–Water Contrast
+
+Land heats and cools faster than water, producing different temperatures at the same latitude.
+
+### 2. Ocean Currents
+
+* Warm currents push isotherms towards higher latitudes.
+
+* Cold currents push isotherms towards lower latitudes.
+
+### 3. Prevailing Winds
+
+Winds transport warm or cold air masses and therefore modify the latitudinal temperature pattern.
+
+-------------------------------------------------------
+## January Isotherms
+-------------------------------------------------------
+
+January represents winter in the Northern Hemisphere and summer in the Southern Hemisphere.
+
+### Northern Hemisphere — January
+
+* Large continents are strongly cooled.
+
+* Oceans remain relatively warmer.
+
+* Isotherms generally bend equatorward over continents.
+
+* They generally bend poleward over oceans.
+
+[FLOW]
+
+January NH:
+Cold continents → equatorward bend
+Warm oceans → poleward bend
+
+[/FLOW]
+
+### Important Regions
+
+* Northern Siberia experiences extremely low winter temperatures.
+
+* Western Europe remains relatively mild because of maritime influence and warm North Atlantic waters.
+
+* Large annual temperature ranges occur in continental interiors.
+
+-------------------------------------------------------
+## July Isotherms
+-------------------------------------------------------
+
+July represents summer in the Northern Hemisphere and winter in the Southern Hemisphere.
+
+### Northern Hemisphere — July
+
+* Continental interiors become strongly heated.
+
+* Isotherms generally bend poleward over continents.
+
+* They generally bend equatorward over relatively cooler oceans.
+
+[FLOW]
+
+July NH:
+Hot continents → poleward bend
+Cooler oceans → equatorward bend
+
+[/FLOW]
+
+-------------------------------------------------------
+## January vs July Isotherms
+-------------------------------------------------------
+
+[TABLE]
+Feature | January | July
+NH land | Strong cooling | Strong heating
+NH continental isotherms | Bend equatorward | Bend poleward
+NH ocean influence | Relatively warmer | Relatively cooler
+Main seasonal control | Winter in NH | Summer in NH
+[END TABLE]
+
+Mnemonic: COLD–HOT
+
+[FLOW]
+
+JAN = Land cold → isotherms go toward Equator
+JUL = Land hot → isotherms go toward Pole
+
+[/FLOW]
+
+-------------------------------------------------------
+## Why Is the Southern Hemisphere More Uniform Thermally?
+-------------------------------------------------------
+
+The Southern Hemisphere has a much larger proportion of ocean surface, particularly in the middle and high latitudes.
+
+* Oceans heat and cool slowly.
+
+* Ocean currents redistribute heat.
+
+* Therefore, annual temperature contrasts are generally smaller than in the Northern Hemisphere.
+
+[EXAM FOCUS]
+
+UPSC favourite: The Northern Hemisphere generally has a greater annual temperature range than the Southern Hemisphere because of its much larger landmass.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Latitudinal Temperature Zones
+-------------------------------------------------------
+
+[TABLE]
+Broad Zone | General Character
+Equatorial | High temperatures, small annual range.
+Tropical/Subtropical | High temperatures; subtropical deserts can experience intense summer heat.
+Temperate | Moderate temperatures with stronger seasonal variation.
+Polar | Low temperatures and strong seasonal effects at high latitudes.
+[END TABLE]
+
+-------------------------------------------------------
+## Temperature Range
+-------------------------------------------------------
+
+Temperature range is the numerical difference between the maximum and minimum temperature values over a given period.
+
+[TABLE]
+Type | Meaning
+Diurnal range | Maximum temperature − Minimum temperature within one day.
+Monthly range | Difference between temperature values across a month.
+Annual range | Mean temperature of hottest month − Mean temperature of coldest month.
+[END TABLE]
+
+### Where Is Temperature Range Large?
+
+* Continental interiors.
+
+* Dry regions with clear skies.
+
+* Areas far from oceanic moderation.
+
+### Where Is Temperature Range Small?
+
+* Coastal regions.
+
+* Island environments.
+
+* Humid/cloudy regions.
+
+* Areas strongly influenced by oceans.
+
+-------------------------------------------------------
+## Temperature and Deserts
+-------------------------------------------------------
+
+Many subtropical desert interiors experience extreme daytime heating because of:
+
+* Clear skies.
+
+* Low humidity.
+
+* Strong incoming solar radiation.
+
+* Limited cloud cover.
+
+At night, however, clear skies also permit rapid longwave heat loss, resulting in substantial diurnal temperature ranges.
+
+[FLOW]
+
+Clear + dry desert
+→ Strong daytime heating
+→ Strong nighttime radiative cooling
+→ Large diurnal range
+
+[/FLOW]
+
+-------------------------------------------------------
+## Temperature Inversion — PYQ Enrichment
+-------------------------------------------------------
+
+A temperature inversion occurs when temperature increases with height over a particular layer instead of normally decreasing with height.
+
+### Common Conditions for Surface/Radiation Inversion
+
+[FLOW]
+
+Clear sky + Calm winds + Long night
+↓
+Rapid radiative cooling of ground
+↓
+Air near surface cools strongly
+↓
+Warmer air remains above
+↓
+Temperature inversion
+
+[/FLOW]
+
+### Effects
+
+* Suppresses vertical mixing.
+
+* Traps pollutants near the surface.
+
+* May intensify fog and smog.
+
+* Can adversely affect air quality in cities and valleys.
+
+[EXAM FOCUS]
+
+Classic UPSC statement: Clear skies and calm conditions favour radiation inversion because they permit strong surface cooling and suppress vertical mixing.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Mean Annual Temperature Distribution
+-------------------------------------------------------
+
+The mean annual temperature is the average of the monthly mean temperatures of a year.
+
+### Broad Pattern
+
+* Highest annual mean temperatures occur in the tropical/subtropical belt, but the thermal equator may shift seasonally and the hottest areas are not necessarily located directly on the Equator.
+
+* Temperatures generally decrease towards the poles.
+
+* Continental interiors can show extreme temperature contrasts.
+
+* Oceanic regions are more thermally moderate.
+
+-------------------------------------------------------
+## Thermal Equator
+-------------------------------------------------------
+
+The thermal equator is the line connecting locations with the highest mean temperatures at a particular time or period.
+
+* It does not necessarily coincide with the geographic Equator.
+
+* It shifts northward during Northern Hemisphere summer.
+
+* It shifts southward during Southern Hemisphere summer.
+
+* Its position is influenced by the distribution of land and water and seasonal heating.
+
+-------------------------------------------------------
+## Temperature and Oceanic vs Continental Climate
+-------------------------------------------------------
+
+[TABLE]
+Factor | Maritime Climate | Continental Climate
+Summer | Relatively cooler | Relatively hotter
+Winter | Relatively milder | Relatively colder
+Annual range | Small | Large
+Humidity | Generally higher | Generally lower inland
+Temperature moderation | Strong | Weak
+[END TABLE]
+
+-------------------------------------------------------
+## Climate Change and Temperature Distribution
+-------------------------------------------------------
+
+Climate change is altering Earth's temperature profile across different regions rather than producing identical warming everywhere.
+
+### Major Observed/Expected Patterns
+
+* Increase in global mean temperature.
+
+* Changes in frequency and intensity of heat extremes.
+
+* Strong warming in many high-latitude regions.
+
+* Changes in seasonal temperature patterns.
+
+* Changes in land–ocean thermal contrast.
+
+* Impacts on snow, ice and permafrost.
+
+### Polar Amplification
+
+Polar regions can warm faster than the global average because of interacting feedbacks such as ice–albedo feedback, changes in snow cover and other cryosphere–atmosphere interactions.
+
+[FLOW]
+
+Warming
+→ Ice/Snow loss
+→ Albedo ↓
+→ Absorption ↑
+→ Further warming
+
+[/FLOW]
+
+-------------------------------------------------------
+## Temperature and Different Climatic Regions
+-------------------------------------------------------
+
+### Tropical Regions
+
+* High solar input.
+
+* Small annual temperature range in many humid equatorial regions.
+
+* Strong convection and cloud formation can modify surface temperatures.
+
+### Temperate Regions
+
+* Stronger seasonal variation.
+
+* Greater distinction between summer and winter.
+
+* Strong influence of westerlies and ocean currents in many regions.
+
+### Polar Regions
+
+* Low solar angle.
+
+* Long periods of daylight/darkness depending on season.
+
+* High albedo from snow and ice.
+
+* Very low temperatures, especially in continental interiors.
+
+-------------------------------------------------------
+## UPSC PYQ Analysis — Chapter 15
+-------------------------------------------------------
+
+[TABLE]
+Year | PYQ Theme | Concept Tested
+2013 Mains | Urban Heat Islands | Causes of urban warming: surface properties, anthropogenic heat, altered radiation and urban form.
+2013 Mains | Temperature Inversion | Definition, causes and effects on weather and human habitation.
+2019 Prelims | Dewdrops on cloudy nights | Terrestrial radiation, radiative cooling and the role of clouds.
+2019 Prelims | 21 June / Sun position | Solstice, latitude, solar position and seasonal temperature relationships.
+2019 Prelims | Cirrus-cloud thinning / sulphate aerosol | Radiative forcing and modification of Earth's energy balance.
+2023 Prelims | Infrared radiation and water vapour | Atmospheric absorption of solar/infrared radiation.
+2024 Prelims | Thickness of troposphere | Temperature, convection and vertical atmospheric structure.
+2024 Prelims | Atmosphere heated by terrestrial radiation | Difference between incoming solar radiation and outgoing terrestrial radiation.
+2025 Prelims | Natural greenhouse effect | Atmosphere's role in maintaining Earth's average temperature.
+[END TABLE]
+
+### PYQ Pattern Analysis
+
+UPSC's questions show a clear preference for cause–effect relationships rather than isolated definitions.
+
+[FLOW]
+
+Solar angle
+↓
+Insolation
+↓
+Surface heating
+↓
+Terrestrial radiation
+↓
+Atmospheric heating
+↓
+Temperature distribution
+↓
+Pressure differences
+↓
+Winds & ocean currents
+↓
+Regional climate
+
+[/FLOW]
+
+The highest-value areas for this chapter are therefore:
+
+[TABLE]
+Priority Topic | What to Master
+Atmospheric heating | Solar vs terrestrial radiation; why atmosphere is heated from below.
+Latitude | Solar angle, day length and latitudinal temperature gradient.
+Land–water contrast | Continentality, maritime influence and temperature range.
+Clouds + radiation | Day/night effects, terrestrial radiation and dew.
+Ocean currents | Warm/cold current impact on coastal temperatures.
+Isotherms | Why they depart from latitude and bend over land/ocean and currents.
+UHI | Causes, impacts and mitigation.
+Temperature inversion | Conditions, types and effects.
+Climate change | Global warming, polar amplification and temperature extremes.
+[END TABLE]
+
+-------------------------------------------------------
+## Most Important UPSC Traps
+-------------------------------------------------------
+
+[TABLE]
+Wrong Intuition | Correct Concept
+Maximum temperature occurs at noon. | Usually occurs in the afternoon because surface heat storage continues after solar noon.
+Maximum temperature occurs exactly at the Equator. | Not necessarily; clouds, humidity, convection, deserts and land–sea effects modify temperature.
+Higher latitude always means proportionally colder conditions. | Latitude is a major control, but currents, altitude, winds and continentality modify the pattern.
+Cloudy nights are colder. | Cloud cover usually reduces nighttime radiative cooling.
+High albedo means stronger heating. | High albedo means greater reflection.
+Land and water heat equally. | Land generally heats/cools faster; water has stronger thermal inertia.
+Warm ocean currents cool nearby coasts. | Warm currents generally warm adjacent coastal areas.
+Cold currents always produce rain. | Cold currents often stabilise the lower atmosphere and can suppress rainfall; coastal fog may occur instead.
+UHI means global warming. | UHI is a local/regional urban phenomenon; it can amplify the effects of background warming.
+Temperature always decreases with altitude. | Normally in the troposphere, but temperature inversion reverses the vertical gradient locally.
+[END TABLE]
+
+-------------------------------------------------------
+## Mnemonics — Rapid Revision
+-------------------------------------------------------
+
+### 1. Major Factors
+
+[FLOW]
+
+LALA-WACO
+
+L = Latitude
+A = Altitude
+L = Land–Water
+A = Albedo
+W = Winds
+A = Aspect
+C = Clouds
+O = Ocean Currents
+
+[/FLOW]
+
+### 2. Land vs Water
+
+[FLOW]
+
+LAND = FAST
+WATER = SLOW
+
+[/FLOW]
+
+### 3. Isotherm Bending
+
+[FLOW]
+
+WINTER = LAND BENDS IN
+SUMMER = LAND BENDS OUT
+
+January NH → Equatorward over land
+July NH → Poleward over land
+
+[/FLOW]
+
+### 4. Daily Temperature
+
+[FLOW]
+
+MIN → SUNRISE
+MAX → AFTERNOON
+
+[/FLOW]
+
+### 5. Albedo
+
+[FLOW]
+
+WHITE = REFLECT
+DARK = ABSORB
+
+[/FLOW]
+
+### 6. Temperature Gradient
+
+[FLOW]
+
+UP → DOWN
+
+Altitude ↑
+Temperature ↓
+
+[/FLOW]
+
+Remember the major tropospheric value:
+
+[FLOW]
+
+6.5°C/km
+
+[/FLOW]
+
+### 7. Radiation Inversion
+
+[FLOW]
+
+CCL
+
+C = Clear sky
+C = Calm air
+L = Long night
+
+[/FLOW]
+
+### 8. Climate Moderation
+
+[FLOW]
+
+OCEAN = MODERATION
+CONTINENT = EXTREMES
+
+[/FLOW]
+
+-------------------------------------------------------
+## One-Page Revision
+-------------------------------------------------------
+
+[TABLE]
+Concept | One-Liner
+Temperature | Measure of average kinetic energy of particles.
+Latitude | Temperature generally decreases poleward.
+Altitude | Temperature generally decreases upward in troposphere.
+Environmental lapse rate | Average ~6.5°C/km.
+Land | Heats and cools rapidly.
+Water | Heats and cools slowly.
+Continentality | Larger annual temperature range.
+Maritime influence | Smaller annual temperature range.
+Warm current | Usually warms adjacent coasts.
+Cold current | Usually cools adjacent coasts.
+High albedo | More reflection.
+UHI | Urban areas warmer than surrounding rural areas.
+Isotherm | Line joining equal-temperature points.
+January NH | Isotherms bend equatorward over cold continents.
+July NH | Isotherms bend poleward over hot continents.
+Maximum daily temperature | Usually afternoon, not noon.
+Minimum daily temperature | Usually around/shortly after sunrise.
+Temperature inversion | Temperature increases with height in an inversion layer.
+Thermal equator | Zone/line of highest temperatures; shifts seasonally.
+[END TABLE]
+
+-------------------------------------------------------
+## Master Conceptual Flow
+-------------------------------------------------------
+
+[FLOW]
+
+SUN'S ENERGY
+↓
+Angle of Solar Rays
+↓
+INSOLATION
+↓
+Surface Heating
+↓
+TERRESTRIAL RADIATION
+↓
+ATMOSPHERIC HEATING
+↓
+TEMPERATURE
+↓
+Modified by:
+Latitude + Altitude + Land/Water + Clouds + Albedo
++ Winds + Ocean Currents + Aspect
+↓
+HORIZONTAL & VERTICAL TEMPERATURE DISTRIBUTION
+↓
+ISOTHERMS
+↓
+ATMOSPHERIC PRESSURE DIFFERENCES
+↓
+WINDS + OCEAN CURRENTS
+↓
+REGIONAL CLIMATE
+
+[/FLOW]
+
+-------------------------------------------------------
+## UPSC Answer-Writing Framework
+-------------------------------------------------------
+
+### For a Question on Temperature Distribution
+
+[FLOW]
+
+Definition
+↓
+Latitudinal control
+↓
+Altitude
+↓
+Land–water contrast
+↓
+Ocean currents
+↓
+Prevailing winds
+↓
+Clouds/albedo
+↓
+Isotherm deviations
+↓
+Indian/world examples
+↓
+Climate-change linkage
+
+[/FLOW]
+
+### For an Urban Heat Island Question
+
+[FLOW]
+
+Definition
+↓
+Dark/impervious surfaces
+↓
+Reduced vegetation
+↓
+Anthropogenic heat
+↓
+Urban geometry
+↓
+Reduced ventilation
+↓
+Health + energy + rainfall impacts
+↓
+Cool roofs + trees + blue-green infrastructure
+
+[/FLOW]
+
+### For a Temperature Inversion Question
+
+[FLOW]
+
+Definition
+↓
+Normal lapse rate vs inversion
+↓
+Clear sky + calm wind + long night
+↓
+Surface radiative cooling
+↓
+Stable atmosphere
+↓
+Pollution/Fog/Smog
+↓
+Urban & valley examples
+
+[/FLOW]

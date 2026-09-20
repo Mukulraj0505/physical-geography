@@ -1,0 +1,768 @@
+=======================================================
+# Chapter 7 — The Rocks
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Rocks and Minerals: Basic Framework
+-------------------------------------------------------
+
+A rock is a naturally occurring aggregate of one or more minerals held together by physical or chemical bonds. The scientific study of rocks is called petrology.
+
+A mineral is a naturally occurring inorganic solid with an ordered internal/crystalline structure and a characteristic chemical composition or composition range.
+
+Common rock-forming minerals: feldspar, quartz, mica, pyroxene, amphibole and olivine.
+
+[TABLE]
+Rock | Mineral idea | Example
+Granite | Quartz + feldspar + mica and other minerals | Intrusive igneous
+Basalt | Pyroxene + plagioclase + other mafic minerals | Extrusive igneous
+Limestone | Primarily calcite | Sedimentary
+Marble | Recrystallised calcite/dolomite | Metamorphic
+[END TABLE]
+
+Rocks differ in mineral composition, hardness, colour, texture, density and resistance to weathering. These properties influence the landscapes they produce.
+
+-------------------------------------------------------
+## Classification of Rocks
+-------------------------------------------------------
+
+[FLOW]
+
+Rocks → Igneous | Sedimentary | Metamorphic
+
+[/FLOW]
+
+[TABLE]
+Type | Formation | Major subdivisions | Examples
+Igneous | Cooling and solidification of magma/lava | Intrusive, Extrusive, Hypabyssal | Granite, gabbro, basalt, obsidian
+Sedimentary | Deposition → compaction/cementation, chemical precipitation or organic accumulation | Clastic/Mechanical, Chemical, Organic | Sandstone, shale, limestone, coal
+Metamorphic | Transformation of pre-existing rocks under heat, pressure and/or chemically active fluids without complete melting | Foliated, Non-foliated | Slate, schist, gneiss, marble, quartzite
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC core: Learn every rock with its mode of formation + texture + example + parent rock/product. UPSC repeatedly tests these combinations rather than isolated definitions.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Igneous Rocks
+-------------------------------------------------------
+
+Igneous rocks form when molten material magma or lava cools and solidifies. They are often called primary rocks because the first solid rocks of a cooling Earth would have been igneous.
+
+[FLOW]
+
+Magma/lava → cooling → crystallisation + solidification → igneous rock
+
+[/FLOW]
+
+### Intrusive, Extrusive and Hypabyssal Rocks
+
+[TABLE]
+Type | Where it forms | Cooling | Texture | Examples
+Intrusive / Plutonic | Below Earth's surface | Slow | Coarse-grained; large crystals | Granite, Gabbro, Diorite, Pegmatite
+Extrusive / Volcanic | At or very near surface | Rapid | Fine-grained or glassy | Basalt, Andesite, Obsidian, Pumice
+Hypabyssal / Dyke-Sill | Shallow subsurface | Intermediate | Intermediate crystal size | Dolerite/Diabase
+[END TABLE]
+
+[FLOW]
+
+Deep magma → slow cooling → large crystals → coarse-grained intrusive rock
+
+[/FLOW]
+
+[FLOW]
+
+Surface lava → rapid cooling → tiny crystals → fine-grained extrusive rock
+
+[/FLOW]
+
+Pegmatitic texture: exceptionally large crystals resulting from very slow cooling and crystal growth, often associated with late-stage magmatic fluids.
+
+Glassy texture: extremely rapid cooling prevents normal crystal growth, as in obsidian.
+
+Vesicular texture: gas bubbles become trapped in rapidly cooling lava, producing numerous cavities, as in pumice.
+
+### Acidic/Felsic vs Basic/Mafic Igneous Rocks
+
+[TABLE]
+Feature | Acidic / Felsic | Basic / Mafic
+Silica | High, generally >~63–65% | Lower, generally ~45–55%
+Major elements | Si + Al; relatively low Fe-Mg | Relatively rich in Fe + Mg
+Colour | Usually lighter | Usually darker
+Density | Generally lower | Generally higher
+Viscosity | High | Lower
+Lava behaviour | Less fluid; eruptions can be more explosive | More fluid; can travel farther
+Examples | Granite, rhyolite | Basalt, gabbro
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: FEL = Felsic, Elements lighter, Less dense
+
+MAF = Mafic, Magnesium + iron, More dense
+
+[/EXAM FOCUS]
+
+### Important Igneous Textures
+
+[TABLE]
+Texture | Meaning | Example
+Coarse-grained / Phaneritic | Large visible crystals due to slow cooling at depth. | Granite
+Fine-grained / Aphanitic | Small crystals due to rapid cooling. | Basalt
+Porphyritic | Large crystals embedded in a finer matrix, indicating more than one cooling stage. | Porphyritic volcanic rocks
+Glassy | No well-developed crystals due to extremely rapid cooling. | Obsidian
+Vesicular | Numerous gas cavities. | Pumice
+Pegmatitic | Exceptionally large crystals. | Pegmatite
+[END TABLE]
+
+### Geographical and Economic Significance of Igneous Rocks
+
+* Provide important metallic mineral deposits.
+
+* Influence landscape development because different igneous rocks weather at different rates.
+
+* Provide durable construction material such as granite.
+
+* Volcanic rocks are closely associated with volcanic landscapes and geothermal systems.
+
+* Deccan Traps are extensive flood-basalt formations of peninsular India.
+
+* Weathering of basalt is associated with development of black cotton soil (regur) in large parts of the Deccan region.
+
+[EXAM FOCUS]
+
+UPSC Mains 2022: UPSC directly asked: “Describe the characteristics and types of primary rocks.” Therefore intrusive/extrusive classification, cooling rate, texture, composition and examples are extremely important.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Sedimentary Rocks
+-------------------------------------------------------
+
+Sedimentary rocks form mainly at or near Earth's surface through accumulation and lithification of sediments, chemical precipitation or accumulation of organic material.
+
+[FLOW]
+
+Weathering → erosion → transportation → deposition → burial → compaction + cementation → lithification → sedimentary rock
+
+[/FLOW]
+
+Sediments may originate from igneous, metamorphic or older sedimentary rocks, as well as from biological remains and chemical precipitation.
+
+### Key characteristics
+
+* Frequently occur in layers or strata.
+
+* May contain fossils, especially where burial is gentle and the sediments are not later subjected to intense metamorphism.
+
+* Often show structures such as bedding, cross-bedding, ripple marks and graded bedding.
+
+* Generally form at relatively low temperatures and pressures compared with metamorphic rocks.
+
+* Important repositories of coal, petroleum, natural gas, groundwater and several mineral deposits.
+
+* They cover a very large proportion of Earth's exposed land surface, although they constitute a much smaller proportion of the total crustal volume.
+
+### Lithification
+
+Lithification is the conversion of loose sediment into solid sedimentary rock through processes such as compaction and cementation.
+
+[FLOW]
+
+Loose sediment → burial → compaction → cementation → lithified sedimentary rock
+
+[/FLOW]
+
+### Types of Sedimentary Rocks
+
+[TABLE]
+Type | Formation | Examples
+Clastic / Mechanical | Accumulation, compaction and cementation of rock/mineral fragments. | Sandstone, shale, conglomerate, breccia
+Chemical | Precipitation of dissolved minerals from water. | Rock salt, gypsum, some limestones, evaporites
+Organic / Biogenic | Accumulation or biochemical concentration of remains of organisms. | Coal, chalk, some limestones
+[END TABLE]
+
+### Clastic Sedimentary Rocks
+
+[TABLE]
+Rock | Characteristic
+Conglomerate | Rounded gravel/pebble-sized fragments cemented together.
+Breccia | Angular rock fragments cemented together.
+Sandstone | Sand-sized particles, commonly rich in quartz and/or feldspar.
+Shale | Very fine-grained rock made mainly from compacted clay- and silt-sized particles; commonly fissile.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: CBSS → Conglomerate = Bouldery/Rounded, Breccia = Broken/Angular, Sandstone = Sand, Shale = Silt/Clay
+
+[/EXAM FOCUS]
+
+### Chemical and Organic Sedimentary Rocks
+
+* Limestone: mainly calcium carbonate; may be chemical or biochemical/biogenic in origin.
+
+* Dolostone: carbonate rock dominated by the mineral dolomite; commonly develops through alteration of limestone by magnesium-rich fluids.
+
+* Evaporites: form when water evaporates and dissolved salts precipitate. Examples: rock salt and gypsum.
+
+* Coal: forms from accumulated and buried plant material subjected to compaction, heat and pressure over geological time.
+
+* Chalk: soft, porous limestone made largely from microscopic marine calcareous remains.
+
+### Sedimentary Rocks and Resources
+
+[FLOW]
+
+Sedimentary basin → burial + organic accumulation → maturation → hydrocarbons/coal → economic resource
+
+[/FLOW]
+
+* Coal occurs extensively in sedimentary basins.
+
+* Petroleum and natural gas are commonly found in sedimentary basins where source, reservoir and cap rocks occur together under suitable geological conditions.
+
+* Sandstone and limestone can form important aquifers where their pore spaces/fractures permit groundwater storage and movement.
+
+* Sedimentary rocks preserve evidence of past environments, climate, sea-level changes and biological evolution.
+
+-------------------------------------------------------
+## Metamorphic Rocks
+-------------------------------------------------------
+
+Metamorphism is the solid-state transformation of a pre-existing rock caused by changes in temperature, pressure, directed stress and/or chemically active fluids.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Critical correction: Metamorphism generally occurs without complete melting. If a rock melts completely, it becomes magma; cooling and solidification of that magma produces an igneous rock.
+
+[/CLARIFICATION]
+
+[FLOW]
+
+Parent rock + heat/pressure/fluids → recrystallisation + mineral/texture changes → metamorphic rock
+
+[/FLOW]
+
+### Factors of Metamorphism
+
+* Heat: promotes recrystallisation and formation of new minerals.
+
+* Pressure: causes compaction and can produce directed mineral alignment.
+
+* Chemically active fluids: facilitate chemical reactions and movement of ions.
+
+* Time: allows mineral reactions and structural changes to proceed over long periods.
+
+* Directed stress: can cause mineral grains to align, producing foliation.
+
+### Foliated vs Non-foliated Metamorphic Rocks
+
+[TABLE]
+Foliated | Non-foliated
+Minerals show preferred alignment or banding. | No strong planar/banded mineral alignment.
+Usually associated with directed pressure/stress. | Often associated with more uniform pressure or mineral-specific recrystallisation.
+Slate, Schist, Gneiss | Marble, Quartzite
+[END TABLE]
+
+### Parent Rock → Metamorphic Product
+
+[TABLE]
+Parent / Protolith | Metamorphic Rock
+Shale | Slate → Phyllite → Schist (with increasing metamorphic grade)
+Sandstone | Quartzite
+Limestone | Marble
+Granite | Gneiss
+Basalt | Greenschist / Amphibolite / higher-grade products depending on pressure-temperature conditions
+Coal | Higher-rank coal; under suitable metamorphic conditions, can progress towards graphite
+[END TABLE]
+
+[EXAM FOCUS]
+
+UPSC memory: Shale → Slate | Sandstone → Quartzite | Limestone → Marble | Granite → Gneiss
+
+[/EXAM FOCUS]
+
+### Types of Metamorphism
+
+[TABLE]
+Type | Main cause | Typical setting
+Contact / Thermal | High temperature from nearby magma intrusion | Around plutons, dykes and sills; forms a contact aureole
+Regional | Large-scale heat + pressure + directed stress | Mountain-building and plate-convergence zones
+Dynamic / Cataclastic | Mechanical deformation and crushing | Fault zones
+[END TABLE]
+
+[FLOW]
+
+Magma intrusion → heat enters surrounding country rock → contact aureole → contact metamorphism
+
+[/FLOW]
+
+[FLOW]
+
+Plate convergence → burial + pressure + heat + deformation → regional metamorphism → mountain belts
+
+[/FLOW]
+
+[FLOW]
+
+Fault movement → crushing + shearing → dynamic metamorphism
+
+[/FLOW]
+
+### Metamorphic Grade and Facies
+
+Metamorphic grade indicates the intensity of metamorphic conditions experienced by a rock.
+
+[FLOW]
+
+Low grade → increasing temperature/pressure → medium grade → high grade
+
+[/FLOW]
+
+Metamorphic facies represent characteristic mineral assemblages formed under particular ranges of pressure and temperature.
+
+Examples include greenschist, amphibolite, granulite, blueschist and eclogite facies.
+
+[EXAM FOCUS]
+
+Mains use: Metamorphic facies help reconstruct the pressure–temperature history of rocks and therefore provide evidence about burial, subduction, crustal thickening and tectonic evolution.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Rock Cycle
+-------------------------------------------------------
+
+The rock cycle describes the continuous transformation and recycling of rocks through geological processes. It is not a rigid one-way sequence.
+
+[FLOW]
+
+Magma → cooling + solidification → Igneous Rock
+
+[/FLOW]
+
+[FLOW]
+
+Igneous / Sedimentary / Metamorphic Rock → weathering + erosion → sediments → deposition + lithification → Sedimentary Rock
+
+[/FLOW]
+
+[FLOW]
+
+Igneous / Sedimentary / Metamorphic Rock → heat + pressure + fluids → Metamorphic Rock
+
+[/FLOW]
+
+[FLOW]
+
+Any rock → melting → magma → cooling → Igneous Rock
+
+[/FLOW]
+
+[FLOW]
+
+Any exposed rock → weathering → sediments → Sedimentary Rock
+
+[/FLOW]
+
+Thus:
+
+[FLOW]
+
+Igneous ↔ Sedimentary ↔ Metamorphic ↔ Magma ↔ Igneous
+
+[/FLOW]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important: A sedimentary rock does not have to become metamorphic before becoming igneous. It can be buried, melt directly and then cool into an igneous rock.
+
+[/CLARIFICATION]
+
+[EXAM FOCUS]
+
+UPSC Prelims 2016: UPSC tested the rock cycle as the continuous transformation of one rock type into another under varying geological conditions.
+
+[/EXAM FOCUS]
+
+### Rock Cycle and Plate Tectonics
+
+[FLOW]
+
+Weathering + erosion → sediment → deposition
+
+[/FLOW]
+
+[FLOW]
+
+Burial + heat + pressure → metamorphism
+
+[/FLOW]
+
+[FLOW]
+
+Subduction → deeper burial/heating → melting → magma
+
+[/FLOW]
+
+[FLOW]
+
+Magma → volcanism/intrusion → igneous rock
+
+[/FLOW]
+
+This creates an important link between rock cycle + plate tectonics + mountain building + volcanism + erosion.
+
+-------------------------------------------------------
+## Important Rock-Forming Minerals and Economic Minerals
+-------------------------------------------------------
+
+[TABLE]
+Mineral | Key composition / identity | Important significance
+Feldspar | Major silicate mineral group containing K, Na, Ca, Al and Si in different proportions. | Most abundant mineral group in Earth's crust; major component of granite.
+Quartz | SiO₂ | Hard, chemically resistant; common in granite and sandstone; important in glass/electronics.
+Mica | Sheet silicate group | Excellent cleavage; electrical and industrial uses.
+Olivine | Mg-Fe silicate | Important in mafic and ultramafic rocks; indicator of mantle composition.
+Pyroxene | Chain silicate group rich in Ca/Mg/Fe and Si | Important rock-forming mineral in basalt and gabbro.
+Amphibole | Complex silicate group commonly containing Ca, Mg, Fe and Al | Common in igneous and metamorphic rocks.
+Calcite | CaCO₃ | Main mineral of many limestones; reacts with dilute acid.
+Dolomite | CaMg(CO₃)₂ | Important carbonate mineral and source of magnesium.
+Gypsum | CaSO₄·2H₂O | Evaporite; cement, plaster and fertiliser uses.
+Haematite | Fe₂O₃ | Major iron ore; generally reddish-brown streak/powder.
+Magnetite | Fe₃O₄ | Magnetic iron ore with high iron content.
+Bauxite | Aluminium-rich residual ore/mineral assemblage | Principal ore of aluminium; commonly associated with intense tropical weathering.
+Cinnabar | HgS | Principal ore of mercury.
+[END TABLE]
+
+### Mineral–Metal Associations
+
+[TABLE]
+Element / Resource | Important mineral / geological material
+Aluminium | Bauxite
+Iron | Haematite, Magnetite
+Mercury | Cinnabar
+Lead | Galena
+Zinc | Sphalerite
+Titanium | Ilmenite
+Tin | Cassiterite
+Uranium | Uraninite
+Copper | Chalcopyrite
+Magnesium | Talc and Mg-bearing silicates
+[END TABLE]
+
+[EXAM FOCUS]
+
+Prelims memory:
+
+Haematite → Iron
+
+Magnetite → Iron
+
+Bauxite → Aluminium
+
+Cinnabar → Mercury
+
+Galena → Lead
+
+Sphalerite → Zinc
+
+Ilmenite → Titanium
+
+Cassiterite → Tin
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Rock Properties and Geographical Significance
+-------------------------------------------------------
+
+### Weathering and Landforms
+
+Rock resistance controls the relative rate at which landscapes are eroded.
+
+[FLOW]
+
+Different rock hardness/composition → differential weathering → differential erosion → variation in relief → hills, ridges, valleys and escarpments
+
+[/FLOW]
+
+Granite: resistant rock; can form uplands and exposed tors under suitable conditions.
+
+Basalt: extensive lava plateaus such as the Deccan Plateau/Deccan Traps.
+
+Limestone: soluble in weakly acidic water; can develop karst landscapes, caves, sinkholes and underground drainage.
+
+Shale: relatively weak and fine-grained; commonly erodes more easily than resistant sandstone or limestone.
+
+### Rocks, soil and groundwater
+
+[FLOW]
+
+Parent rock → weathering → mineral material → soil formation
+
+[/FLOW]
+
+[FLOW]
+
+Permeable rock → infiltration/storage → groundwater/aquifer
+
+[/FLOW]
+
+[FLOW]
+
+Impermeable layer → restricts downward movement → groundwater may accumulate above it
+
+[/FLOW]
+
+Rock type therefore influences soil fertility, drainage, groundwater availability, vegetation and agriculture.
+
+-------------------------------------------------------
+## Economic and Environmental Importance
+-------------------------------------------------------
+
+[TABLE]
+Rock / Geological material | Major significance
+Granite | Construction, monuments, building stone.
+Basalt | Road aggregate, construction; weathering contributes to black soils in the Deccan.
+Limestone | Cement, construction, chemical industries; also important in karst landscapes.
+Slate | Roofing, paving, traditional construction.
+Marble | Construction, sculpture and decorative stone.
+Sandstone | Building stone and groundwater reservoirs in suitable formations.
+Coal-bearing sedimentary rocks | Major energy resource.
+Petroleum-bearing sedimentary basins | Major source of hydrocarbons.
+[END TABLE]
+
+-------------------------------------------------------
+## UPSC PYQ Analysis
+-------------------------------------------------------
+
+This chapter has repeatedly appeared through rock identification, mode of formation, parent-rock relationships, primary rocks and the rock cycle. The pattern shows that UPSC prefers conceptual distinctions over memorising long lists.
+
+[TABLE]
+PYQ / Period | Concept tested | Lesson for preparation
+Prelims 2001 | Quartzite and sedimentary-rock characteristics | Know parent rock → metamorphic product and properties of sedimentary rocks.
+Prelims 2011 | Identification of granite, basalt and gabbro as igneous rocks | Learn rock examples by category and intrusive/extrusive distinction.
+Prelims 2013 | Identification of marble as non-sedimentary | Limestone → marble is a basic but important pair.
+Prelims 2016 | Meaning of the rock cycle | Rock cycle is continuous and non-linear.
+Prelims 2021 | Formation of igneous, sedimentary and metamorphic rocks | Know the exact processes: solidification, deposition/lithification, solid-state transformation.
+Mains 2022 | Characteristics and types of primary rocks | Intrusive/extrusive + cooling + texture + examples + geographical significance.
+2025–26 UPSC-style trend | Rock-type matching and parent/product identification | Expect statement-based combinations involving basalt, granite, quartzite, marble, gneiss, rock salt and sedimentary rocks.
+[END TABLE]
+
+The official UPSC archive provides the actual Civil Services question papers; the 2022 GS-I paper confirms the direct Mains question on primary rocks.
+
+[EXAM FOCUS]
+
+PYQ pattern in one line:
+
+“What is the rock?” → “How did it form?” → “What is its texture?” → “What was its parent?” → “What does it become?” → “Where does it occur?”
+
+[/EXAM FOCUS]
+
+### What to prioritise for Prelims
+
+[TABLE]
+Topic | Priority
+Igneous: intrusive vs extrusive | ★★★★★
+Rock identification and examples | ★★★★★
+Metamorphic parent-product pairs | ★★★★★
+Rock cycle | ★★★★★
+Sedimentary classification | ★★★★☆
+Foliated vs non-foliated | ★★★★☆
+Acidic/felsic vs basic/mafic | ★★★★☆
+Mineral–ore associations | ★★★★☆
+Rock textures | ★★★★☆
+Economic uses | ★★★☆☆
+[END TABLE]
+
+### Important Mains dimensions
+
+[FLOW]
+
+Rock composition → weathering resistance → erosion → landform development
+
+[/FLOW]
+
+[FLOW]
+
+Rock type → mineral content → soil characteristics → agriculture/vegetation
+
+[/FLOW]
+
+[FLOW]
+
+Sedimentary basin → deposition + burial → coal/hydrocarbon formation → resource geography
+
+[/FLOW]
+
+[FLOW]
+
+Plate convergence → pressure + heat → regional metamorphism → mountain building
+
+[/FLOW]
+
+[FLOW]
+
+Magma → igneous rocks → weathering → sedimentary rocks → metamorphism → melting → magma
+
+[/FLOW]
+
+Mains keyword bank: crystallisation, solidification, lithification, compaction, cementation, recrystallisation, foliation, metamorphic grade, metamorphic facies, differential weathering, rock cycle, plate tectonics, subduction, mineralisation, sedimentary basin.
+
+-------------------------------------------------------
+## High-Yield Mnemonics
+-------------------------------------------------------
+
+[TABLE]
+What to remember | Mnemonic
+Three rock types | I-S-M → Igneous → Sedimentary → Metamorphic
+Igneous classification | I-E-H → Intrusive → Extrusive → Hypabyssal
+Intrusive vs Extrusive | Deep = Slow = Big crystals | Surface = Fast = Fine crystals
+Acidic vs Basic | FEL → Felsic = lighter, less denseMAF → Mafic = Mg/Fe, more dense
+Igneous textures | Fine–Coarse–Glass–Bubble → Basalt–Granite–Obsidian–Pumice
+Sedimentary clastic rocks | CBSS → Conglomerate → Breccia → Sandstone → Shale
+Metamorphic parent products | SLG → Shale → Slate → Gneiss from Granite
+Sa-Q, Li-M → Sandstone → Quartzite; Limestone → Marble
+Foliated rocks | SSG → Slate → Schist → Gneiss
+Non-foliated rocks | MQ → Marble → Quartzite
+Types of metamorphism | CRD → Contact → Regional → Dynamic
+Rock cycle | W-L-M → Weathering → Lithification → Metamorphism; then melting returns material to magma
+Important ores | BACH-GSICU
+Bauxite → Aluminium
+A → (Aluminium already above; use the stronger pair list below)
+Better compact set: Bau-Al, Cin-Hg, Gal-Pb, Spha-Zn, Casse-Sn, Ilme-Ti, Urani-U, Hema/Mag-Fe
+[END TABLE]
+
+-------------------------------------------------------
+## Rock Identification in 30 Seconds
+-------------------------------------------------------
+
+[TABLE]
+See this clue | Think this
+Large crystals | Slow cooling → intrusive igneous
+Very fine crystals | Rapid cooling → extrusive igneous
+Glass-like | Obsidian → extremely rapid cooling
+Many holes | Pumice → vesicular
+Layers + fossils | Sedimentary
+Rounded pebbles | Conglomerate
+Angular fragments | Breccia
+Fine fissile clay/silt rock | Shale
+Mineral banding/foliation | Slate / Schist / Gneiss
+Crystalline carbonate, non-foliated | Marble
+Very hard quartz-rich metamorphic rock | Quartzite
+[END TABLE]
+
+-------------------------------------------------------
+## Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Trap | Correct concept
+Basalt is intrusive. | Basalt = extrusive volcanic rock.
+Gabbro is extrusive. | Gabbro = intrusive, coarse-grained equivalent of basalt.
+Granite forms by rapid cooling. | Granite forms by slow cooling at depth.
+Metamorphism involves complete melting. | Usually solid-state transformation without complete melting.
+Marble is sedimentary. | Marble = metamorphosed limestone.
+Quartzite is metamorphosed limestone. | Quartzite = metamorphosed sandstone.
+Gneiss is sedimentary. | Gneiss = metamorphic rock.
+Foliation means sedimentary layering. | Foliation = aligned metamorphic minerals due to directed stress.
+Conglomerate and breccia are the same. | Conglomerate = rounded clasts; Breccia = angular clasts.
+Rock cycle follows one fixed route. | Non-linear and continuous.
+Sedimentary rock must become metamorphic before becoming igneous. | No. It can melt directly → magma → igneous rock.
+All sedimentary rocks contain fossils. | Fossils are common in sedimentary rocks but not every sedimentary rock is fossiliferous.
+All limestone is purely chemical. | Limestone can have chemical, biochemical and other origins.
+Acidic rock means chemically acidic like an acid solution. | “Acidic” in igneous petrology refers mainly to high silica content.
+Acidic lava travels farther because it is highly fluid. | High-silica acidic/felsic lava is viscous and generally less mobile.
+Weathering resistance is the same for all rocks. | Rock composition, texture, fractures and climate affect differential weathering.
+[END TABLE]
+
+-------------------------------------------------------
+## Short Revision Sheet
+-------------------------------------------------------
+
+[FLOW]
+
+Magma/Lava → cooling + solidification → Igneous
+
+[/FLOW]
+
+[FLOW]
+
+Weathering → erosion → deposition → compaction + cementation → Sedimentary
+
+[/FLOW]
+
+[FLOW]
+
+Heat + pressure + fluids → solid-state transformation → Metamorphic
+
+[/FLOW]
+
+Intrusive: deep + slow + coarse + granite/gabbro
+
+Extrusive: surface + fast + fine/glassy + basalt/obsidian
+
+Acidic/Felsic: high silica + light + viscous + granite/rhyolite
+
+Basic/Mafic: Fe-Mg rich + dark + denser + basalt/gabbro
+
+Sedimentary: strata + fossils + lithification + coal/petroleum/aquifers
+
+Metamorphic: heat/pressure/fluids + recrystallisation + foliation possible
+
+Foliated: Slate → Schist → Gneiss
+
+Non-foliated: Limestone → Marble | Sandstone → Quartzite
+
+[FLOW]
+
+Contact metamorphism → magma heat → local aureole
+
+[/FLOW]
+
+[FLOW]
+
+Regional metamorphism → large-scale pressure + heat → mountain belts
+
+[/FLOW]
+
+[FLOW]
+
+Dynamic metamorphism → fault-zone crushing + shearing
+
+[/FLOW]
+
+[FLOW]
+
+Rock → weathering → sediment → sedimentary
+
+[/FLOW]
+
+[FLOW]
+
+Rock → heat + pressure → metamorphic
+
+[/FLOW]
+
+[FLOW]
+
+Rock → melting → magma → cooling → igneous
+
+[/FLOW]
+
+Important ores: Bauxite → Al | Haematite/Magnetite → Fe | Cinnabar → Hg | Galena → Pb | Sphalerite → Zn | Cassiterite → Sn | Ilmenite → Ti | Uraninite → U
+
+India: Deccan Traps → Basalt | Black soil → extensive weathering of basalt in Deccan | Limestone → major cement resource | Sedimentary basins → coal + petroleum.
+
+[NOTE]
+
+UPSC CORE:
+
+Formation → Composition → Texture → Classification → Examples → Parent/Product → Geographical significance → Economic significance → Rock Cycle
+
+[/NOTE]

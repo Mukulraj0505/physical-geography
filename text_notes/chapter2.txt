@@ -1,0 +1,698 @@
+=======================================================
+# Chapter 2 — Solar System
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## 1. Solar System: Structure and Basic Concepts
+-------------------------------------------------------
+
+The Solar System is the gravitationally bound system consisting of the Sun and all objects orbiting it.
+
+[FLOW]
+Sun → 8 planets → dwarf planets → moons → asteroids → comets → meteoroids and other small bodies
+[/FLOW]
+
+* 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
+
+* Officially recognised dwarf planets: Ceres, Pluto, Haumea, Makemake and Eris.
+
+* The Solar System is located in the Milky Way, in the Orion Arm/Orion Spur.
+
+* The Sun and most planets formed from a rotating cloud/disc, so planetary orbits are broadly concentrated near the same plane, called the ecliptic plane.
+
+[TABLE]
+Inner / Terrestrial planets | Outer / Giant planets
+Mercury, Venus, Earth, Mars | Jupiter, Saturn, Uranus, Neptune
+Small, rocky, relatively dense, solid surfaces | Large, lower average density, thick atmospheres
+Metal + silicate dominated | Jupiter/Saturn = gas giants; Uranus/Neptune = ice giants
+Few/no moons; no planetary ring systems | All giant planets possess ring systems and many moons
+[END TABLE]
+
+Why inner planets are rocky: in the hotter inner Solar System, volatile substances could not easily condense; refractory rock and metal remained. Farther out, lower temperatures allowed abundant volatile compounds/ices to accumulate.
+
+[FLOW]
+Hot inner nebula → rock + metal condense → terrestrial planets
+[/FLOW]
+
+[FLOW]
+Cool outer nebula → ices + gases accumulate → giant planets
+[/FLOW]
+
+[NOTE]
+
+Important: The four outer planets are not all “gas giants.” Jupiter and Saturn are gas giants; Uranus and Neptune are ice giants.
+
+[/NOTE]
+
+-------------------------------------------------------
+## 2. Formation of the Solar System
+-------------------------------------------------------
+
+The modern solar nebular/protoplanetary disk model explains the broad features of the Solar System.
+
+[FLOW]
+Giant molecular cloud → gravitational collapse → increasing rotation due to angular-momentum conservation → flattened rotating protoplanetary disk → dense central protosun → nuclear fusion begins in the Sun → leftover disk material accretes into planetesimals → protoplanets → planets
+[/FLOW]
+
+The original Kant-Laplace ideas are historically important, but the modern nebular model incorporates accretion, planetesimals, protoplanets and protoplanetary disks.
+
+Why a disc forms: gravity draws matter inward, while conservation of angular momentum causes the collapsing cloud to rotate faster and flatten.
+
+Particle interactions and collisions help dust grains stick and grow; repeated accretion produces larger bodies.
+
+The young Sun's solar wind also influenced the distribution of volatile materials in the early Solar System.
+
+### Sun: Formation, position and neighbours
+
+[FLOW]
+Protosolar nebula → central concentration → protosun → core temperature and pressure rise → hydrogen fusion → present Sun
+[/FLOW]
+
+* Sun is a medium-sized star and contains about 99.8% of the Solar System's mass.
+
+* Nearest star system: Alpha Centauri, about 4.37 light-years away.
+
+* Proxima Centauri is the nearest individual star to the Sun, about 4.24 light-years away.
+
+* One light-year is a distance, not a unit of time: the distance light travels in one year, about 9.46 trillion km.
+
+-------------------------------------------------------
+## 3. Motions of the Solar System
+-------------------------------------------------------
+
+Rotation = spinning of a body about its own axis.
+
+Revolution = orbital motion of a body around another body.
+
+[TABLE]
+Motion | Meaning | Key point
+Rotation of planets | Planet spins on its axis | Controls length of a solar/sidereal day and contributes to day-night cycle.
+Revolution of planets | Planet moves around the Sun | Determines orbital period/year.
+Prograde rotation | Rotation broadly in the same sense as Earth's orbital motion around the Sun | Most planets.
+Retrograde rotation | Rotation opposite to the usual/prograde sense | Especially Venus; Uranus is often described as effectively retrograde because its axial tilt is >90°.
+[END TABLE]
+
+Most planetary orbits are elliptical, although many are close to circular. Most planets revolve in the same broad direction around the Sun.
+
+-------------------------------------------------------
+## 4. The Sun: Structure, Composition and Activity
+-------------------------------------------------------
+
+The Sun is a hydrogen–helium star powered by nuclear fusion.
+
+* Diameter ≈ 1.39 million km; radius ≈ 696,000 km.
+
+* Surface/visible photospheric temperature ≈ 5,500°C (about 5,778 K).
+
+* Composition by mass is roughly hydrogen ~74% and helium ~24%, with heavier elements making up the remainder.
+
+[FLOW]
+Hydrogen nuclei fuse → helium forms → mass difference converted into energy → radiation powers the Sun
+[/FLOW]
+
+### Internal and atmospheric layers
+
+[TABLE]
+Layer | Key features
+Core | Site of thermonuclear fusion; highest temperature and pressure; main energy-generating region.
+Radiative zone | Energy mainly transported outward by radiation; photons undergo repeated interactions and take a very long time to diffuse outward.
+Convection zone | Energy transported mainly by convection; hot plasma rises and cooler plasma sinks.
+Photosphere | Visible “surface”; most visible sunlight escapes from here.
+Chromosphere | Thin atmospheric layer above photosphere; temperature rises outward through it.
+Corona | Outermost atmosphere; extremely hot and tenuous; source region of the solar wind and prominent in X-ray/ultraviolet observations.
+[END TABLE]
+
+### Heliosphere
+
+The heliosphere is the vast region around the Sun dominated by the solar wind and solar magnetic field, extending far into interstellar space.
+
+[FLOW]
+Solar wind → supersonic outflow → termination shock → slower, hotter solar wind → heliosheath → heliopause → interstellar space
+[/FLOW]
+
+* Solar wind: continuous flow of charged particles, mainly protons and electrons, from the Sun.
+
+* Termination shock: region where the solar wind slows dramatically as it encounters the interstellar medium.
+
+* Heliopause: boundary where solar-wind pressure balances the surrounding interstellar medium.
+
+### Sunspots and solar cycle
+
+Sunspots are relatively cooler, darker regions of the photosphere associated with strong magnetic fields.
+
+Their number varies over an approximately 11-year solar cycle.
+
+[FLOW]
+Solar activity rises → more sunspots/flares/CMEs → stronger space-weather effects
+[/FLOW]
+
+### Space-weather phenomena
+
+[TABLE]
+Phenomenon | What happens | Possible effects on Earth
+Solar flare | Sudden release of electromagnetic energy from active solar regions. | Radio blackouts; enhanced radiation; effects on satellites and communications.
+Coronal Mass Ejection (CME) | Huge eruption of magnetised plasma from the solar corona. | Geomagnetic storms; effects on satellites, grids, navigation and communications.
+Solar wind | Continuous charged-particle flow. | Modifies Earth's magnetosphere and drives normal auroral processes.
+Solar radiation storm | High-energy particles associated with solar eruptions. | Radiation hazards to astronauts and spacecraft; technological impacts.
+[END TABLE]
+
+Sunspots, flares and CMEs are related to solar magnetic activity but are not identical phenomena.
+
+### Effects of space weather on Earth
+
+[FLOW]
+Solar eruption/CME → charged particles reach Earth → interact with magnetosphere → currents and magnetic disturbances → geomagnetic storm
+[/FLOW]
+
+* Aurora: energetic charged particles guided by Earth's magnetic field interact with atmospheric gases, producing light, especially at high latitudes.
+
+* Electric grids: geomagnetically induced currents can disrupt power infrastructure.
+
+* Communication: radio propagation can be disturbed, especially through ionospheric changes.
+
+* Navigation: GPS/GNSS accuracy can be affected.
+
+* Satellites: radiation and atmospheric expansion can increase operational risks and drag on low-Earth-orbit spacecraft.
+
+* Human spaceflight: high-energy solar particles pose radiation risks.
+
+[EXAM FOCUS]
+
+[MAINS] 
+Space weather links Sun–magnetosphere–ionosphere coupling with modern infrastructure: satellites, power grids, aviation, navigation, communication and space missions.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 5. Planets: Classification and Special Features
+-------------------------------------------------------
+
+[NOTE]
+
+The IAU definition adopted in 2006 requires a planet to orbit a star, be massive enough for near-hydrostatic equilibrium, and have cleared the neighbourhood around its orbit. Pluto satisfies the first two but not the third, so it is a dwarf planet.
+
+[/NOTE]
+
+[TABLE]
+Planet | High-yield UPSC features
+Mercury | Smallest planet; closest to Sun; terrestrial; no substantial atmosphere; extreme temperature variation; 3:2 spin-orbit resonance.
+Venus | Earth-sized terrestrial planet; thick CO₂ atmosphere; strongest greenhouse effect; slow retrograde rotation; hottest planetary surface.
+Earth | Liquid surface water; life known; oxygen-rich atmosphere; active plate tectonics; one natural satellite.
+Mars | Iron-oxide reddish surface; thin CO₂-rich atmosphere; evidence of ancient water; two small moons, Phobos and Deimos.
+Jupiter | Largest planet; gas giant; hydrogen-helium dominated; Great Red Spot; powerful magnetic field; many moons.
+Saturn | Gas giant; spectacular ring system; hydrogen-helium atmosphere; low average density; Titan is major moon.
+Uranus | Ice giant; extreme axial tilt ~98°; rotates effectively on its side; methane-rich atmosphere; faint rings.
+Neptune | Farthest recognised planet; ice giant; strong winds; methane contributes to blue appearance; ring system.
+[END TABLE]
+
+### Mercury
+
+* Smallest planet and nearest to the Sun.
+
+* Very thin exosphere, so it lacks a substantial atmosphere capable of retaining heat.
+
+* Large day-night temperature range.
+
+* Its sidereal rotation period ≈ 58.6 Earth days; revolution period ≈ 88 Earth days.
+
+* Because of its 3:2 spin-orbit resonance, one solar day on Mercury lasts about 176 Earth days.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: Do not equate Mercury's “day” with 59 Earth days without qualification. 58.6 days = one sidereal rotation; ~176 days = one solar day.
+
+[/CLARIFICATION]
+
+### Venus
+
+Venus is often called Earth's “sister planet” because of its similar size and rocky composition, but surface conditions are radically different.
+
+[FLOW]
+Dense CO₂ atmosphere → intense infrared trapping → runaway/very strong greenhouse effect → hottest planetary surface
+[/FLOW]
+
+* Atmosphere dominated by carbon dioxide; clouds contain sulfuric-acid aerosols.
+
+* Surface pressure is roughly 92 times Earth's.
+
+* Extensive volcanic and mountainous terrain.
+
+* Retrograde rotation: Venus rotates in the opposite sense to most planets.
+
+* Sidereal rotation period ≈ 243 Earth days; orbital period ≈ 224.7 Earth days.
+
+* Its solar day is about 117 Earth days.
+
+[EXAM FOCUS]
+
+[PRELIMS] 
+Venus is hotter than Mercury despite being farther from the Sun because its dense atmosphere creates an exceptionally strong greenhouse effect.
+
+[/EXAM FOCUS]
+
+### Earth: unique position and habitability
+
+Earth's orbital location lies within the broad habitable zone / Goldilocks zone, where liquid water can exist at the surface under suitable atmospheric conditions.
+
+The exact habitable-zone boundaries depend on the star, atmosphere and climate assumptions; “Earth is in the Goldilocks zone” does not mean habitability is guaranteed.
+
+[FLOW]
+Suitable distance from Sun + liquid water + atmosphere + stable energy balance + protective conditions → favourable conditions for life
+[/FLOW]
+
+Earth's atmospheric and surface advantages: liquid water, nitrogen-rich atmosphere with oxygen, magnetic field, moderate temperatures, active water cycle and long-term geological regulation.
+
+### Mars
+
+* Called the Red Planet because iron-bearing minerals on the surface have oxidised, producing the reddish appearance.
+
+* Atmosphere is thin and dominated by CO₂, with nitrogen and argon.
+
+* Evidence from valleys, minerals, sediments and polar/subsurface deposits indicates that water existed on Mars in the past; present-day water is mainly in ice and possibly transient/subsurface forms.
+
+* Phobos and Deimos are its two moons.
+
+### Jupiter
+
+* Largest planet in the Solar System.
+
+* Gas giant dominated by hydrogen and helium.
+
+* Great Red Spot = enormous persistent storm system.
+
+* Very rapid rotation; a Jovian day is roughly 10 hours.
+
+* Strong magnetic field and intense radiation belts.
+
+### Saturn
+
+* Gas giant with the most visually prominent ring system.
+
+* Rings are composed mainly of ice particles with rock and dust.
+
+* Titan: dense nitrogen-rich atmosphere and methane cycle.
+
+* Enceladus: icy moon with evidence of a subsurface ocean and active plumes.
+
+### Uranus
+
+* Ice giant; methane contributes to its blue-green colour.
+
+* Axial tilt ≈ 98°, producing extreme seasonal geometry.
+
+* Possesses a faint ring system.
+
+* Its rotation is often called effectively retrograde because of its extreme axial tilt.
+
+### Neptune
+
+* Farthest of the eight planets from the Sun.
+
+* Ice giant with hydrogen, helium and methane in the atmosphere.
+
+* Known for very high wind speeds and dynamic atmospheric storms.
+
+* Has a faint ring system and multiple moons, including Triton, which has a retrograde orbit.
+
+-------------------------------------------------------
+## 6. Natural Satellites, Major Moons and Rings
+-------------------------------------------------------
+
+The Sun does not possess natural satellites. Planets and dwarf planets can have moons; moon counts change as new small objects are confirmed, so exact counts are not high-priority UPSC facts.
+
+[TABLE]
+Moon | Planet | Why important
+Ganymede | Jupiter | Largest natural satellite in the Solar System; possesses its own magnetic field.
+Europa | Jupiter | Ice-covered world with strong evidence for a subsurface salty ocean; high astrobiological interest.
+Io | Jupiter | Extremely volcanically active due to tidal heating.
+Callisto | Jupiter | Heavily cratered outer Galilean moon.
+Titan | Saturn | Dense atmosphere; methane cycle; lakes/seas of liquid hydrocarbons at the surface.
+Enceladus | Saturn | Subsurface ocean and water-rich plumes.
+[END TABLE]
+
+[FLOW]
+Tidal interaction → internal flexing/heating → geological activity
+[/FLOW]
+
+Planetary rings: made of particles ranging from dust to larger chunks of rock and ice. All four giant planets possess rings, though Saturn's are by far the most conspicuous.
+
+-------------------------------------------------------
+## 7. Dwarf Planets and Pluto
+-------------------------------------------------------
+
+A dwarf planet orbits the Sun and is massive enough to become nearly round, but has not cleared its orbital neighbourhood and is not a moon.
+
+Officially recognised examples:
+
+[SEQUENCE: 
+[Ceres] • 
+[Pluto] • 
+[Haumea] • 
+[Makemake] • 
+[Eris]
+]
+
+Pluto: dwarf planet in the Kuiper Belt; visited by NASA's New Horizons in 2015.
+
+Ceres: largest object in the asteroid belt and the only officially recognised dwarf planet located in the asteroid belt.
+
+-------------------------------------------------------
+## 8. Asteroids, Kuiper Belt, Oort Cloud and Comets
+-------------------------------------------------------
+
+### Asteroids
+
+Asteroids are mostly rocky and metallic small bodies orbiting the Sun. Most lie in the Main Asteroid Belt between Mars and Jupiter.
+
+The asteroid belt is thought to contain leftover planet-building material that never merged into a planet, strongly influenced by Jupiter's gravity.
+
+### Kuiper Belt
+
+[FLOW]
+Neptune's orbit → Kuiper Belt begins around ~30 AU → icy bodies + dwarf planets + short-period comet sources
+[/FLOW]
+
+* Broad, disc-like region beyond Neptune.
+
+* Contains Pluto, Haumea, Makemake and many other trans-Neptunian objects.
+
+* Major source of many short-period comets.
+
+* Represents relatively primitive icy material left from Solar System formation.
+
+### Oort Cloud
+
+[FLOW]
+Far beyond Kuiper Belt → distant spherical reservoir of icy bodies → gravitational disturbance → some objects enter long-period comet orbits
+[/FLOW]
+
+* Hypothesised spherical shell surrounding the Solar System.
+
+* Source region associated with many long-period comets.
+
+* It has not been directly observed; its existence is inferred from comet dynamics.
+
+[EXAM FOCUS]
+
+[PRELIMS] 
+Kuiper Belt = flattened/disc-like and beyond Neptune; Oort Cloud = distant spherical shell.
+
+[/EXAM FOCUS]
+
+### Comets
+
+Comets are bodies containing substantial ices, dust and rocky material.
+
+[FLOW]
+Comet approaches Sun → solar heating warms nucleus → ice sublimates → coma develops → solar radiation + solar wind shape tails
+[/FLOW]
+
+* Nucleus: solid icy-rocky core.
+
+* Coma: cloud of gas and dust surrounding the nucleus when active.
+
+* Dust tail: mainly dust; broadly curves away from the Sun.
+
+* Ion tail: charged gas/plasma; points almost directly away from the Sun due to the solar wind and magnetic field.
+
+[EXAM FOCUS]
+
+[PRELIMS] 
+A comet's tails do not necessarily trail behind it. Their orientation is controlled largely by the Sun's radiation and solar wind, so they generally point away from the Sun.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 9. Meteoroids, Meteors, Meteorites and Meteor Showers
+-------------------------------------------------------
+
+[TABLE]
+Term | Meaning
+Meteoroid | Small rocky/metallic body travelling through space, often originating from asteroids or comets.
+Meteor | Visible streak of light produced when a meteoroid enters an atmosphere and heats/ablates.
+Meteorite | Part of a meteoroid that survives atmospheric passage and reaches the ground.
+Meteor shower | Many meteors appearing to come from a common radiant, usually when Earth passes through debris left by a comet or asteroid.
+[END TABLE]
+
+[FLOW]
+Space rock → enters atmosphere → ablation/heating → meteor
+[/FLOW]
+
+[FLOW]
+Survives passage → reaches Earth's surface → meteorite
+[/FLOW]
+
+Example: Orionid meteor shower is associated with debris from Halley's Comet; meteors appear to radiate from the direction of the Orion constellation.
+
+-------------------------------------------------------
+## 10. Impact Craters and Astrobiological Significance
+-------------------------------------------------------
+
+High-speed impacts of asteroids or meteoroids can excavate craters and radically transform local geology.
+
+[FLOW]
+Asteroid/meteoroid → high-speed impact → shock waves + intense heating → excavation → crater + ejecta → impact-altered rocks/minerals
+[/FLOW]
+
+### Important impact craters
+
+[TABLE]
+Crater | Location | Significance
+Chicxulub | Yucatán Peninsula, Mexico | Impact associated with the end-Cretaceous mass extinction.
+Vredefort | South Africa | One of the largest and oldest confirmed impact structures on Earth.
+Sudbury Basin | Ontario, Canada | Ancient impact structure; economically important mineral deposits.
+Chesapeake Bay | Virginia, USA | Large buried impact structure.
+Popigai | Siberia, Russia | Large impact crater; impact-generated diamonds are associated with the structure.
+Lonar | Maharashtra, India | Impact crater in Deccan basalt; saline-alkaline lake and important geo-heritage site.
+[END TABLE]
+
+### Lonar Lake — India
+
+[FLOW]
+Meteorite/asteroid impact → crater excavated in Deccan basalt → enclosed depression → water accumulation → saline-alkaline crater lake
+[/FLOW]
+
+* Located in Buldhana district, Maharashtra.
+
+* Formed in the basaltic rocks of the Deccan Traps.
+
+* Crater is roughly 1.8–1.9 km across and around 150 m deep.
+
+* The lake is broadly endorheic, with no normal surface outlet, favouring salt accumulation.
+
+* Water is characteristically saline and alkaline.
+
+* Designated a Ramsar Site in 2020.
+
+* Important features include impact breccia, shock-related structures and impact glasses.
+
+* It is especially significant because the impact occurred in basalt, making it useful for comparative planetary geology.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Prelims trap: Lonar is not a volcanic crater. It lies within the volcanic Deccan Traps, but the crater itself is of meteoritic impact origin.
+
+[/CLARIFICATION]
+
+### Astrobiological signatures of life
+
+[TABLE]
+Indicator | What scientists look for
+Organic chemicals | Amino acids, nucleotides and other carbon-bearing molecules relevant to life.
+Liquid water | Strong habitability indicator because known terrestrial life depends on liquid water.
+Habitability | Temperatures and environmental conditions capable of supporting stable liquid water.
+Geological features | Structures/minerals suggesting past liquid water or suitable environmental conditions.
+Redox gradients | Potential energy sources for microbial metabolism.
+Microbial life | Direct detection of microorganisms or unambiguous biosignatures.
+Bioluminescence / biosignatures | Potential biological or biochemical signals that require careful confirmation.
+Atmospheric chemistry | Gases such as oxygen, methane or combinations that are difficult to maintain abiotically can motivate investigation, but are not by themselves proof of life.
+Isotopic signatures | Unusual isotope ratios may indicate biological or abiotic processes; context is essential.
+Repetition and persistence | Repeated, reproducible observations are more credible than a single transient signal.
+[END TABLE]
+
+[EXAM FOCUS]
+
+[MAINS] 
+Astrobiology is based on the distinction between habitability and actual evidence of life. Liquid water or an organic molecule alone does not prove life.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 11. Important Planetary and Lunar Concepts
+-------------------------------------------------------
+
+### Goldilocks Zone / Habitable Zone
+
+[FLOW]
+Too close → excessive heating / loss of liquid water
+[/FLOW]
+
+[FLOW]
+Suitable distance + suitable atmosphere → potential for surface liquid water
+[/FLOW]
+
+[FLOW]
+Too far → insufficient stellar energy → water tends to remain frozen
+[/FLOW]
+
+The habitable zone is not a fixed shell independent of the star; it varies with stellar luminosity and atmospheric conditions.
+
+### Moon: key concepts
+
+* Moon's rotation period ≈ its orbital period around Earth (~27.3 days), producing synchronous rotation / tidal locking.
+
+* Therefore, the same lunar hemisphere generally faces Earth.
+
+* The Moon's phases result from changing viewing geometry as the Moon revolves around Earth; they are not caused by Earth's shadow.
+
+* Moon has essentially no substantial atmosphere; it possesses an extremely tenuous exosphere.
+
+* Permanent shadow exists in some polar lunar regions, making them important for possible water ice.
+
+[FLOW]
+Sun illuminates Moon → Moon revolves around Earth → Earth sees changing fraction of illuminated hemisphere → lunar phases
+[/FLOW]
+
+### Lunar phases
+
+[TABLE]
+Phase | Appearance from Earth
+New Moon | Moon lies approximately between Earth and Sun; visible illuminated portion is minimal.
+Waxing Crescent | Increasing illuminated fraction.
+First Quarter | About half the visible disk illuminated.
+Waxing Gibbous | More than half illuminated, increasing.
+Full Moon | Earth sees nearly the entire sunlit hemisphere.
+Waning Gibbous | Illuminated fraction decreases.
+Third/Last Quarter | About half the visible disk illuminated.
+Waning Crescent | Thin, decreasing crescent before new moon.
+[END TABLE]
+
+### Blue Moon, Supermoon and Harvest Moon
+
+* Blue Moon: calendar term; commonly refers to the second full moon in a calendar month. It does not mean the Moon literally appears blue.
+
+* Supermoon: popular term for a full/new moon occurring near perigee and therefore appearing somewhat larger/brighter than an average full moon.
+
+* Harvest Moon: full moon nearest the September equinox in the Northern Hemisphere; historically useful for extending evening light during harvest periods.
+
+### “Dark side of the Moon” — correct terminology
+
+The far side of the Moon is not permanently dark. It receives sunlight just like the near side. “Far side” is scientifically preferable because the Moon rotates and different parts receive sunlight over time.
+
+### Eclipses
+
+Eclipses occur when the Sun, Earth and Moon become sufficiently aligned. They do not occur every month because the Moon's orbital plane is tilted by about 5° relative to Earth's orbital plane.
+
+[TABLE]
+Type | Alignment and shadow
+Total lunar eclipse | Moon passes completely through Earth's umbra.
+Partial lunar eclipse | Only part of Moon enters Earth's umbra.
+Penumbral lunar eclipse | Moon passes through Earth's penumbra.
+Total solar eclipse | Moon completely covers the Sun's visible disk for observers in the umbral path.
+Annular solar eclipse | Moon appears smaller than the Sun because it is farther away/apparently smaller; a bright ring remains.
+Partial solar eclipse | Only part of the Sun is covered.
+Hybrid solar eclipse | Can appear annular in some locations and total in others because Earth's curved surface changes viewing geometry.
+[END TABLE]
+
+[FLOW]
+Solar eclipse → Moon between Sun and Earth → Moon's shadow falls on Earth
+[/FLOW]
+
+[FLOW]
+Lunar eclipse → Earth between Sun and Moon → Moon passes through Earth's shadow
+[/FLOW]
+
+[EXAM FOCUS]
+
+[PRELIMS] 
+Solar eclipses are visible only along a narrow path for totality/annularity, whereas a lunar eclipse can be seen from a much larger fraction of Earth's night side.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 12. High-Yield Comparisons
+-------------------------------------------------------
+
+[TABLE]
+Asteroids | Comets
+Mostly rocky/metallic | Rich in ice, dust and volatile material
+Most concentrated in main asteroid belt between Mars and Jupiter | Many short-period comets originate from Kuiper Belt; many long-period comets are associated with Oort Cloud
+Normally no coma or tail | Develop coma and tails when sufficiently close to Sun
+Generally less volatile activity | Active through sublimation of ices
+[END TABLE]
+
+[TABLE]
+Terrestrial planets | Giant planets
+Mercury, Venus, Earth, Mars | Jupiter, Saturn, Uranus, Neptune
+Rock/metal dominated | Gas/ice-rich
+Small and dense | Large and lower average density
+Few or no moons; no prominent rings | Many moons; all have ring systems
+[END TABLE]
+
+[TABLE]
+Kuiper Belt | Oort Cloud
+Disc-like region beyond Neptune | Spherical shell surrounding Solar System
+~30–55 AU is a useful approximate range for the main belt region | Extends vastly farther out; exact outer boundary uncertain
+Short-period comet source | Long-period comet source
+Contains Pluto and other trans-Neptunian objects | Not directly observed; inferred from dynamics
+[END TABLE]
+
+-------------------------------------------------------
+## 13. One-Page Revision Sheet
+-------------------------------------------------------
+
+[FLOW]
+Solar nebula → gravitational collapse → rotation increases → protoplanetary disc → protosun + planetesimals → protoplanets → planets
+[/FLOW]
+
+[FLOW]
+Hot inner zone → rock/metal → Mercury–Mars
+[/FLOW]
+
+[FLOW]
+Cool outer zone → volatiles/ices + gas → Jupiter–Neptune
+[/FLOW]
+
+[FLOW]
+Sun: core → radiative zone → convection zone → photosphere → chromosphere → corona
+[/FLOW]
+
+[FLOW]
+Solar activity → flares/CMEs/solar wind → magnetosphere/ionosphere → aurora + communication/navigation/grid effects
+[/FLOW]
+
+[FLOW]
+Main sequence star → planetary system formation → inner terrestrial planets + outer giant planets
+[/FLOW]
+
+[FLOW]
+Asteroid → atmosphere → meteor → survives → meteorite
+[/FLOW]
+
+[FLOW]
+Comet → solar heating → coma + dust tail + ion tail
+[/FLOW]
+
+[FLOW]
+Neptune → Kuiper Belt → Oort Cloud
+[/FLOW]
+
+[FLOW]
+Sun–Moon–Earth alignment → eclipse
+[/FLOW]
+
+[FLOW]
+Moon's orbit + changing illuminated fraction → lunar phases
+[/FLOW]
+
+[FLOW]
+Meteorite impact → shock + heat → crater → impact-altered rocks
+[/FLOW]
+
+India: Lonar Lake = Maharashtra + Deccan basalt + meteorite impact + saline/alkaline crater lake + Ramsar Site (2020).
+
+Planet facts to remember: Mercury = smallest; Venus = hottest; Earth = liquid-water planet with known life; Mars = Red Planet; Jupiter = largest; Saturn = spectacular rings; Uranus = extreme axial tilt; Neptune = strongest winds among the planets.
+
+Moon facts: synchronous rotation; phases ≠ Earth's shadow; far side ≠ permanently dark; polar permanently shadowed regions may contain water ice.

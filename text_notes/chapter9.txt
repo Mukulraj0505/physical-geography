@@ -1,0 +1,935 @@
+=======================================================
+# Chapter 9 — Plate Tectonics
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Plate Tectonics: The Unifying Theory
+-------------------------------------------------------
+
+Plate tectonics explains the large-scale movement of Earth's lithosphere and the resulting distribution of continents, oceans, mountains, volcanoes, earthquakes, trenches and oceanic ridges.
+
+The lithosphere is divided into a number of rigid plates that move over the weaker, ductile asthenosphere.
+
+[FLOW]
+
+Earth's internal heat → mantle dynamics → plate movement → interaction at plate boundaries → mountains + rifts + trenches + volcanoes + earthquakes + ocean basins
+
+[/FLOW]
+
+Earth's continents cover roughly 29% of the surface, while oceans cover about 71%.
+
+[EXAM FOCUS]
+
+Core idea: It is not the continents alone that “float and move”. The entire lithospheric plate moves, carrying continental and/or oceanic crust with it.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Continental Drift Theory — Alfred Wegener
+-------------------------------------------------------
+
+Alfred Wegener proposed the Continental Drift hypothesis in 1912 and developed it further in his later work. He argued that the present continents were once assembled into a single supercontinent.
+
+[FLOW]
+
+Pangaea + Panthalassa → breakup → Laurasia + Gondwanaland → further fragmentation → present continents
+
+[/FLOW]
+
+[TABLE]
+Term | Meaning
+Pangaea | Supercontinent containing almost all present continental landmasses.
+Panthalassa | Vast ocean surrounding Pangaea.
+Laurasia | Northern continental assemblage that included much of present North America, Europe and Asia.
+Gondwanaland / Gondwana | Southern continental assemblage including India, Africa, South America, Antarctica, Australia and Madagascar.
+Tethys Sea | Oceanic realm between Laurasia and Gondwanaland in the classical reconstruction.
+[END TABLE]
+
+[FLOW]
+
+Pangaea → Laurasia + Gondwanaland → Atlantic expands + Indian Plate moves north → collision with Eurasia → Himalayas
+
+[/FLOW]
+
+### Evidence for Continental Drift
+
+Wegener supported continental drift using geological, palaeontological, climatic and geomorphological evidence.
+
+[TABLE]
+Evidence | Example | Why significant
+Jigsaw fit | East coast of South America and west coast of Africa. | The continental margins fit much better when continental shelves are considered rather than only present coastlines.
+Matching rocks | Ancient rock belts of Brazil correspond with rocks in western Africa. | Similar age, composition and structure suggest a formerly continuous geological belt.
+Placer deposits | Gold deposits of Ghana can be linked to source rocks in Brazil. | Suggests Brazil and West Africa were once adjacent.
+Tillites / glacial deposits | Gondwana tillites found in India and other Southern Hemisphere landmasses. | Former widespread glaciation is easier to explain when these landmasses were assembled together near the South Pole.
+Fossils | Glossopteris and Mesosaurus occur on now-separated continents. | Freshwater/land organisms could not easily cross large oceans, indicating former continental connection.
+Palaeoclimatic evidence | Coal deposits in now-cold regions and glacial deposits in present tropical regions. | Indicates continents occupied different latitudinal positions in the past.
+[END TABLE]
+
+[EXAM FOCUS]
+
+2025 UPSC Prelims: UPSC directly tested continental-drift evidence using Brazil–West Africa ancient rocks, Ghana gold deposits and Gondwana sediments. All three were treated as evidence.
+
+[/EXAM FOCUS]
+
+### Why Wegener's Theory Was Initially Rejected
+
+The evidence for continental movement was significant, but Wegener could not provide a satisfactory physical mechanism capable of moving continents through the oceanic crust.
+
+He proposed:
+
+* Pole-fleeing force associated with Earth's rotation.
+
+* Tidal force associated mainly with the gravitational influence of the Moon and Sun.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: These proposed forces were considered far too weak to account for continental movement. Modern plate tectonics does not use Wegener's pole-fleeing and tidal forces as the principal driving mechanisms.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## From Continental Drift to Plate Tectonics
+-------------------------------------------------------
+
+[TABLE]
+Feature | Continental Drift | Sea-Floor Spreading | Plate Tectonics
+Main scientist(s) | Alfred Wegener | Harry Hess | McKenzie, Morgan, Parker and others
+Main idea | Continents moved. | New oceanic crust forms at ridges and moves outward. | Rigid lithospheric plates move and interact.
+Major contribution | Explained continental fit and past connections. | Provided a mechanism for creation and movement of ocean floor. | Unified continental drift, seafloor spreading, subduction and plate-boundary processes.
+Major weakness | Inadequate driving mechanism. | Could not by itself explain all continental movements. | Provides the comprehensive modern framework.
+[END TABLE]
+
+[FLOW]
+
+Continental Drift → Sea-Floor Spreading → evidence from palaeomagnetism + subduction → Plate Tectonics
+
+[/FLOW]
+
+-------------------------------------------------------
+## Convection Currents and Driving Mechanisms
+-------------------------------------------------------
+
+### Arthur Holmes' Convection Current Theory
+
+Arthur Holmes proposed that heat from Earth's interior can drive convection within the mantle.
+
+[FLOW]
+
+Radioactive/primordial heat → mantle temperature differences → hot material rises → cooler material sinks → convection → contributes to plate movement
+
+[/FLOW]
+
+The classical model helped provide a mechanism missing from Wegener's theory, but mantle convection alone is not considered the complete explanation for plate motion.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important modern view: Plate motion is influenced by a combination of forces, especially slab pull and ridge push, along with mantle flow and other interactions. Mantle convection should not be treated as a single simple conveyor belt that independently drives every plate.
+
+[/CLARIFICATION]
+
+### Major Forces Driving Plate Motion
+
+[TABLE]
+Force | How it works
+Slab pull | Cold, dense oceanic lithosphere sinks into the mantle at subduction zones and pulls the rest of the plate behind it. It is widely regarded as one of the strongest contributors to plate motion.
+Ridge push | Elevated mid-ocean ridges create a gravitational tendency for lithosphere to move away from the ridge.
+Basal drag / mantle flow | Interaction between flowing mantle and the base of plates can contribute to plate motion.
+Slab suction / trench-related forces | Flow around subducting slabs can influence nearby plate motion.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: SRB → Slab Pull + Ridge Push + Basal/Mantle interactions
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Sea-Floor Spreading — Harry Hess
+-------------------------------------------------------
+
+Harry Hess proposed the sea-floor spreading hypothesis in the early 1960s. According to it, new oceanic crust forms at mid-ocean ridges and moves away from the ridge on both sides.
+
+[FLOW]
+
+Mantle upwelling → magma reaches mid-ocean ridge → cooling + solidification → new basaltic oceanic crust → crust moves away from ridge
+
+[/FLOW]
+
+[FLOW]
+
+New crust at ridge → outward movement → older oceanic crust moves farther away → old crust eventually subducted at trenches
+
+[/FLOW]
+
+This produces a continuous cycle of creation at divergent boundaries and destruction/recycling at convergent boundaries.
+
+### Evidence for Sea-Floor Spreading
+
+[TABLE]
+Evidence | Significance
+Mid-ocean ridges | Sites of magma upwelling and formation of new oceanic crust.
+High heat flow | Especially high near ridges because of hot material rising from below.
+Young oceanic crust | Crust becomes progressively older away from ridge axes; no extremely ancient oceanic crust survives because it is recycled.
+Thin sediments near ridges | Young crust has had less time to accumulate sediment.
+Symmetrical magnetic stripes | Alternating normal and reversed magnetic polarity occurs symmetrically on both sides of ridges.
+Earthquake and volcanic activity | Concentrated around active ridge systems.
+Ocean-floor age pattern | Provides direct evidence of outward movement from ridge axes.
+[END TABLE]
+
+[FLOW]
+
+Earth's magnetic field reverses → new basalt cools → magnetic minerals record polarity → seafloor spreads → alternating magnetic stripes → symmetrical pattern → evidence for spreading
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Prelims core: Youngest oceanic crust = near ridge axis. Older oceanic crust is progressively farther from the ridge and is ultimately recycled at subduction zones.
+
+[/EXAM FOCUS]
+
+### Mid-Ocean Ridges
+
+Mid-ocean ridges are enormous underwater mountain systems extending through the world's ocean basins.
+
+* Mid-Atlantic Ridge — classic divergent boundary.
+
+* East Pacific Rise — relatively rapid-spreading ridge.
+
+* Many ridges have a central rift valley, especially where spreading is relatively slow.
+
+* Associated with earthquakes, volcanism, high heat flow and hydrothermal activity.
+
+### Hydrothermal Vents
+
+Hydrothermal vents occur where seawater circulates through hot oceanic crust, becomes heated and chemically enriched, and emerges back onto the seafloor.
+
+[FLOW]
+
+Seawater enters cracks → heated by hot crust/magma → reacts with minerals → rises carrying dissolved chemicals → emerges as hydrothermal vent
+
+[/FLOW]
+
+Black smokers release hot, mineral-rich fluids and support unusual ecosystems based on chemosynthesis.
+
+Lost City Hydrothermal Field on the Mid-Atlantic Ridge is an important example.
+
+-------------------------------------------------------
+## Plate Tectonic Theory
+-------------------------------------------------------
+
+The modern theory developed during the 1960s by combining continental drift, seafloor spreading, palaeomagnetism, ocean-floor mapping and the discovery of subduction zones.
+
+[FLOW]
+
+Rigid lithosphere → divided into plates → plates move over weaker asthenosphere → interaction at boundaries → major geological activity
+
+[/FLOW]
+
+Plates vary enormously in size and may contain:
+
+* Mostly oceanic lithosphere — e.g. Pacific Plate.
+
+* Mostly continental lithosphere — parts of Eurasian Plate.
+
+* Both continental and oceanic lithosphere — many major plates.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Plate-count correction: The number of “major” plates varies according to classification. For UPSC, remember the conventional 7 major-plate framework plus numerous smaller plates, rather than treating “more than 50 plates” as a fixed universal number.
+
+[/CLARIFICATION]
+
+### Major Plates
+
+[TABLE]
+Major Plate | Important geographical association
+Pacific | Largest predominantly oceanic plate.
+North American | North America and adjoining oceanic regions.
+South American | South America and adjoining Atlantic floor.
+African | Africa and adjoining Atlantic/Indian oceanic regions.
+Eurasian | Europe and much of Asia.
+Antarctic | Antarctica and surrounding oceanic lithosphere.
+Indo-Australian | Traditional combined plate concept covering Indian and Australian components; many modern models treat them as separate plates.
+[END TABLE]
+
+Important smaller plates: Nazca, Cocos, Caribbean, Arabian, Philippine Sea, Juan de Fuca, Scotia, Caroline and Somali plates.
+
+[EXAM FOCUS]
+
+Map fact: The Pacific Plate is mainly oceanic, while the Indian Plate includes both continental and oceanic lithosphere.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Types of Plate Boundaries
+-------------------------------------------------------
+
+[FLOW]
+
+Plate boundaries → Divergent + Convergent + Transform
+
+[/FLOW]
+
+[TABLE]
+Boundary | Movement | Crustal effect | Major features
+Divergent / Constructive | Plates move apart. | New crust formed. | Mid-ocean ridges, rift valleys, volcanism, shallow earthquakes.
+Convergent / Destructive | Plates move towards each other. | Crust may be subducted or strongly deformed. | Trenches, volcanic arcs, fold mountains, deep earthquakes.
+Transform / Conservative | Plates slide horizontally past each other. | No significant net creation/destruction of crust. | Transform faults, earthquakes, offset landforms.
+[END TABLE]
+
+-------------------------------------------------------
+## Divergent Plate Boundaries
+-------------------------------------------------------
+
+### Ocean–Ocean Divergence
+
+[FLOW]
+
+Two oceanic plates move apart → asthenosphere upwells → decompression melting → magma rises → new oceanic crust → mid-ocean ridge
+
+[/FLOW]
+
+Example: Mid-Atlantic Ridge.
+
+The East Pacific Rise is another major oceanic spreading centre.
+
+### Continent–Continent Rifting
+
+[FLOW]
+
+Continental lithosphere stretches → normal faulting → crust thins → rift valley → volcanism → continued extension → possible new ocean basin
+
+[/FLOW]
+
+Examples: East African Rift, Red Sea and Rhine Graben.
+
+### East African Rift System
+
+The East African Rift is an active continental-rifting system involving the separation of the Nubian and Somali plates.
+
+[FLOW]
+
+Continental extension → faulting + crustal thinning → volcanism + earthquakes → rift valleys + lakes → continued opening → possible future ocean
+
+[/FLOW]
+
+The Afar Triple Junction is a major tectonic junction involving the African/Nubian, Somali and Arabian plates.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: The Indian Plate is not one of the three plates at the Afar Triple Junction. The important plates are the Nubian, Somali and Arabian plates.
+
+[/CLARIFICATION]
+
+Key associated features: Great Rift Valley, Lake Tanganyika, Lake Malawi, volcanic activity and extensive faulting.
+
+### Rhine Graben
+
+The Upper Rhine Graben is a rift structure in western/central Europe associated with continental extension.
+
+-------------------------------------------------------
+## Convergent Plate Boundaries
+-------------------------------------------------------
+
+[FLOW]
+
+Two plates move towards each other → collision/subduction → crustal deformation + earthquakes + volcanism + mountain/trench formation
+
+[/FLOW]
+
+### Ocean–Continent Convergence
+
+[FLOW]
+
+Dense oceanic plate → subducts beneath continental plate → trench → slab descends → partial melting at depth → magma rises → volcanic arc + mountain building
+
+[/FLOW]
+
+Example: Nazca Plate → subducts beneath South American Plate → Peru–Chile Trench + Andes.
+
+Associated features include:
+
+* Deep-ocean trench
+
+* Accretionary prism
+
+* Forearc basin
+
+* Volcanic arc
+
+* Fold mountains
+
+* Intermediate and deep earthquakes
+
+### Ocean–Ocean Convergence
+
+[FLOW]
+
+Two oceanic plates converge → older/denser plate subducts → trench → magma generation → volcanic island arc → earthquakes
+
+[/FLOW]
+
+Examples: Mariana arc, Japan arc, Aleutian arc and parts of the Indonesian island-arc system.
+
+Examples of trenches: Mariana Trench, Tonga Trench, Japan Trench.
+
+### Continent–Continent Convergence
+
+[FLOW]
+
+Two buoyant continental masses converge → neither easily subducts completely → intense compression → crustal shortening + thickening → uplift → fold mountains + plateau
+
+[/FLOW]
+
+Example: Indian Plate + Eurasian Plate → Himalayas + Tibetan Plateau.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important: Continental–continental collision does not normally generate a classic oceanic subduction volcanic arc like the Andes. The Himalaya is therefore primarily a collision mountain system, not a volcanic arc.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Transform Plate Boundaries
+-------------------------------------------------------
+
+At a transform boundary, plates move horizontally past one another.
+
+[FLOW]
+
+Plate A ⇄ Plate B → shear stress → faulting → earthquakes
+
+[/FLOW]
+
+Examples:
+
+* San Andreas Fault — California.
+
+* Hayward Fault — California.
+
+* Alpine Fault — New Zealand.
+
+Transform boundaries generally produce abundant earthquakes but do not normally create major volcanic arcs.
+
+Horizontal displacement can produce:
+
+* Offset rivers and drainage channels
+
+* Linear valleys
+
+* Fault scarps
+
+* Pull-apart basins
+
+-------------------------------------------------------
+## Hotspots and Mantle Plumes
+-------------------------------------------------------
+
+A hotspot is a region of persistent or long-lived volcanic activity that may occur away from a plate boundary.
+
+[FLOW]
+
+Hot mantle upwelling → partial melting → magma reaches crust → hotspot volcanism
+
+[/FLOW]
+
+A mantle plume is a proposed column of anomalously hot, buoyant mantle rising from deep within the mantle.
+
+[FLOW]
+
+Mantle plume → hot material rises → partial melting → hotspot → volcano
+
+[/FLOW]
+
+### Hotspot track
+
+[FLOW]
+
+Hotspot remains approximately stationary relative to moving plate → plate moves over hotspot → new volcano forms → older volcano carried away → volcanic chain develops
+
+[/FLOW]
+
+Hawaiian Islands provide the classic example.
+
+* Youngest active volcanoes occur near the present hotspot area.
+
+* Volcanoes become progressively older away from the active hotspot.
+
+* The chain records the direction and broad rate of Pacific Plate movement.
+
+Important examples:
+
+[TABLE]
+Hotspot / volcanic system | Example
+Hawaiian hotspot | Hawaiian island chain in the Pacific.
+Réunion hotspot | Associated in the hotspot/plume model with the Deccan flood-basalt province.
+Galápagos | Intraplate hotspot volcanism modified by a complex plate setting.
+Yellowstone | Hotspot-related volcanic system beneath western United States.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important qualification: The simple idea that every hotspot is produced by a single deep, perfectly stationary mantle plume is an idealised model. Some hotspots may have shallower or more complex origins, and hotspot motion is also possible.
+
+[/CLARIFICATION]
+
+[EXAM FOCUS]
+
+2018 UPSC Mains: UPSC directly asked “Define mantle plume and explain its role in plate tectonics.”
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Major Tectonic Landforms
+-------------------------------------------------------
+
+[TABLE]
+Tectonic setting | Major landform | Example
+Divergent ocean–ocean | Mid-ocean ridge | Mid-Atlantic Ridge, East Pacific Rise
+Continental rifting | Rift valley | East African Rift
+Ocean–continent convergence | Trench + volcanic arc + mountains | Peru–Chile Trench + Andes
+Ocean–ocean convergence | Trench + island arc | Mariana Islands + Mariana Trench
+Continent–continent collision | Fold mountain + high plateau | Himalayas + Tibetan Plateau
+Transform | Transform fault | San Andreas Fault
+Hotspot | Volcanic chain | Hawaiian Islands
+[END TABLE]
+
+-------------------------------------------------------
+## Trenches and Ocean Basins
+-------------------------------------------------------
+
+Ocean trenches are long, narrow, deep depressions associated mainly with subduction zones.
+
+Mariana Trench in the western Pacific contains the Challenger Deep, the deepest known point on Earth's oceans at roughly 11 km below sea level.
+
+[EXAM FOCUS]
+
+Mnemonic: Trench = Subduction
+
+Think: Dense oceanic plate → Down → Deep trench
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Wilson Cycle: Opening and Closing of Ocean Basins
+-------------------------------------------------------
+
+The Wilson Cycle describes the cyclic opening, widening, narrowing and eventual closure of ocean basins through plate tectonic processes.
+
+[FLOW]
+
+Embryonic stage → Young/Juvenile stage → Mature ocean → Declining ocean → Terminal ocean → Suturing → New continental rifting
+
+[/FLOW]
+
+[TABLE]
+Stage | Main process | Example / feature
+Embryonic | Continental rifting begins. | Early continental rift; East African Rift.
+Juvenile | Rift develops into a narrow ocean. | Red Sea.
+Mature | Well-developed ocean basin with passive margins. | Atlantic Ocean.
+Declining | Subduction starts consuming oceanic crust. | Ocean begins to contract.
+Terminal | Ocean becomes very narrow as continents approach collision. | Tethys-type evolutionary stage.
+Suturing | Continents collide and ocean closes. | Mountain belt forms.
+[END TABLE]
+
+[FLOW]
+
+Continental rift → narrow sea → mature ocean → subduction → shrinking ocean → continental collision → mountain belt
+
+[/FLOW]
+
+-------------------------------------------------------
+## Major Mountain Ranges and Plate Tectonics
+-------------------------------------------------------
+
+[TABLE]
+Mountain Range | Main tectonic process | Key plates / setting
+Himalayas | Continental collision | Indian + Eurasian Plates
+Andes | Ocean–continent subduction | Nazca + South American Plates
+Alps | Continental convergence | African + Eurasian convergence
+Rockies | Complex western North American deformation linked strongly to past subduction/compression | Western North American margin
+Atlas | Continental convergence | African + Eurasian interaction
+Ural Mountains | Ancient continental collision | Long-past convergent setting
+Appalachians | Ancient orogeny | Ancient continental collision
+[END TABLE]
+
+### Pamir Knot
+
+The Pamir Knot is a major mountain junction in Central Asia produced by the broad tectonic convergence associated with the Indian and Eurasian plates.
+
+The region links major mountain systems including the Pamirs, Hindu Kush, Karakoram, Kunlun and Tien Shan.
+
+[FLOW]
+
+Indian Plate convergence → crustal shortening/thickening → uplift → Himalaya + Tibetan Plateau + Central Asian mountain systems
+
+[/FLOW]
+
+The Pamir region remains tectonically active and is prone to earthquakes and associated hazards.
+
+-------------------------------------------------------
+## Distribution of Earthquakes and Volcanoes
+-------------------------------------------------------
+
+[FLOW]
+
+Plate boundaries → concentrated tectonic stress + magma generation → global belts of earthquakes and volcanoes
+
+[/FLOW]
+
+### Circum-Pacific Belt / Ring of Fire
+
+The Ring of Fire encircles much of the Pacific Ocean and contains a very high concentration of active volcanoes and earthquakes.
+
+[FLOW]
+
+Pacific plate margins → extensive subduction → trenches + volcanic arcs + deep earthquakes → Circum-Pacific Belt
+
+[/FLOW]
+
+Important regions include:
+
+* Andes
+
+* Central America
+
+* Cascades
+
+* Alaska and Aleutian arc
+
+* Japan
+
+* Philippines
+
+* Indonesia
+
+* New Zealand
+
+[EXAM FOCUS]
+
+2020 UPSC Mains: UPSC asked about the geophysical characteristics of the Circum-Pacific Zone. Prepare it through subduction + trenches + island/continental volcanic arcs + earthquakes + mountain building.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Volcanic Island Arcs
+-------------------------------------------------------
+
+Volcanic island arcs generally develop where an oceanic plate subducts beneath another oceanic plate.
+
+[FLOW]
+
+Oceanic–oceanic convergence → subduction → mantle melting → magma rises → volcanoes → curved volcanic island arc
+
+[/FLOW]
+
+Examples: Aleutian Islands, Japanese Arc, Philippine Arc, Indonesian Arc and Lesser Antilles.
+
+Island arcs are commonly associated with deep ocean trenches, earthquakes and back-arc basins.
+
+-------------------------------------------------------
+## Major Trenches and Ridges: Map-Based Facts
+-------------------------------------------------------
+
+[TABLE]
+Feature | Location / Association
+Mariana Trench | Western Pacific; ocean–ocean subduction; Challenger Deep.
+Tonga Trench | Southwestern Pacific; subduction zone.
+Peru–Chile Trench | Western South America; Nazca Plate subducts beneath South American Plate.
+Japan Trench | Western Pacific; subduction and major seismicity.
+Mid-Atlantic Ridge | Divergent boundary; separates American plates from Eurasian/African systems across the Atlantic.
+East Pacific Rise | Major rapid-spreading centre in the Pacific.
+[END TABLE]
+
+-------------------------------------------------------
+## Why Plate Tectonics Changes Continents and Oceans
+-------------------------------------------------------
+
+[FLOW]
+
+Divergence → new oceanic crust → ocean basin expands
+
+[/FLOW]
+
+[FLOW]
+
+Convergence + subduction → oceanic crust consumed → ocean basin shrinks
+
+[/FLOW]
+
+[FLOW]
+
+Continental collision → crust thickens → mountains + plateaus
+
+[/FLOW]
+
+[FLOW]
+
+Transform motion → lateral displacement → faults + earthquakes
+
+[/FLOW]
+
+[FLOW]
+
+Rifting → crust thins → continental breakup → new ocean may form
+
+[/FLOW]
+
+Thus, the shape and position of continents and ocean basins are dynamic rather than permanent.
+
+[EXAM FOCUS]
+
+2025 UPSC Mains: UPSC directly asked how tectonic movements reshape the configuration of continents and ocean basins. This is a major answer-writing theme.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Significance of Plate Tectonics
+-------------------------------------------------------
+
+[TABLE]
+Dimension | Impact
+Geomorphology | Explains mountain ranges, plateaus, ocean ridges, trenches and rift valleys.
+Earthquakes | Explains the global concentration of seismicity along plate boundaries.
+Volcanism | Explains volcanic arcs, mid-ocean-ridge volcanism and many hotspot systems.
+Climate | Changing continental positions alter ocean currents, atmospheric circulation, rainfall and long-term climate.
+Biogeography | Continental separation creates isolation, migration pathways and evolutionary divergence.
+Resources | Tectonic activity contributes to mineralisation, hydrothermal deposits, geothermal resources and sedimentary basin development.
+Water resources | Mountain building and tectonic relief strongly influence river systems, glaciers and groundwater basins.
+Disaster management | Understanding tectonic settings helps assess earthquake, tsunami and volcanic hazards.
+[END TABLE]
+
+-------------------------------------------------------
+## UPSC PYQ Analysis
+-------------------------------------------------------
+
+Plate tectonics is one of the strongest conceptual areas in physical geography because UPSC repeatedly tests the evidence → mechanism → plate boundary → landform → hazard chain.
+
+[TABLE]
+Year | Paper | What UPSC tested | Preparation lesson
+2013 | Mains GS-I | Continental Drift Theory and its evidences. | Jigsaw fit, rocks, tillites, placer deposits, fossils, palaeoclimate.
+2014 | Mains GS-I | Fold mountains, their continental-margin location and association with earthquakes/volcanoes. | Convergence → compression → mountain building + seismicity + volcanism.
+2018 | Mains GS-I | Mantle plume and its role in plate tectonics. | Hotspots, plumes, Hawaii, Réunion and intraplate volcanism.
+2020 | Mains GS-I | Geophysical characteristics of Circum-Pacific Zone. | Ring of Fire → subduction → trenches + volcanic arcs + earthquakes.
+2021 | Prelims | Palaeomagnetic studies and their relation to continental drift and sea-floor spreading. | Magnetic stripes + apparent polar wandering + seafloor spreading.
+2025 | Prelims | Evidence for continental drift: Brazil–West Africa rocks, Ghana gold and Gondwana sediments. | Memorise evidence with exact examples.
+2025 | Mains GS-I | Tectonic movements and changing configuration of continents and ocean basins. | Divergence + subduction + collision + transform movement + Wilson Cycle.
+[END TABLE]
+
+The official UPSC archive contains the Civil Services papers, and topic-wise records confirm this recurring sequence from 2013 continental drift → 2014 fold mountains → 2018 mantle plume → 2020 Circum-Pacific → 2025 tectonic movements, with the 2025 Prelims returning directly to Wegener's evidence.
+
+### Prelims Priority
+
+[TABLE]
+Topic | Priority
+Continental Drift evidence | ★★★★★
+Plate boundary types | ★★★★★
+Sea-floor spreading | ★★★★★
+Palaeomagnetism and magnetic stripes | ★★★★★
+Subduction and trenches | ★★★★★
+Major plates and minor plates | ★★★★☆
+Hotspots and mantle plumes | ★★★★☆
+Wilson Cycle | ★★★★☆
+Mountain–plate relationship | ★★★★★
+World map of ridges/trenches | ★★★★★
+[END TABLE]
+
+### Mains Dimensions
+
+[FLOW]
+
+Plate movement → deformation → mountains/rifts/faults → earthquakes + volcanism
+
+[/FLOW]
+
+[FLOW]
+
+Plate tectonics → changing continents/oceans → changing ocean currents → changing climate
+
+[/FLOW]
+
+[FLOW]
+
+Plate separation → isolation of populations → biogeographic differentiation → evolution
+
+[/FLOW]
+
+[FLOW]
+
+Subduction → earthquakes + volcanic arcs + trenches → tsunami/volcanic hazards
+
+[/FLOW]
+
+[FLOW]
+
+Tectonic uplift → mountain building → glaciers + rivers → erosion → sediment deposition → landscape evolution
+
+[/FLOW]
+
+Mains keyword bank: lithosphere, asthenosphere, continental drift, Pangaea, Panthalassa, Gondwanaland, Laurasia, sea-floor spreading, palaeomagnetism, subduction, slab pull, ridge push, mantle plume, hotspot, divergent, convergent, transform, Wilson Cycle, crustal shortening, crustal extension, isostatic response, tectonic hazards.
+
+-------------------------------------------------------
+## High-Yield Mnemonics
+-------------------------------------------------------
+
+[TABLE]
+Concept | Mnemonic
+Continental Drift evidence | J-R-T-P-F-C → Jigsaw fit → Rocks → Tillites → Placers → Fossils → Climate
+Easy evidence memory | “Jigsaw Rocks Tillites Place Fossils in Climate”
+Three plate boundaries | D-C-T → Divergent → Convergent → Transform
+Divergent | D = Divide + Develop new crust
+Convergent | C = Come together + Consume crust
+Transform | T = Travel sideways
+Convergent types | O-C / O-O / C-C → Ocean–Continent → Ocean–Ocean → Continent–Continent
+Driving forces | SRB → Slab Pull → Ridge Push → Basal/Mantle interaction
+Sea-floor spreading | RMOS → Ridge → Magma → Oceanic crust → Spreads
+Magnetic stripes | N-R-N-R → Normal → Reversed → Normal → Reversed
+Wilson Cycle | E-J-M-D-T-S → Embryonic → Juvenile → Mature → Declining → Terminal → Suturing
+Rift development | R-T-F-O → Rift → Thinning → Faulting → Ocean
+Ring of Fire | Pacific → Subduction → Seismic + Volcanic belt
+Hotspot chain | Hotspot stays → Plate strays → Volcano chain
+Andes | N-S-A → Nazca subducts → South America → Andes
+Himalaya | I-E-C → Indian + Eurasian → Collision
+Transform | San Andreas = Slide Along
+[END TABLE]
+
+-------------------------------------------------------
+## Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Trap | Correct concept
+Wegener proposed plate tectonics. | Wegener proposed continental drift; modern plate tectonics came later.
+Wegener had a completely satisfactory driving mechanism. | No. His proposed tidal and pole-fleeing forces were inadequate.
+Continents move independently through oceanic crust. | The lithospheric plate moves as a unit.
+Sea-floor spreading occurs at convergent boundaries. | Sea-floor spreading occurs at divergent boundaries.
+Oldest oceanic crust is found at mid-ocean ridges. | Youngest oceanic crust is at the ridge axis.
+Magnetic stripes are evidence directly proposed by Wegener. | They were discovered later and provided evidence for sea-floor spreading and plate tectonics.
+Palaeomagnetism proves formation of hotspots. | It strongly supports continental drift and sea-floor spreading; hotspots are explained separately.
+Mantle convection alone explains every plate movement. | Modern models involve slab pull, ridge push, mantle flow and other forces.
+All divergent boundaries occur only in oceans. | Divergence can also occur within continents through continental rifting.
+All convergent boundaries generate volcanoes. | Volcanism is common in subduction settings but generally not a defining feature of continent–continent collision.
+Continental–continental collision creates an ocean trench. | Classic deep trenches are primarily associated with oceanic subduction.
+Himalayas are formed by oceanic subduction. | Indian–Eurasian continental collision produced the Himalayas.
+Andes are a continent–continent collision mountain range. | Nazca oceanic plate subducts beneath South American Plate.
+Transform boundaries create new crust. | They are mainly conservative; crust is neither significantly created nor destroyed along the boundary itself.
+Transform boundaries are volcanic belts. | They are particularly associated with earthquakes and faulting, not volcanic arcs.
+Afar Triple Junction includes India. | Nubian + Somali + Arabian plates.
+Africa has already broken into two continents. | East African rifting is ongoing; a future ocean basin may eventually form.
+All hotspots lie on plate boundaries. | Many hotspots occur within plates, such as Hawaii.
+Every hotspot is a perfectly stationary deep mantle plume. | This is a simplified model; hotspot origins can be complex.
+Wilson Cycle begins with a mature ocean. | It begins with continental rifting/embryonic opening.
+Mariana Trench is at a divergent boundary. | Ocean–ocean convergence and subduction.
+Mid-Atlantic Ridge is a convergent boundary. | Divergent boundary.
+[END TABLE]
+
+-------------------------------------------------------
+## Short Revision Sheet
+-------------------------------------------------------
+
+Wegener: Continental Drift → Pangaea + Panthalassa → evidence from rocks, fossils, tillites, placers, climate.
+
+[FLOW]
+
+Pangaea → Laurasia + Gondwanaland → further breakup → present continents
+
+[/FLOW]
+
+Main weakness: inadequate mechanism for movement.
+
+[FLOW]
+
+Mantle heat → mantle dynamics → plate motion
+
+[/FLOW]
+
+Modern driving forces: slab pull + ridge push + mantle/basal interactions.
+
+[FLOW]
+
+Mantle upwelling → Mid-ocean ridge → new oceanic crust → spreading → older crust → subduction
+
+[/FLOW]
+
+Sea-floor spreading evidence: ridges + heat flow + young crust + thin sediments + symmetrical magnetic stripes.
+
+[FLOW]
+
+Divergent → plates apart → new crust
+
+[/FLOW]
+
+[FLOW]
+
+Convergent → plates together → subduction/collision
+
+[/FLOW]
+
+[FLOW]
+
+Transform → plates slide → earthquakes
+
+[/FLOW]
+
+Ocean–continent: subduction → trench + volcanic arc + mountains → Andes
+
+Ocean–ocean: subduction → trench + island arc → Mariana/Japan/Aleutians
+
+Continent–continent: collision → crustal thickening → mountains + plateau → Himalayas + Tibet
+
+Transform: horizontal shear → faulting → San Andreas
+
+[FLOW]
+
+Continental rifting → crustal thinning + normal faults → rift valley → possible new ocean
+
+[/FLOW]
+
+East African Rift: Nubian + Somali + Arabian interaction → rifting + volcanism + earthquakes.
+
+[FLOW]
+
+Mantle plume/hotspot → magma → volcano → plate moves → volcanic chain
+
+[/FLOW]
+
+Hotspot examples: Hawaii | Réunion | Galápagos | Yellowstone
+
+[FLOW]
+
+Wilson Cycle → Embryonic → Juvenile → Mature → Declining → Terminal → Suturing
+
+[/FLOW]
+
+Ring of Fire: Pacific margins → extensive subduction → trenches + volcanic arcs + earthquakes.
+
+Most important map pairs:
+
+Mid-Atlantic Ridge → Divergent
+
+East Pacific Rise → Divergent
+
+East African Rift → Continental rift
+
+Peru–Chile Trench → Nazca/South America
+
+Mariana Trench → Ocean–Ocean subduction
+
+Himalayas → Indian/Eurasian collision
+
+Andes → Nazca/South America subduction
+
+San Andreas → Transform
+
+Hawaii → Hotspot
+
+[NOTE]
+
+UPSC MASTER CHAIN:
+
+Plate movement → boundary type → stress/process → landform → earthquake/volcanism → geographical and environmental impact
+
+[/NOTE]

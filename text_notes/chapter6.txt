@@ -1,0 +1,611 @@
+=======================================================
+# Chapter 6 — Interior of the Earth
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## 1. Earth's Interior: Structure and Sources of Information
+-------------------------------------------------------
+
+Direct observation of Earth's deep interior is impossible because pressure and temperature increase enormously with depth. Hence, scientists reconstruct Earth's interior using both direct and indirect sources of evidence.
+
+[TABLE]
+Source | What it tells us
+Deep mining and drilling | Direct information about rocks and temperatures at relatively shallow depths.
+Volcanic material | Lava, volcanic rocks and xenoliths provide information about materials from depth.
+Seismic waves | Changes in velocity, direction and paths reveal the internal structure and physical state of Earth's layers.
+Meteorites | Provide clues about the probable composition of planetary building material and Earth's interior.
+Gravity | Gravity anomalies reveal variations in density and mass distribution beneath the surface.
+Geomagnetism | Provides information about Earth's magnetic materials and the electrically conducting outer core.
+Geothermal observations | Temperature increases with depth and provides evidence about Earth's internal heat.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Prelims trap: Seismic waves, gravity, geomagnetism and meteorites are indirect sources. Deep mining/drilling and volcanic material provide comparatively direct evidence. Seismic waves are the most important tool for reconstructing the deep interior.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 2. Chemical and Mechanical Structure of the Earth
+-------------------------------------------------------
+
+### Crust
+
+The crust is Earth's outermost solid layer.
+
+[TABLE]
+Feature | Continental Crust | Oceanic Crust
+Composition | Relatively silica-rich and alumina-rich; broadly granitic/felsic. | Relatively rich in iron and magnesium; broadly basaltic/mafic.
+Thickness | Generally thicker; average ~35 km, but can exceed 70 km beneath major mountain systems. | Generally thinner; about 5–10 km.
+Density | Lower, roughly 2.7 g/cm³. | Higher, roughly 2.9–3.0 g/cm³.
+Age | Contains very old rocks. | Generally much younger because old oceanic crust is recycled by subduction.
+Important process | Continental blocks are relatively buoyant. | Oceanic crust is commonly recycled into the mantle at subduction zones.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Terminology correction: SIAL (silica + alumina) and SIMA (silica + magnesium) are traditional descriptive terms. Modern geology primarily uses compositional terms such as felsic/granitic continental crust and mafic/basaltic oceanic crust. SIAL/SIMA are useful for UPSC only as historical shorthand.
+
+[/CLARIFICATION]
+
+### Mechanical layers
+
+[FLOW]
+
+Lithosphere = crust + uppermost rigid mantle
+
+[/FLOW]
+
+Lithosphere is rigid and is broken into tectonic plates.
+
+Asthenosphere lies beneath the lithosphere and is mechanically weaker and capable of slow flow over geological time. It is not simply a completely molten layer; it is predominantly solid but may contain a small melt fraction depending on conditions.
+
+[FLOW]
+
+Lithosphere → rigid tectonic plates → move over the mechanically weaker asthenosphere
+
+[/FLOW]
+
+[TABLE]
+Lithosphere | Asthenosphere
+Rigid | Mechanically weak / ductile
+Includes crust + uppermost mantle | Lies below lithosphere within upper mantle
+Broken into tectonic plates | Allows plates to move over geological time
+[END TABLE]
+
+-------------------------------------------------------
+## 3. Mantle and Core
+-------------------------------------------------------
+
+### Mantle
+
+The mantle extends from the Moho to the core–mantle boundary at about 2,900 km depth.
+
+* Constitutes about 83% of Earth's volume.
+
+* Composed predominantly of silicate minerals rich in magnesium and iron.
+
+* Important minerals include olivine and pyroxene.
+
+* The mantle is mostly solid but can deform and flow very slowly over geological time.
+
+[FLOW]
+
+Upper mantle → transition zones → lower mantle → core–mantle boundary
+
+[/FLOW]
+
+The mantle is important for convection, mantle plumes and transfer of heat, which are fundamental to plate tectonics and volcanism.
+
+[NOTE]
+
+Important distinction: Mantle is not a giant ocean of liquid magma. Most of it is solid rock capable of slow ductile flow.
+
+[/NOTE]
+
+### Core
+
+The core begins at about 2,900 km and extends to Earth's centre at about 6,371 km.
+
+It is composed predominantly of iron and nickel, along with lighter elements.
+
+[FLOW]
+
+Core → Outer Core + Inner Core
+
+[/FLOW]
+
+[TABLE]
+Feature | Outer Core | Inner Core
+Depth | ~2,900–5,150 km | ~5,150–6,371 km
+State | Liquid | Solid
+Main composition | Iron + nickel + lighter elements | Iron + nickel, with some lighter elements
+Seismic behaviour | S-waves cannot propagate through it | P- and S-waves can propagate through it
+Importance | Convection of conducting fluid → geodynamo | Solid inner core; contributes to Earth's deep structure and interacts with the outer-core system
+[END TABLE]
+
+[EXAM FOCUS]
+
+Most important Prelims distinction:
+
+Outer core = liquid → no S-waves
+
+Inner core = solid → S-waves can pass
+
+[/EXAM FOCUS]
+
+### Why is the inner core solid despite extreme temperature?
+
+Very high pressure at Earth's centre raises the melting temperature of iron-rich material, allowing the inner core to remain solid even at extremely high temperatures.
+
+-------------------------------------------------------
+## 4. Discontinuities Inside the Earth
+-------------------------------------------------------
+
+A discontinuity is a zone where seismic-wave velocity and/or other physical properties change sharply, indicating a change in composition or physical state.
+
+[TABLE]
+Discontinuity | Separates | Approx. depth
+Conrad | Upper and lower continental crust | Variable; present mainly in continental crust
+Mohorovičić (Moho) | Crust and mantle | ~5–10 km beneath oceans; ~30–70+ km beneath continents
+Repetti | Upper and lower mantle | ~670 km, approximate
+Gutenberg | Mantle and outer core | ~2,900 km
+Lehmann | Outer core and inner core | ~5,150 km
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: CMRGL
+
+Conrad → Moho → Repetti → Gutenberg → Lehmann
+
+[/EXAM FOCUS]
+
+[FLOW]
+
+Surface → Conrad → Moho → Repetti → Gutenberg → Lehmann → Centre
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Ultra-high-yield:
+
+Moho = crust–mantle
+
+Gutenberg = mantle–outer core
+
+Lehmann = outer core–inner core
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 5. Temperature, Pressure, Density and Geothermal Energy
+-------------------------------------------------------
+
+Temperature generally increases with depth, although the rate of increase changes significantly between Earth's layers.
+
+The geothermal gradient is much stronger near the surface than in the deep mantle and core.
+
+[FLOW]
+
+Depth increases → pressure increases → temperature generally increases → density generally increases
+
+[/FLOW]
+
+### Sources of Earth's internal heat
+
+* Primordial heat left from planetary formation and differentiation.
+
+* Radioactive decay of isotopes such as uranium, thorium and potassium.
+
+* Additional heat associated with the evolution and cooling/crystallisation of the core.
+
+Earth's internal heat drives important geological processes, including mantle convection, volcanism and plate tectonic activity.
+
+### Gravity and density variations
+
+Gravity varies spatially because Earth's mass is not distributed uniformly.
+
+* Gravity is generally slightly stronger near the poles than at the equator.
+
+* Local gravity anomalies reveal differences in the density and distribution of rocks beneath Earth's surface.
+
+-------------------------------------------------------
+## 6. Seismic Waves: The Key to Earth's Interior
+-------------------------------------------------------
+
+Seismic waves are waves of energy released during earthquakes and other sudden disturbances. Their behaviour reveals the internal structure of Earth.
+
+They are divided into:
+
+[FLOW]
+
+Seismic waves → Body waves + Surface waves
+
+[/FLOW]
+
+### Body Waves
+
+[TABLE]
+Feature | P-Waves | S-Waves
+Full name | Primary waves | Secondary waves
+Type | Longitudinal / compressional | Transverse / shear
+Particle motion | Parallel to direction of propagation | Perpendicular to direction of propagation
+Speed | Faster | Slower
+Medium | Solids, liquids and gases | Solids only
+Important use | Pass through core but change speed/direction substantially | Cannot pass through liquid outer core
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: P = Push + Passes liquids
+
+S = Shake + Stops in liquid
+
+[/EXAM FOCUS]
+
+### Surface Waves
+
+Surface waves travel mainly along Earth's surface and are responsible for much of the destructive ground motion during earthquakes.
+
+[TABLE]
+Wave | Movement
+Love waves | Horizontal, side-to-side shear motion; no significant vertical displacement.
+Rayleigh waves | Rolling, elliptical particle motion with both horizontal and vertical components.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic:
+
+Love = Lateral
+
+Rayleigh = Rolling
+
+[/EXAM FOCUS]
+
+### Order of seismic-wave speed
+
+[FLOW]
+
+P-waves → S-waves → surface waves
+
+[/FLOW]
+
+Surface waves are generally the slowest and usually arrive last at a seismograph.
+
+### Why P-waves are faster than S-waves
+
+P-waves propagate by compression and expansion, while S-waves require shear deformation of the medium. Solids resist compression and shear differently, so the two wave types travel at different speeds.
+
+-------------------------------------------------------
+## 7. Seismic Shadow Zones
+-------------------------------------------------------
+
+Changes in seismic-wave velocity and direction as waves enter different layers provide evidence about Earth's internal structure.
+
+[FLOW]
+
+P-wave enters liquid outer core → velocity decreases + wave refracts → large region with no direct P-waves develops
+
+[/FLOW]
+
+[FLOW]
+
+S-wave reaches liquid outer core → cannot propagate through liquid → S-wave shadow zone
+
+[/FLOW]
+
+The major P-wave shadow zone lies approximately between 105° and 140°–145° from the earthquake epicentre, while direct S-waves are not detected beyond roughly 105°.
+
+[EXAM FOCUS]
+
+UPSC favourite:
+
+S-wave disappearance → liquid outer core
+
+P-wave refraction at core → P-wave shadow zone
+
+[/EXAM FOCUS]
+
+### How the core was inferred
+
+[FLOW]
+
+Earthquake → P and S waves generated → waves travel through Earth → sudden changes in velocity/path → identify boundaries → infer solid/liquid layers
+
+[/FLOW]
+
+-------------------------------------------------------
+## 8. Earthquakes: Origin, Focus and Epicentre
+-------------------------------------------------------
+
+An earthquake is the sudden release of accumulated elastic energy in Earth's crust/lithosphere, producing seismic waves and ground motion.
+
+### Elastic Rebound Theory
+
+[FLOW]
+
+Tectonic stress accumulates along a fault → rocks deform elastically → friction keeps fault locked → stress exceeds rock strength → sudden slip → stored elastic energy released → seismic waves → earthquake
+
+[/FLOW]
+
+The theory was developed from observations following the 1906 San Francisco earthquake and is fundamental to understanding fault earthquakes.
+
+### Focus and Epicentre
+
+Focus / Hypocentre: point inside Earth where rupture begins and seismic energy is first released.
+
+Epicentre: point on Earth's surface directly above the focus.
+
+[FLOW]
+
+Focus underground → vertical projection to surface → Epicentre
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Mnemonic: Focus = First underground; Epicentre = Earth-surface point
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 9. Causes of Earthquakes
+-------------------------------------------------------
+
+### Natural causes
+
+[TABLE]
+Cause | Mechanism
+Faulting / tectonic movement | Stress builds up because plates move, lock and suddenly slip.
+Subduction | One plate sinks beneath another, producing frequent and sometimes very deep earthquakes.
+Volcanism | Magma movement, pressure changes and volcanic activity can generate earthquakes.
+[END TABLE]
+
+[FLOW]
+
+Plate movement → stress accumulation → friction/locking → fault rupture → earthquake
+
+[/FLOW]
+
+### Anthropogenic / induced earthquakes
+
+* Reservoir-induced seismicity: water loading and pore-pressure changes associated with large reservoirs can trigger earthquakes.
+
+* Mining: removal of rock alters stress distribution.
+
+* Oil and gas extraction: pressure changes can destabilise faults.
+
+* Wastewater injection: increases pore pressure and can reactivate faults.
+
+* Hydraulic fracturing: injection can induce small to moderate seismic events in some settings.
+
+* Geothermal operations: fluid injection/extraction can trigger seismicity.
+
+* Underground construction and some other subsurface activities can modify local stresses.
+
+-------------------------------------------------------
+## 10. Earthquake Swarm, Foreshock, Mainshock and Aftershock
+-------------------------------------------------------
+
+Earthquake swarm: sequence of numerous mostly small earthquakes concentrated in a particular area over a relatively short period, without a single clearly dominant mainshock.
+
+Foreshock: earthquake occurring before a larger event that is subsequently identified as the mainshock.
+
+Mainshock: largest principal earthquake in a sequence.
+
+Aftershocks: earthquakes following the mainshock as the crust adjusts to the changed stress conditions.
+
+[FLOW]
+
+Foreshock(s) → Mainshock → Aftershocks
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Trap: An earthquake is called a foreshock only after a larger subsequent earthquake occurs. Before that, it cannot be known with certainty that it is a foreshock.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 11. Distribution of Earthquakes
+-------------------------------------------------------
+
+Earthquakes are concentrated mainly along tectonic plate boundaries.
+
+### Circum-Pacific Belt / Ring of Fire
+
+[FLOW]
+
+Pacific plate boundaries + multiple subduction zones → intense tectonic activity → major concentration of earthquakes + volcanoes → Circum-Pacific Belt / Ring of Fire
+
+[/FLOW]
+
+The Pacific region contains the world's greatest concentration of active volcanoes and frequent earthquakes.
+
+### Other major seismic belts
+
+* Alpine-Himalayan Belt: extends from the Mediterranean through southern Europe and Asia towards the Himalayas.
+
+* Mid-ocean ridges: earthquakes associated mainly with divergent plate boundaries.
+
+* East African Rift region: earthquakes associated with continental rifting.
+
+* Indian region: Himalaya, northeast India, Andaman–Nicobar and parts of peninsular India show varying seismic activity.
+
+### Himalayan earthquakes
+
+The Himalaya is highly seismic because the Indian Plate continues to converge with the Eurasian Plate.
+
+[FLOW]
+
+Indian Plate → northward convergence → compression + faulting → stress accumulation → Himalayan earthquakes
+
+[/FLOW]
+
+### Wadati–Benioff Zone
+
+A Wadati–Benioff zone is an inclined zone of earthquakes extending downward from a subduction zone into the mantle.
+
+[FLOW]
+
+Oceanic plate subducts → slab descends → earthquake foci follow descending slab → Wadati–Benioff zone
+
+[/FLOW]
+
+It provides strong evidence for subduction and plate tectonics.
+
+-------------------------------------------------------
+## 12. Measuring Earthquakes
+-------------------------------------------------------
+
+### Magnitude vs Intensity
+
+[TABLE]
+Magnitude | Intensity
+Measures the size/energy released at the source. | Measures the observed effects and shaking at a location.
+Essentially one value for a given earthquake using a specified magnitude scale. | Can vary from place to place.
+Modern earthquake science commonly uses Moment Magnitude Scale (Mw). | Commonly described using the Modified Mercalli Intensity (MMI) scale.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: Magnitude = Machine/source; Intensity = Impact/place
+
+[/EXAM FOCUS]
+
+### Richter Scale
+
+The Richter scale was developed by Charles F. Richter for measuring earthquake magnitude using seismic-wave amplitudes.
+
+It is historically important, but for large modern earthquakes the preferred scale is the Moment Magnitude Scale (Mw).
+
+### Seismograph
+
+A seismograph/seismometer detects and records ground motion produced by seismic waves.
+
+[FLOW]
+
+Earthquake → ground motion → seismometer → recorded seismic signal → analysis of arrival times/amplitudes → earthquake location + magnitude + interior information
+
+[/FLOW]
+
+-------------------------------------------------------
+## 13. Earthquake Hazards and Secondary Effects
+-------------------------------------------------------
+
+Earthquake risk is not determined by magnitude alone. It depends on hazard + exposure + vulnerability.
+
+[TABLE]
+Hazard | Effect
+Ground shaking | Structural damage and collapse.
+Surface rupture | Ground displacement along a fault.
+Liquefaction | Water-saturated loose sediments temporarily lose strength during strong shaking.
+Landslides | Shaking destabilises slopes, especially in mountainous terrain.
+Tsunami | Undersea earthquake, especially involving sudden vertical seafloor displacement, can generate destructive sea waves.
+Fires | Damaged gas/electricity infrastructure can cause fires.
+Dam failure | Strong shaking can damage dams and trigger downstream flooding.
+Displacement | Damage to homes and infrastructure can displace populations.
+[END TABLE]
+
+[FLOW]
+
+Earthquake → ground shaking → infrastructure damage → secondary hazards → human + economic + environmental losses
+
+[/FLOW]
+
+-------------------------------------------------------
+## 14. Earthquake Risk in India
+-------------------------------------------------------
+
+India is highly earthquake-prone because of its tectonic setting, especially the continuing collision of the Indian Plate with Eurasia.
+
+Major vulnerable regions include:
+
+* Himalayan region
+
+* Northeast India
+
+* Andaman and Nicobar Islands
+
+* Parts of Gujarat, including the Kachchh region
+
+* Other areas containing active or potentially active faults
+
+### Indian seismic zoning
+
+India's seismic zoning currently uses four zones: II, III, IV and V, with Zone V representing the highest seismic hazard.
+
+[NOTE]
+
+Important: Older books may show five zones, including Zone I. The present BIS framework uses four seismic zones.
+
+[/NOTE]
+
+[FLOW]
+
+Zone II → Zone III → Zone IV → Zone V
+
+[/FLOW]
+
+Zone V: highest seismic hazard; includes much of the northeast, parts of the Himalaya, parts of Gujarat and the Andaman–Nicobar region.
+
+-------------------------------------------------------
+## 15. Earthquake Management in India
+-------------------------------------------------------
+
+[FLOW]
+
+Hazard assessment → seismic zoning → earthquake-resistant building codes → retrofitting → early warning/monitoring → public awareness → emergency response → resilient reconstruction
+
+[/FLOW]
+
+* Bureau of Indian Standards (BIS): develops earthquake-resistant building standards.
+
+* National Centre for Seismology (NCS): monitors seismic activity and provides earthquake information.
+
+* NDMA: develops disaster-management guidelines and promotes preparedness and mitigation.
+
+* SDMAs / local authorities: implement preparedness, response and risk-reduction measures.
+
+* Microzonation: identifies local variations in seismic hazard within cities/regions.
+
+* Retrofitting: strengthens existing vulnerable structures.
+
+* Mock drills and public awareness: improve preparedness and response capacity.
+
+[EXAM FOCUS]
+
+Mains framework: Prevention → Mitigation → Preparedness → Response → Recovery
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## 18. Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Trap | Correct concept
+Outer core is solid because pressure is high. | Outer core is liquid. High pressure helps keep the inner core solid despite high temperature.
+S-waves pass through liquids. | S-waves cannot pass through liquids.
+P-waves cannot pass through liquids. | P-waves can pass through solids, liquids and gases.
+Moho separates mantle and core. | Moho = crust–mantle boundary.
+Gutenberg separates crust and mantle. | Gutenberg = mantle–outer core.
+Lehmann separates mantle and core. | Lehmann = outer core–inner core.
+Asthenosphere is a fully molten layer. | It is mainly solid but mechanically weak and capable of ductile flow.
+Continental crust is denser than oceanic crust. | Oceanic crust is denser.
+Oceanic crust is older than continental crust. | Most oceanic crust is relatively young because of continuous recycling at subduction zones.
+Magnitude and intensity are identical. | Magnitude = source size/energy; intensity = local effects.
+Richter is the universal modern scale for all earthquakes. | Moment Magnitude (Mw) is preferred for large modern earthquakes.
+Earthquake swarm = foreshock sequence. | Swarm is a cluster of earthquakes without one obvious dominant mainshock; foreshocks are identified only after a larger event.
+Every earthquake produces a tsunami. | Only some undersea earthquakes, especially those causing significant vertical seafloor displacement, generate tsunamis.
+All earthquakes are tectonic. | Most are tectonic, but some are associated with volcanism or human-induced activities.
+Ring of Fire is only a volcanic belt. | It is both a major seismic and volcanic belt, strongly associated with subduction.
+Wadati–Benioff zone occurs at divergent boundaries. | It is primarily associated with subduction at convergent boundaries.
+India has five current seismic zones. | The current BIS classification uses four zones: II, III, IV and V.
+[END TABLE]

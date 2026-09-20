@@ -1,0 +1,744 @@
+=======================================================
+# Chapter 13 — Atmosphere: Evolution, Composition & Structure
+=======================================================
+
+-------------------------------------------------------
+## Climatology and the Atmosphere
+-------------------------------------------------------
+
+Climatology is the scientific study of long-term patterns of climate, including their causes, processes, interlinkages and spatial distribution. It examines the long-term behaviour of temperature, precipitation, pressure, humidity, winds and other climatic elements.
+
+[TABLE]
+Weather | Climate
+Short-term atmospheric condition at a particular place and time. | Long-term average pattern of atmospheric conditions over a region.
+May change within minutes, hours or days. | Develops from observations over long periods, traditionally around 30 years or more.
+Example: Today's rainfall, temperature and wind. | Example: India's seasonal monsoon pattern.
+[END TABLE]
+
+Elements of weather and climate: solar radiation, temperature, atmospheric pressure, wind, humidity, cloudiness and precipitation.
+
+Atmospheric study is important for agriculture, disaster management, water resources, transport, aviation, urban planning, environmental monitoring, climate-change analysis and ecosystem management.
+
+-------------------------------------------------------
+## What is the Atmosphere?
+-------------------------------------------------------
+
+The atmosphere is the gaseous envelope surrounding Earth and extending outward into space. It is not a single pure gas but a mixture of gases containing suspended solid and liquid particles (aerosols).
+
+* Held around Earth mainly by gravity.
+
+* Contains gases, water vapour, dust and other aerosols.
+
+* Its density and pressure decrease rapidly with altitude.
+
+* Most atmospheric mass is concentrated close to the Earth's surface.
+
+* It provides the conditions necessary for life, weather and climate.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: The atmosphere does not have a sharp outer boundary. It gradually becomes thinner and eventually merges into outer space. The exosphere is therefore a transition to space, not a perfectly defined upper edge.
+
+[/CLARIFICATION]
+
+### Why is the Atmosphere Important?
+
+[TABLE]
+Function | Importance
+Life support | Provides oxygen for respiration and carbon dioxide for photosynthesis.
+Water cycle | Contains water vapour required for clouds, precipitation and hydrological circulation.
+Temperature regulation | Greenhouse gases absorb outgoing long-wave radiation and help maintain habitable temperatures.
+Radiation protection | Ozone absorbs much of the harmful ultraviolet radiation reaching the atmosphere.
+Meteor protection | Many meteoroids burn up due to friction and collisions with atmospheric gases.
+Weather and climate | Atmospheric circulation redistributes heat and moisture around Earth.
+[END TABLE]
+
+-------------------------------------------------------
+## Evolution and Composition of the Atmosphere
+-------------------------------------------------------
+
+Earth's early atmosphere was very different from the present atmosphere and evolved through outgassing, volcanic activity, cooling, condensation, chemical reactions and biological processes.
+
+[FLOW]
+
+Early Earth → volcanic outgassing → accumulation of H2O vapour, CO2, N2 and other gases → cooling → condensation of water → oceans → photosynthesis → rise of O2 → ozone formation → present atmosphere
+
+[/FLOW]
+
+### Gassing and Degassing
+
+* Gassing: Addition of gases to the atmosphere.
+
+* Degassing: Removal of gases from the atmosphere.
+
+* Volcanic activity played a major role in the early addition of atmospheric gases.
+
+* Biological processes subsequently transformed atmospheric composition, especially through photosynthesis and oxygen accumulation.
+
+### Permanent and Variable Components
+
+[TABLE]
+Category | Components | Key characteristic
+Permanent gases | Nitrogen, oxygen, argon and other relatively stable gases | Remain broadly stable in proportion in the lower, well-mixed atmosphere.
+Variable gases | Water vapour, CO2, methane, ozone, etc. | Concentrations vary spatially and temporally.
+Aerosols | Dust, smoke, sea salt, soot, pollen, spores, volcanic particles, etc. | Suspended solid or liquid particles.
+[END TABLE]
+
+### Basic Composition of Dry Air
+
+[TABLE]
+Gas | Approx. volume share | Major significance
+Nitrogen (N2) | 78.08% | Most abundant gas; essential component of proteins and amino acids; relatively inert.
+Oxygen (O2) | 20.95% | Respiration, combustion and oxidation; essential for most aerobic life.
+Argon (Ar) | 0.93% | Inert noble gas.
+Carbon dioxide (CO2) | About 0.04% and rising | Photosynthesis and greenhouse effect.
+Other trace gases | Very small quantities | Neon, helium, methane, krypton, hydrogen, xenon, nitrous oxide etc.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Updated fact: CO2 is no longer appropriately represented by the old 2022 figure of 418.56 ppm. NOAA reports a global atmospheric CO2 mean of 422.8 ppm for 2024, with preliminary 2025 data reaching about 425.6 ppm. NOAA's June 2026 global monthly mean was about 427.62 ppm. Use the rounded value ~0.04% for static UPSC questions unless a current figure is specifically required.
+
+[/CLARIFICATION]
+
+### Nitrogen
+
+* Most abundant atmospheric gas.
+
+* Essential constituent of amino acids and proteins.
+
+* Plants obtain usable nitrogen mainly through the nitrogen cycle, including biological fixation and nitrate/ammonium availability in soils.
+
+* Atmospheric nitrogen itself is comparatively inert because of the strong N≡N bond.
+
+### Oxygen
+
+* Essential for respiration, combustion and oxidation.
+
+* Produced mainly through photosynthesis.
+
+* Combines with hydrogen to form water and with many elements to form oxides.
+
+* Oxygen concentration declines with altitude as air becomes thinner.
+
+### Carbon Dioxide
+
+* A major greenhouse gas.
+
+* Transparent to much incoming short-wave solar radiation but absorbs outgoing long-wave terrestrial radiation.
+
+* Major natural sources include respiration, decomposition, oceans and volcanism.
+
+* Major anthropogenic sources include fossil-fuel combustion, cement production and deforestation.
+
+* Essential for photosynthesis, but increasing concentration enhances the greenhouse effect.
+
+[EXAM FOCUS]
+
+Remember: The atmosphere is heated primarily from below. Earth absorbs incoming solar radiation and then emits terrestrial long-wave radiation, which is absorbed by greenhouse gases and water vapour. This is why the atmosphere is not heated mainly by direct incoming solar radiation.
+
+[/EXAM FOCUS]
+
+### Water Vapour
+
+* Most important variable gas in the atmosphere.
+
+* Concentration varies strongly with location, temperature and season.
+
+* Highest generally in warm, humid tropical regions.
+
+* Very low in deserts and polar regions.
+
+* Decreases rapidly with altitude.
+
+* Essential for cloud formation, condensation and precipitation.
+
+* A major greenhouse gas.
+
+[FLOW]
+
+Temperature ↑ → moisture-holding capacity of air ↑
+
+[/FLOW]
+
+[FLOW]
+
+Altitude ↑ → temperature generally ↓ + atmospheric pressure ↓ → water vapour ↓
+
+[/FLOW]
+
+### Methane and Other Variable Gases
+
+* Methane (CH4) is a potent greenhouse gas.
+
+* Sources include wetlands, termites, livestock, rice cultivation, fossil-fuel extraction and waste.
+
+* Other trace constituents include nitrogen oxides, sulphur dioxide, carbon monoxide, ozone and various hydrocarbons.
+
+* Many of these influence air quality, atmospheric chemistry and climate.
+
+-------------------------------------------------------
+## Atmospheric Optics and Aerosols
+-------------------------------------------------------
+
+### Aerosols
+
+Aerosols are tiny solid or liquid particles suspended in the atmosphere.
+
+Examples: dust, smoke, soot, sea salt, pollen, spores, volcanic ash and fine mineral particles.
+
+[TABLE]
+Type | Examples
+Natural | Sea salt, dust, volcanic particles, pollen, spores, biological material.
+Anthropogenic | Industrial sulphates, soot, vehicle emissions, biomass-burning particles, construction dust.
+[END TABLE]
+
+Aerosols can:
+
+* Act as cloud condensation nuclei.
+
+* Scatter and absorb radiation.
+
+* Modify cloud properties and precipitation.
+
+* Reduce incoming solar radiation at the surface.
+
+* Influence visibility and air quality.
+
+[FLOW]
+
+Water vapour + condensation nuclei → cloud droplets/ice crystals → clouds → precipitation
+
+[/FLOW]
+
+### Major Optical Phenomena
+
+[TABLE]
+Phenomenon | Cause
+Blue sky | Preferential scattering of shorter wavelengths of sunlight by atmospheric molecules and particles.
+Red/orange sunrise and sunset | Longer atmospheric path causes greater scattering of shorter wavelengths, leaving more red/orange light reaching the observer.
+Twinkling of stars | Atmospheric refraction through moving layers of varying density.
+Mirage | Refraction/total internal reflection in layers of air having strong temperature and density gradients.
+Rainbow | Refraction + dispersion + internal reflection of sunlight in water droplets.
+Halo | Refraction of light through ice crystals, commonly in cirrus clouds.
+Sun pillar | Reflection of sunlight by plate-like ice crystals.
+Green flash | Brief green appearance near sunrise/sunset due to atmospheric refraction and dispersion.
+[END TABLE]
+
+### Rainbow
+
+[FLOW]
+
+Sunlight enters raindrop → refraction → dispersion → internal reflection → refraction on exit → rainbow
+
+[/FLOW]
+
+Primary rainbow: produced by one internal reflection.
+
+Secondary rainbow: produced by two internal reflections; it is fainter and its colour order is reversed relative to the primary rainbow.
+
+ROYGBIV: Red → Orange → Yellow → Green → Blue → Indigo → Violet.
+
+In the primary rainbow, red is outermost and violet innermost.
+
+-------------------------------------------------------
+## Vertical Structure of the Atmosphere
+-------------------------------------------------------
+
+The atmosphere can be divided in different ways. The most important UPSC classification is on the basis of temperature.
+
+[FLOW]
+
+Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere
+
+[/FLOW]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important: The altitude limits are approximate and vary with latitude, season and solar activity. Do not treat every numerical boundary as perfectly fixed.
+
+[/CLARIFICATION]
+
+[TABLE]
+Layer | Approx. altitude | Temperature trend | Major features
+Troposphere | Surface to ~8 km at poles and ~16–18 km at equator | ↓ with height | Weather, clouds, most water vapour and aerosols.
+Stratosphere | ~10–50 km | ↑ with height | Ozone layer; stable, stratified air; little vertical mixing.
+Mesosphere | ~50–80/85 km | ↓ with height | Meteors commonly burn; coldest atmospheric region near mesopause.
+Thermosphere | ~80/85–500/600+ km | ↑ with height | Absorbs high-energy solar radiation; auroras; ionosphere overlaps this region.
+Exosphere | Above thermosphere; gradually extends into space | Not meaningfully comparable as ordinary atmospheric air | Extremely rarefied gas; particles can escape into space; many satellites operate in or pass through this region.
+[END TABLE]
+
+### 1. Troposphere
+
+* Lowest and densest atmospheric layer.
+
+* Contains nearly all important weather phenomena.
+
+* Contains most of atmospheric water vapour and aerosols.
+
+* Temperature generally decreases upward at the normal environmental lapse rate of about 6.5°C/km.
+
+* Heated mainly from Earth's surface by terrestrial radiation.
+
+* Strong convection and turbulence produce frequent vertical mixing.
+
+* Thickness is greatest near the equator because stronger heating and convection raise the tropopause.
+
+[FLOW]
+
+Surface heating → warm air rises → convection → vertical mixing → clouds + weather → decreasing temperature with altitude
+
+[/FLOW]
+
+Tropopause is the transition zone between the troposphere and stratosphere.
+
+Approximate tropopause height:
+
+[FLOW]
+
+Equator → ~16–18 km
+Mid-latitudes → ~10–12 km
+Poles → ~8–10 km
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+UPSC Mains linkage: Troposphere determines weather because it contains most water vapour, has strong vertical convection, experiences a temperature lapse rate and contains most of the atmospheric mass and aerosols.
+
+[/EXAM FOCUS]
+
+### 2. Stratosphere
+
+* Extends from the tropopause to roughly 50 km.
+
+* Temperature generally increases with altitude.
+
+* The rise is linked mainly to absorption of ultraviolet radiation by ozone.
+
+* Strong vertical stability and relatively weak vertical convection.
+
+* Horizontal mixing is more important than vertical mixing.
+
+* Commercial aircraft may cruise in the lower stratosphere or near the tropopause to avoid much of the turbulence of the lower atmosphere.
+
+[FLOW]
+
+Altitude ↑ → ozone absorption ↑ → heating ↑ → temperature ↑ → stable stratification
+
+[/FLOW]
+
+### 3. Mesosphere
+
+* Extends approximately from 50 to 80/85 km.
+
+* Temperature again decreases with altitude.
+
+* Contains the mesopause, near the coldest temperatures in the atmosphere.
+
+* Most meteoroids entering the atmosphere burn up here due to collisions with atmospheric particles.
+
+* Noctilucent clouds can occur in the upper mesosphere.
+
+### 4. Thermosphere
+
+* Begins around 80–85 km.
+
+* Temperature increases strongly with altitude because high-energy UV and X-ray radiation is absorbed by atmospheric gases.
+
+* Despite very high kinetic temperatures, the layer contains extremely few particles, so it would not feel hot like the lower atmosphere.
+
+* Auroras occur in this broad upper-atmospheric region.
+
+* The ionosphere overlaps the thermosphere.
+
+### 5. Exosphere
+
+* Outermost atmospheric region.
+
+* Contains extremely sparse particles of mainly light gases.
+
+* Gas particles can travel long distances between collisions.
+
+* Some particles can escape Earth's gravitational influence.
+
+* It gradually merges into outer space.
+
+-------------------------------------------------------
+## Ionosphere and Homosphere–Heterosphere
+-------------------------------------------------------
+
+### Ionosphere
+
+The ionosphere is an electrically charged region produced mainly by ionisation of atmospheric gases under solar UV and X-ray radiation.
+
+It overlaps the mesosphere and thermosphere rather than constituting one separate temperature layer.
+
+* Important for radio communication.
+
+* Reflects/refracts certain radio waves back toward Earth.
+
+* Strongly affected by solar activity.
+
+* Associated with auroras.
+
+[TABLE]
+Ionospheric layer | Main feature
+D-layer | Lower ionospheric region; important absorption of low-frequency radio waves; largely weakens after sunset.
+E-layer | Reflects medium/high-frequency radio waves. Also called the Kennelly–Heaviside layer.
+F-layer | Upper ionospheric region; major role in long-distance HF communication.
+F1 and F2 | Subdivisions of the F-region, especially distinct during daytime; their structure changes with solar conditions and time of day.
+[END TABLE]
+
+[FLOW]
+
+Solar UV/X-rays → ionisation → charged particles → ionosphere → radio-wave interaction + auroras
+
+[/FLOW]
+
+### Homosphere and Heterosphere
+
+[TABLE]
+Homosphere | Heterosphere
+Lower atmosphere, approximately up to 80–100 km for the broad conceptual division. | Higher atmosphere where molecular diffusion becomes increasingly important.
+Gases are relatively well mixed by turbulence and convection. | Gases become increasingly separated according to molecular mass.
+Nitrogen and oxygen dominate. | Proportion of lighter gases such as helium and hydrogen becomes increasingly important with height.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Do not confuse classifications: Troposphere–stratosphere–mesosphere–thermosphere–exosphere is a temperature-based classification, while homosphere–heterosphere is based mainly on gas mixing/composition, and the ionosphere is based on ionisation/electrical properties.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Pressure and Density Variation
+-------------------------------------------------------
+
+Atmospheric pressure is the force exerted by the weight of the air column above a unit area.
+
+[FLOW]
+
+Altitude ↑ → air column above ↓ → air density ↓ → atmospheric pressure ↓
+
+[/FLOW]
+
+* Pressure decreases rapidly with altitude.
+
+* Air is densest near the Earth's surface.
+
+* Most atmospheric mass lies in the lower atmosphere.
+
+* The decrease is non-linear; pressure falls rapidly near the surface and more gradually at greater heights.
+
+### Vertical Structure in Terms of Pressure
+
+[TABLE]
+Altitude | General condition
+Surface–~8 km | Large and rapid decrease in pressure.
+~8–50 km | Pressure continues to decline but at a progressively slower absolute rate.
+~50–85 km | Atmosphere becomes extremely thin.
+Above ~85 km | Very low density; molecules increasingly separated.
+[END TABLE]
+
+Horizontal pressure variation: Differences in temperature cause differences in air density and pressure. These pressure differences are fundamental to the development of winds and atmospheric circulation.
+
+[FLOW]
+
+Temperature differences → pressure differences → pressure gradient force → air movement → wind
+
+[/FLOW]
+
+-------------------------------------------------------
+## Ozone Layer and Ozone Chemistry
+-------------------------------------------------------
+
+The ozone layer is concentrated mainly in the stratosphere and absorbs a large fraction of harmful ultraviolet radiation.
+
+Highest ozone concentrations occur broadly around 20–30 km, although ozone is distributed throughout a wider stratospheric region.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: “Ozone layer = 10–50 km” should not be interpreted as meaning that ozone concentration is uniform through this entire thickness. The ozone maximum is concentrated mainly in the lower/middle stratosphere.
+
+[/CLARIFICATION]
+
+### Formation of Ozone
+
+[FLOW]
+
+O2 + UV → O + O
+
+[/FLOW]
+
+[FLOW]
+
+O + O2 + M → O3 + M
+
+[/FLOW]
+
+Here M is a third molecule that helps carry away excess energy.
+
+### Natural Ozone Breakdown
+
+[FLOW]
+
+O3 + UV → O2 + O
+
+[/FLOW]
+
+Thus, ozone undergoes continuous formation–destruction cycles.
+
+### Importance of Ozone
+
+* Absorbs much of the harmful UV-B and almost all UV-C reaching the lower atmosphere.
+
+* Protects humans from skin damage, cataracts and other UV-related biological effects.
+
+* Protects terrestrial and aquatic ecosystems.
+
+* Ozone absorption also helps create the temperature inversion of the stratosphere.
+
+### Ozone Depletion
+
+Human-made chlorofluorocarbons (CFCs) and related ozone-depleting substances can release chlorine and bromine radicals in the stratosphere.
+
+[FLOW]
+
+CFCs reach stratosphere → UV radiation breaks C–Cl bonds → chlorine radical released → catalytic ozone destruction → O2
+
+[/FLOW]
+
+A single chlorine atom can participate in many catalytic cycles before being removed from the active chemical cycle.
+
+### Why Antarctica is Especially Vulnerable
+
+[FLOW]
+
+Polar winter → extreme cold → Polar Stratospheric Clouds → heterogeneous chemical reactions → inactive chlorine converted to reactive forms → sunlight returns in spring → rapid ozone destruction
+
+[/FLOW]
+
+* Polar vortex: strong winter circulation isolates Antarctic stratospheric air.
+
+* Polar Stratospheric Clouds (PSCs): provide surfaces for chemical reactions.
+
+* Returning sunlight activates photochemical reactions that accelerate ozone loss.
+
+### Montreal Protocol
+
+The 1987 Montreal Protocol established international controls on ozone-depleting substances and is a major example of successful global environmental cooperation.
+
+Ozone recovery is expected to continue as concentrations of ozone-depleting substances decline, although recovery varies spatially and temporally.
+
+[EXAM FOCUS]
+
+Do not confuse:
+
+Ozone depletion = reduction of stratospheric ozone.
+
+Global warming = increase in Earth's energy imbalance due mainly to rising greenhouse-gas concentrations.
+
+They are related to atmospheric chemistry but are not the same phenomenon.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Atmospheric Heating and Temperature Structure
+-------------------------------------------------------
+
+The atmosphere is heated through a combination of terrestrial radiation, direct absorption of solar radiation, conduction and convection.
+
+[FLOW]
+
+Solar radiation → Earth's surface absorbs energy → Earth emits long-wave terrestrial radiation → atmosphere absorbs part of it → atmospheric heating
+
+[/FLOW]
+
+This explains why the lower atmosphere is largely heated from below.
+
+### Lapse Rate
+
+Lapse rate is the rate at which temperature changes with altitude.
+
+Average environmental lapse rate in the troposphere:
+
+≈ 6.5°C per km
+
+[FLOW]
+
+Height ↑ → pressure ↓ → rising air expands → adiabatic cooling
+
+[/FLOW]
+
+The lapse rate is important in determining atmospheric stability, convection, cloud formation and precipitation.
+
+-------------------------------------------------------
+## Atmospheric Layers: One-Line Revision
+-------------------------------------------------------
+
+[TABLE]
+Layer | Remember
+Troposphere | Weather + water vapour + aerosols + temperature ↓
+Stratosphere | Ozone + UV absorption + temperature ↑ + stability
+Mesosphere | Meteors + temperature ↓ + coldest region
+Thermosphere | UV/X-rays + temperature ↑ + auroras + ionosphere
+Exosphere | Extremely thin + hydrogen/helium increasingly important + transition to space
+[END TABLE]
+
+[FLOW]
+
+Troposphere ↓ → Stratosphere ↑ → Mesosphere ↓ → Thermosphere ↑
+
+[/FLOW]
+
+Temperature pattern mnemonic: “Down–Up–Down–Up”
+
+-------------------------------------------------------
+## Atmosphere and Major Environmental Processes
+-------------------------------------------------------
+
+[TABLE]
+Process | Atmospheric role
+Greenhouse effect | Water vapour, CO2, methane and other greenhouse gases absorb outgoing long-wave radiation.
+Hydrological cycle | Water evaporates → vapour rises → condensation → clouds → precipitation.
+Weather formation | Heating + pressure differences + moisture + winds → clouds, rainfall, storms and other weather phenomena.
+Radiation balance | Atmospheric gases, aerosols and clouds modify incoming and outgoing radiation.
+Biogeochemical cycles | Atmosphere participates in carbon, nitrogen, oxygen and water cycles.
+[END TABLE]
+
+-------------------------------------------------------
+## Atmosphere and Human Significance
+-------------------------------------------------------
+
+* Agriculture: weather forecasting, rainfall and temperature determine crop choices and productivity.
+
+* Disaster management: atmospheric observations support cyclone, thunderstorm, heat-wave and heavy-rainfall warnings.
+
+* Aviation: turbulence, wind shear, pressure and upper-air circulation affect aircraft operations.
+
+* Communication: ionospheric conditions influence HF radio propagation.
+
+* Climate change: changes in greenhouse gases alter Earth's radiative balance.
+
+* Public health: aerosols and pollutants influence respiratory health and visibility.
+
+* Energy: wind and solar resources depend strongly on atmospheric conditions.
+
+-------------------------------------------------------
+## High-Yield Conceptual Connections
+-------------------------------------------------------
+
+[FLOW]
+
+Atmospheric composition → radiation absorption → temperature structure → pressure differences → winds → weather → climate
+
+[/FLOW]
+
+[FLOW]
+
+Water vapour → condensation → clouds → precipitation → hydrological cycle → weather
+
+[/FLOW]
+
+[FLOW]
+
+CO2 + CH4 + H2O → absorption of long-wave radiation → greenhouse effect → climate system
+
+[/FLOW]
+
+[FLOW]
+
+O2 + UV → O3 → UV absorption → stratospheric heating → stable stratosphere
+
+[/FLOW]
+
+[FLOW]
+
+Solar UV/X-rays → ionisation → ionosphere → radio-wave propagation + auroras
+
+[/FLOW]
+
+-------------------------------------------------------
+## Quick Revision Sheet
+-------------------------------------------------------
+
+Atmosphere: gaseous envelope held by gravity around Earth.
+
+Dry-air composition:
+
+[FLOW]
+
+N2 78% → O2 21% → Ar 0.93% → CO2 ~0.04% → trace gases
+
+[/FLOW]
+
+Variable components: water vapour + CO2 + ozone + methane + aerosols.
+
+Most weather: Troposphere.
+
+Maximum water vapour: warm, humid tropical lower atmosphere.
+
+Water vapour with altitude: decreases.
+
+Troposphere thickness: greatest near equator, least near poles.
+
+Troposphere temperature: decreases upward.
+
+Normal lapse rate: ~6.5°C/km.
+
+Stratosphere: ozone + temperature increases upward.
+
+Mesosphere: meteors burn + very low temperatures.
+
+Thermosphere: high-energy solar radiation + aurora + ionosphere overlap.
+
+Exosphere: extremely thin outer transition into space.
+
+Ionosphere: ionised region important for radio communication and auroras.
+
+Kennelly–Heaviside layer: E-layer.
+
+Ozone maximum: mainly around 20–30 km in the stratosphere.
+
+[FLOW]
+
+O2 + UV → O → O3
+
+[/FLOW]
+
+Rainbow: refraction + dispersion + internal reflection.
+
+Blue sky: preferential scattering of shorter wavelengths.
+
+Red sunrise/sunset: longer atmospheric path → stronger scattering of shorter wavelengths.
+
+Twinkling: atmospheric refraction.
+
+Mirage: refraction + total internal reflection under strong temperature gradients.
+
+[FLOW]
+
+Altitude ↑ → density ↓ → pressure ↓
+
+[/FLOW]
+
+[FLOW]
+
+Surface heating → terrestrial radiation → atmospheric heating from below → convection → weather
+
+[/FLOW]
+
+[FLOW]
+
+CFCs → UV breakdown → chlorine release → catalytic ozone destruction
+
+[/FLOW]
+
+Master sequence:
+
+[FLOW]
+
+Composition → Radiation → Temperature → Pressure → Circulation → Weather → Climate
+
+[/FLOW]

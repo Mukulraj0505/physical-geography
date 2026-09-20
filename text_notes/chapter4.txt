@@ -1,0 +1,718 @@
+=======================================================
+# Chapter 4 — Latitudes & Longitudes
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Earth as a Globe: Latitudes, Longitudes and Earth's Shape
+-------------------------------------------------------
+
+Latitude specifies the north–south position of a place, while longitude specifies its east–west position.
+
+Together they form the global coordinate system used in navigation, mapping, surveying, weather forecasting, GIS, GPS, timekeeping and boundary demarcation.
+
+### Shape of the Earth
+
+Earth is not a perfect sphere. Its rotation produces a slight bulging at the equator and flattening at the poles.
+
+Earth = Oblate spheroid
+
+* Equatorial diameter ≈ 12,756 km
+
+* Polar diameter ≈ 12,714 km
+
+* Equatorial bulge occurs because of Earth's rotation.
+
+* Gravity is slightly weaker at the equator than at the poles because of the Earth's shape and rotational effect.
+
+### Geoid
+
+The geoid is the irregular, gravity-defined reference surface that approximates mean sea level extended beneath the continents.
+
+Sphere → mathematical model
+
+Oblate spheroid → simplified physical shape
+
+Geoid → gravity-based approximation of Earth's actual shape
+
+[NOTE]
+
+UPSC point: Geoid is more useful than a perfect sphere for precise geodetic measurements, surveying and GPS-based positioning.
+
+[/NOTE]
+
+### Why does a ship disappear hull-first?
+
+Ship moves away → lower hull disappears first → mast remains visible → eventually mast disappears
+
+This is consistent with Earth's curved surface and was historically used as evidence for Earth's sphericity.
+
+-------------------------------------------------------
+## Earth's Rotation and Revolution: Foundation of Time and Seasons
+-------------------------------------------------------
+
+### Rotation
+
+Earth rotates from west to east around an imaginary axis passing through the North and South Poles.
+
+One rotation relative to distant stars takes about 23 h 56 min 4 s (sidereal day), while the mean solar day is about 24 hours.
+
+[FLOW]
+Earth rotates west → east → different meridians face the Sun at different times → day and night + local time differences
+[/FLOW]
+
+### Revolution and Seasons
+
+Earth revolves around the Sun in about 365.2422 days.
+
+Seasons occur primarily because of the combination of:
+
+* Earth's axial tilt (~23.4°)
+
+* Earth's revolution around the Sun
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Common error: Seasons are not caused primarily by Earth being closer to or farther from the Sun. Earth's axial tilt changes the angle and duration of incoming solar radiation between the hemispheres.
+
+[/CLARIFICATION]
+
+  
+  
+    Earth's revolution, seasons, equinoxes and solstices
+  
+
+### How the 23.4° tilt creates the major latitude lines
+
+[FLOW]
+
+Earth's axial tilt ≈ 23.4° → Sun's apparent annual north–south movement between 23.4°N and 23.4°S → Tropic of Cancer + Tropic of Capricorn
+
+[/FLOW]
+
+[FLOW]
+
+90° − 23.4° ≈ 66.6° → Arctic Circle + Antarctic Circle
+
+[/FLOW]
+
+This is the most important conceptual relationship behind the major latitudinal lines.
+
+  
+  
+    Earth's axial tilt, tropics and polar circles
+  
+
+### Solstices and Equinoxes
+
+[TABLE]
+Event | Approx. date | Sun overhead at | Northern Hemisphere | Southern Hemisphere
+March Equinox | 20–21 March | Equator | Spring begins astronomically | Autumn begins astronomically
+June Solstice | 20–21 June | Tropic of Cancer | Summer; longest day | Winter; shortest day
+September Equinox | 22–23 September | Equator | Autumn begins astronomically | Spring begins astronomically
+December Solstice | 21–22 December | Tropic of Capricorn | Winter; shortest day | Summer; longest day
+[END TABLE]
+
+Equinox: Sun is approximately overhead at the Equator and day and night are nearly equal globally.
+
+Solstice: Sun reaches its northernmost or southernmost apparent position.
+
+[FLOW]
+
+June Solstice → Northern Hemisphere tilted toward Sun → Sun overhead at 23.4°N → longest days in Northern Hemisphere → 24-hour daylight begins poleward of Arctic Circle
+
+[/FLOW]
+
+[FLOW]
+
+December Solstice → Southern Hemisphere tilted toward Sun → Sun overhead at 23.4°S → longest days in Southern Hemisphere → 24-hour daylight begins poleward of Antarctic Circle
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+UPSC 2019 Prelims concept: On 21 June, the Sun is directly overhead at the Tropic of Cancer, and the Sun does not set at the Arctic Circle.
+
+[/EXAM FOCUS]
+
+### Circle of Illumination
+
+The circle of illumination is the imaginary boundary separating Earth's illuminated half from its dark half.
+
+[FLOW]
+
+Earth's spherical shape + rotation → only half illuminated at a time → circle of illumination separates day and night
+
+[/FLOW]
+
+Because Earth is spherical, the circle of illumination changes its position relative to the latitude grid during the year, helping produce seasonal variations in daylight duration.
+
+-------------------------------------------------------
+## Latitudes
+-------------------------------------------------------
+
+A parallel of latitude is an imaginary circle running east–west around Earth and measuring angular distance north or south of the Equator.
+
+Equator = 0° latitude
+
+Latitude is measured from 0° to 90° North or 0° to 90° South.
+
+All parallels are parallel to the Equator and never meet.
+
+### Equator
+
+The Equator divides Earth into the Northern Hemisphere and Southern Hemisphere.
+
+* Latitude = 0°
+
+* Greatest circumference of any parallel.
+
+* Length ≈ 40,075 km.
+
+* Sun can be directly overhead at the Equator around the equinoxes.
+
+### Great Circles and Small Circles
+
+A great circle is formed by a plane passing through the centre of Earth.
+
+The Equator is a great circle. All meridians together form great circles, with each complete meridian and its opposite meridian forming one great circle.
+
+A small circle is formed when the plane does not pass through Earth's centre.
+
+[NOTE]
+
+Shortcut: Every complete meridian pair forms a great circle; individual parallels except the Equator are small circles.
+
+[/NOTE]
+
+### Distance represented by latitude
+
+One degree of latitude is approximately 111 km.
+
+The distance changes only slightly from Equator to poles, unlike longitude.
+
+[FLOW]
+
+90° latitude range → ~10,000 km from Equator to Pole → ~111 km per degree
+
+[/FLOW]
+
+-------------------------------------------------------
+## Major Latitudinal Lines
+-------------------------------------------------------
+
+[TABLE]
+Line | Latitude | Key significance
+Equator | 0° | Separates Northern and Southern Hemispheres.
+Tropic of Cancer | ~23.4°N | Northernmost latitude at which the Sun can be directly overhead.
+Tropic of Capricorn | ~23.4°S | Southernmost latitude at which the Sun can be directly overhead.
+Arctic Circle | ~66.6°N | At least one day of 24-hour daylight and one day of 24-hour darkness annually.
+Antarctic Circle | ~66.6°S | At least one day of 24-hour daylight and one day of 24-hour darkness annually.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: E-TC-TCp-A-A
+
+Equator → Tropic of Cancer → Tropic of Capricorn → Arctic Circle → Antarctic Circle
+
+[/EXAM FOCUS]
+
+### Tropic of Cancer
+
+Located at approximately 23.4°N.
+
+Marks the northernmost position of the overhead Sun.
+
+At the June Solstice:
+
+[FLOW]
+
+Sun overhead at Tropic of Cancer → Northern Hemisphere receives more direct solar radiation → Northern Hemisphere summer
+
+[/FLOW]
+
+### Tropic of Cancer in India
+
+The Tropic of Cancer passes through 8 Indian states, from west to east:
+
+[FLOW]
+
+Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
+
+[/FLOW]
+
+Mnemonic: GRMC-JWTM
+
+Remember it as:
+
+“Gujarat Runs Mostly Central — Just Watch Tripura, Mizoram.”
+
+Among the northeastern states, the Tropic of Cancer passes through only Tripura and Mizoram.
+
+### River associated with the Tropic of Cancer in India
+
+[EXAM FOCUS]
+
+Mahi River → crosses the Tropic of Cancer twice in India.
+
+[/EXAM FOCUS]
+
+[FLOW]
+
+Mahi originates in Madhya Pradesh → flows through Rajasthan → enters Gujarat → crosses Tropic of Cancer again → Gulf of Khambhat → Arabian Sea
+
+[/FLOW]
+
+Prelims trap: Narmada and Tapi do not have this double-crossing distinction.
+
+### Tropic of Capricorn
+
+Located at approximately 23.4°S.
+
+Marks the southernmost position of the overhead Sun.
+
+At the December Solstice:
+
+[FLOW]
+
+Sun overhead at Tropic of Capricorn → Southern Hemisphere receives more direct solar radiation → Southern Hemisphere summer
+
+[/FLOW]
+
+The Tropic of Capricorn passes through 10 countries across South America, Africa and Australia.
+
+South American: Chile, Argentina, Paraguay, Brazil
+
+African: Namibia, Botswana, South Africa, Mozambique, Madagascar
+
+Australia
+
+[EXAM FOCUS]
+
+World river fact: Limpopo River is famous for crossing the Tropic of Capricorn twice.
+
+[/EXAM FOCUS]
+
+### Arctic Circle
+
+Located at approximately 66.6°N.
+
+It marks the approximate southern boundary of the region where 24-hour daylight or 24-hour darkness can occur at least once each year.
+
+[FLOW]
+
+23.4° axial tilt → 90° − 23.4° ≈ 66.6° → Arctic Circle
+
+[/FLOW]
+
+At the June Solstice, areas within the Arctic Circle experience the midnight Sun.
+
+At the December Solstice, the same broad region experiences polar night.
+
+### Antarctic Circle
+
+Located at approximately 66.6°S.
+
+It is the Southern Hemisphere counterpart of the Arctic Circle.
+
+[FLOW]
+
+June Solstice → Antarctic region → polar night
+[/FLOW]
+
+[FLOW]
+
+December Solstice → Antarctic region → midnight Sun
+
+[/FLOW]
+
+### Equator and river association
+
+[EXAM FOCUS]
+
+Congo River → crosses the Equator twice.
+
+[/EXAM FOCUS]
+
+This is an important world-map fact because the Congo has a strongly curving course around the Equator.
+
+-------------------------------------------------------
+## Longitude
+-------------------------------------------------------
+
+A meridian of longitude is an imaginary semicircle running from the North Pole to the South Pole.
+
+Prime Meridian = 0° longitude
+
+Longitude is measured from 0° to 180°E and 0° to 180°W.
+
+Unlike parallels, all meridians meet at the North and South Poles.
+
+### Prime Meridian
+
+The internationally accepted Prime Meridian passes through Greenwich, London.
+
+It separates the conventional Eastern and Western Hemispheres.
+
+The 1884 International Meridian Conference selected Greenwich as the internationally recognised prime meridian.
+
+### Antimeridian
+
+The meridian approximately 180° from the Prime Meridian is called the antimeridian and broadly corresponds with the region of the International Date Line.
+
+### Distance represented by longitude
+
+At the Equator:
+
+[FLOW]
+
+360° circumference ÷ 360 → ~111 km per degree of longitude
+
+[/FLOW]
+
+With increasing latitude, meridians converge, so the east–west distance represented by 1° longitude decreases:
+
+[FLOW]
+
+Equator → maximum longitudinal distance → approaching poles → longitudinal distance approaches zero
+
+[/FLOW]
+
+Approximately:
+
+Distance of 1° longitude ≈ 111 × cos(latitude) km
+
+[EXAM FOCUS]
+
+Prelims trap: 1° latitude ≈ 111 km almost everywhere, but the distance represented by 1° longitude decreases toward the poles.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Longitude, Time and Time Zones
+-------------------------------------------------------
+
+Earth rotates 360° in approximately 24 hours.
+
+[FLOW]
+
+360° ÷ 24 h = 15° per hour
+
+[/FLOW]
+
+[FLOW]
+
+1° longitude = 4 minutes of time
+
+[/FLOW]
+
+Therefore:
+
+* Moving east → local time becomes later.
+
+* Moving west → local time becomes earlier.
+
+[EXAM FOCUS]
+
+Mnemonic: EAST = ADD
+
+Move east → add time
+
+Move west → subtract time
+
+[/EXAM FOCUS]
+
+### Local Time vs Standard Time
+
+Local time: time determined from the Sun's apparent position at a particular longitude.
+
+Standard time: legally adopted common time based on a selected standard meridian for a country or time zone.
+
+### Why time zones exist
+
+[FLOW]
+
+Earth rotates → different longitudes face the Sun at different moments → local times differ → inconvenient to use every city's local time → standard time zones adopted
+
+[/FLOW]
+
+-------------------------------------------------------
+## International Date Line
+-------------------------------------------------------
+
+The International Date Line (IDL) is an imaginary line running broadly near 180° longitude where the calendar date changes by one day.
+
+It is not a perfectly straight line because it deviates to avoid unnecessarily dividing countries and island groups into different calendar dates.
+
+[FLOW]
+
+International Date Line
+
+[/FLOW]
+
+[FLOW]
+
+Cross IDL westward → add one calendar day
+
+[/FLOW]
+
+[FLOW]
+
+Cross IDL eastward → subtract one calendar day
+
+[/FLOW]
+
+Important: the IDL is a conventional calendar boundary, not a physical geographical wall.
+
+### 2025 UPSC Prelims application
+
+[EXAM FOCUS]
+
+UPSC 2025 tested the concept using Anadyr (Siberia) and Nome (Alaska). The question examined how two geographically close places can fall on different calendar dates because of the International Date Line.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## GMT, UTC and Indian Standard Time
+-------------------------------------------------------
+
+### GMT
+
+Greenwich Mean Time (GMT) historically refers to mean solar time at Greenwich and was long used as an international reference time.
+
+### UTC
+
+Coordinated Universal Time (UTC) is today's primary international time standard.
+
+UTC is based on atomic time with adjustments through leap seconds historically used to keep it broadly aligned with Earth's irregular rotation.
+
+GMT and UTC are often numerically similar for everyday purposes, but they are conceptually different standards.
+
+### Indian Standard Time (IST)
+
+India uses a single standard time:
+
+[FLOW]
+
+82°30′E → Indian Standard Meridian → IST = UTC + 5:30
+
+[/FLOW]
+
+The Standard Meridian passes near Mirzapur, Uttar Pradesh.
+
+India uses one time zone despite its large east–west extent.
+
+[EXAM FOCUS]
+
+Why one IST? Administrative simplicity, national coordination, transport, communication and economic integration favour a single standard time.
+
+[/EXAM FOCUS]
+
+### Indian Standard Time and Sunrise
+
+Because India extends over a large range of longitudes:
+
+[FLOW]
+
+East India → Sun rises earlier → IST clock time remains common → western and eastern India experience different solar times
+
+[/FLOW]
+
+This creates a practical debate over whether India should consider multiple time zones, especially because northeastern India experiences significantly earlier sunrise and sunset than western India.
+
+However, India currently retains a single national standard time.
+
+-------------------------------------------------------
+## Daylight Saving Time
+-------------------------------------------------------
+
+Daylight Saving Time (DST) involves advancing clocks during part of the year to extend usable evening daylight according to local policy.
+
+India does not currently observe nationwide DST.
+
+Arguments for and against additional time zones or DST involve:
+
+* energy use
+
+* working hours and productivity
+
+* transport scheduling
+
+* regional sunrise and sunset patterns
+
+* administrative complexity
+
+* railway and communication coordination
+
+-------------------------------------------------------
+## International Date Line vs Prime Meridian
+-------------------------------------------------------
+
+[TABLE]
+Prime Meridian | International Date Line
+0° longitude | Approximately 180° longitude
+Passes through Greenwich | Runs mainly through the Pacific
+Reference for longitude | Reference for calendar-date change
+Relatively straight meridian | Highly irregular to accommodate political/geographical considerations
+[END TABLE]
+
+-------------------------------------------------------
+## GNSS, GPS, Triangulation and Trilateration
+-------------------------------------------------------
+
+### Triangulation vs Trilateration
+
+Triangulation determines a position primarily using angles.
+
+Trilateration determines a position using distances.
+
+[FLOW]
+
+Known points + measured angles → triangulation → position
+
+[/FLOW]
+
+[FLOW]
+
+Known satellites + measured distances → trilateration → receiver position
+
+[/FLOW]
+
+GPS positioning is fundamentally based on trilateration, not classical triangulation.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Correction: A common textbook simplification calls GPS “triangulation.” Technically, GPS/GNSS receivers determine position by trilateration from measured signal travel times.
+
+[/CLARIFICATION]
+
+### GNSS
+
+Global Navigation Satellite Systems (GNSS) are satellite-based positioning systems.
+
+[TABLE]
+System | Country / Region
+GPS | United States
+GLONASS | Russia
+Galileo | European Union
+BeiDou | China
+NavIC | India
+[END TABLE]
+
+GNSS applications include:
+
+[FLOW]
+
+Satellites → precise positioning → navigation + mapping + surveying + disaster management + agriculture + transport + timing + defence
+
+[/FLOW]
+
+Precise timing from GNSS is also important for telecommunication networks, financial systems, power grids and computer networks.
+
+-------------------------------------------------------
+## Solar, Lunar and Sidereal Days
+-------------------------------------------------------
+
+[TABLE]
+Type | Approx. length | Basis
+Solar day | 24 hours | Time between successive apparent noons / same solar position.
+Sidereal day | 23 h 56 min 4 s | Earth's rotation relative to distant stars.
+Lunar day | ~24 h 50 min | Based on the apparent movement of the Moon relative to Earth's surface.
+[END TABLE]
+
+-------------------------------------------------------
+## Solar and Lunar Months and Years
+-------------------------------------------------------
+
+### Solar Year
+
+A tropical/solar year is approximately 365.2422 days.
+
+This small fractional excess beyond 365 days necessitates the leap-year system.
+
+[FLOW]
+
+365 days + ~0.2422 day/year → accumulation of extra time → leap-year correction → calendar remains aligned with seasons
+
+[/FLOW]
+
+### Lunar Month and Lunar Year
+
+Sidereal month: Moon's orbital period relative to stars ≈ 27.3 days.
+
+Synodic month: New Moon to New Moon ≈ 29.53 days.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important distinction: 27.3 days is the sidereal month; ~29.53 days is the synodic month.
+
+[/CLARIFICATION]
+
+Twelve synodic months are approximately 354 days, shorter than a solar year by around 11 days.
+
+### Calendar Types
+
+[TABLE]
+Calendar | Basic basis
+Solar calendar | Based mainly on Earth's revolution around the Sun.
+Lunar calendar | Based mainly on lunar phases/cycles.
+Lunisolar calendar | Combines lunar months with adjustments to remain aligned with the solar year.
+[END TABLE]
+
+### Gregorian Calendar
+
+The Gregorian calendar is a solar calendar used internationally for civil purposes.
+
+Leap-year rule:
+
+[FLOW]
+
+Year divisible by 4 → leap year
+
+[/FLOW]
+
+Exception:
+
+[FLOW]
+
+Century year divisible by 100 → normally not a leap year
+
+[/FLOW]
+
+Exception to exception:
+
+[FLOW]
+
+Century year divisible by 400 → leap year
+
+[/FLOW]
+
+Examples: 2000 = leap year; 1900 = not a leap year.
+
+### Indian National Calendar
+
+India officially adopted the Saka Calendar as the national calendar for official purposes in 1957, alongside the Gregorian calendar for many civil uses.
+
+The Saka calendar is a solar calendar.
+
+-------------------------------------------------------
+## Most Important Map-Based Facts
+-------------------------------------------------------
+
+[TABLE]
+Question | Answer
+Which Indian river crosses Tropic of Cancer twice? | Mahi
+Which major African river crosses Tropic of Capricorn twice? | Limpopo
+Which major river crosses the Equator twice? | Congo
+How many Indian states does Tropic of Cancer cross? | 8
+Which NE states are crossed by Tropic of Cancer? | Tripura and Mizoram
+Indian Standard Meridian? | 82°30′E
+IST? | UTC + 5:30
+Prime Meridian? | 0° longitude, Greenwich
+International Date Line? | Broadly near 180° longitude
+June Solstice overhead Sun? | Tropic of Cancer
+December Solstice overhead Sun? | Tropic of Capricorn
+Equinox overhead Sun? | Equator
+[END TABLE]

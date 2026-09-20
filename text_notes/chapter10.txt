@@ -1,0 +1,974 @@
+=======================================================
+# Chapter 10 — Volcanism
+=======================================================
+
+Physical Geography • UPSC CSE Prelims + Mains
+
+-------------------------------------------------------
+## Volcanism: Basic Concept
+-------------------------------------------------------
+
+Volcanism is the movement of magma from Earth's interior towards and onto the surface. It includes the intrusion of magma within the crust as well as its eruption at the surface.
+
+[FLOW]
+
+Magma generated at depth → rises because of buoyancy/pressure → accumulates or moves through fractures → intrusion or eruption → igneous landforms
+
+[/FLOW]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important correction: Volcanism is an endogenic process, not an exogenic process. It is driven by Earth's internal heat.
+
+[/CLARIFICATION]
+
+### Why does magma form?
+
+Magma is generated mainly through partial melting of mantle or crustal rocks.
+
+[FLOW]
+
+Decompression melting → pressure decreases → melting begins without proportional increase in temperature
+
+[/FLOW]
+
+[FLOW]
+
+Flux melting → addition of water/volatile compounds → melting temperature falls → magma generation
+
+[/FLOW]
+
+[FLOW]
+
+Heat transfer → hot magma heats surrounding rocks → partial melting → new magma
+
+[/FLOW]
+
+Major tectonic settings for magma generation are:
+
+* Divergent boundaries: decompression melting beneath mid-ocean ridges.
+
+* Subduction zones: water released by the descending slab promotes melting in the mantle wedge.
+
+* Continental rifts: thinning and decompression can generate magma.
+
+* Hotspots: anomalously hot mantle can generate intraplate volcanism.
+
+-------------------------------------------------------
+## Volcano and Its Main Components
+-------------------------------------------------------
+
+A volcano is a vent/opening through which magma, lava, ash and volcanic gases reach the Earth's surface.
+
+[TABLE]
+Component | Meaning
+Magma chamber | Subsurface reservoir or storage region containing magma; its depth and size vary greatly among volcanoes.
+Conduit / Pipe | Path through which magma moves upward.
+Vent | Opening through which magma, gases and fragments are released.
+Crater | Bowl-shaped depression around a volcanic vent, commonly near the summit.
+Caldera | Much larger depression formed mainly by collapse following evacuation of a large magma reservoir.
+Fumarole | Vent emitting steam and volcanic gases.
+Parasitic/side vent | Secondary opening on the flank of a volcano.
+[END TABLE]
+
+[FLOW]
+
+Magma chamber → conduit → vent → eruption
+
+[/FLOW]
+
+-------------------------------------------------------
+## Magma, Lava and Volcanic Materials
+-------------------------------------------------------
+
+Magma is molten or partially molten rock beneath Earth's surface, containing dissolved gases and often crystals.
+
+Lava is magma that reaches the surface.
+
+[FLOW]
+
+Magma underground → reaches surface → Lava
+
+[/FLOW]
+
+### Major volcanic products
+
+[TABLE]
+Product | Description
+Lava flows | Streams/sheets of molten rock moving over the surface.
+Tephra | All fragmented material ejected during a volcanic eruption.
+Ash | Very fine volcanic particles.
+Lapilli | Intermediate-sized volcanic fragments.
+Volcanic bombs | Larger molten/semi-molten fragments ejected during eruption that solidify in flight or after deposition.
+Pyroclastic flows | Extremely hot, fast-moving mixtures of gas, ash and rock fragments.
+Lahars | Volcanic mud/debris flows consisting of water mixed with ash, rock and other volcanic material.
+Volcanic gases | Dominated by water vapour, CO₂ and SO₂, with smaller amounts of other gases.
+[END TABLE]
+
+[EXAM FOCUS]
+
+Prelims: Do not equate volcanic eruption only with lava. Eruptions can produce lava + tephra + ash + gases + bombs + pyroclastic material.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Silica, Viscosity and Style of Volcanic Eruption
+-------------------------------------------------------
+
+Silica content strongly influences the viscosity of magma/lava.
+
+[FLOW]
+
+High silica → stronger internal bonding/polymerisation → high viscosity → gases escape with difficulty → more explosive eruptions
+
+[/FLOW]
+
+[FLOW]
+
+Low silica → lower viscosity → easier gas escape → more fluid lava → generally more effusive eruptions
+
+[/FLOW]
+
+[TABLE]
+Type | Approx. SiO₂ | Viscosity | Typical behaviour | Examples
+Felsic / Acidic | ~65–75% | Very high | Highly viscous; often explosive | Rhyolite, rhyolitic lava
+Intermediate / Andesitic | ~52–65% | Intermediate-high | Moderately viscous; can be explosive | Andesite
+Mafic / Basaltic | ~45–52% | Low | Fluid; generally effusive | Basalt
+Ultramafic | <~45% | Very low | Extremely fluid; rare in modern surface volcanism | Komatiitic lavas in ancient geological settings
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: High Si = High Viscosity = High Explosivity
+
+Low Si = Low Viscosity = Lava travels farther
+
+[/EXAM FOCUS]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Important: “Acidic lava” does not mean chemically acidic like an acid solution. In volcanology, it mainly refers to high silica content.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Types of Volcanoes Based on Plate Setting and Shape
+-------------------------------------------------------
+
+### Cinder Cone Volcanoes
+
+Small, steep-sided volcanic cones made mainly of pyroclastic fragments such as cinders, ash and lapilli accumulated around a vent.
+
+* Usually have a summit crater.
+
+* Typically basaltic to andesitic in composition.
+
+* Rapidly built compared with large composite volcanoes.
+
+* Parícutin, Mexico is a classic example.
+
+[FLOW]
+
+Gas-rich lava → fragments violently ejected → cinders/lapilli accumulate around vent → cinder cone
+
+[/FLOW]
+
+### Composite / Stratovolcanoes
+
+Composite volcanoes are steep, large volcanoes built from alternating layers of lava, ash and pyroclastic material.
+
+[FLOW]
+
+Repeated eruptions → lava layers + ash/pyroclastic layers → steep cone → composite volcano
+
+[/FLOW]
+
+* Often associated with subduction zones.
+
+* Commonly contain relatively viscous andesitic to rhyolitic magma.
+
+* Can produce explosive eruptions, pyroclastic flows and lahars.
+
+* Examples: Mount Fuji, Mount St. Helens, Vesuvius, Mount Merapi.
+
+### Shield Volcanoes
+
+Shield volcanoes are broad, gently sloping volcanoes formed mainly by repeated outpourings of low-viscosity basaltic lava.
+
+[FLOW]
+
+Basaltic magma → fluid lava flows long distances → widespread thin lava layers → broad gentle volcano → shield volcano
+
+[/FLOW]
+
+* Largest among the major volcano types by area/volume.
+
+* Slopes are gentle because lava spreads easily.
+
+* Usually associated with effusive eruptions.
+
+* Examples: Mauna Loa and Mauna Kea; Kīlauea is another major shield volcano.
+
+### Fissure Volcanoes
+
+Fissure eruptions occur when magma reaches the surface through a long crack or linear fracture rather than a single central cone.
+
+[FLOW]
+
+Crustal extension → fissure develops → basaltic magma rises → lava spreads over large area → lava plateau/flood-basalt province
+
+[/FLOW]
+
+Examples: Icelandic fissure systems, Deccan Traps and Columbia River Basalt province.
+
+### Spatter Cones
+
+Spatter cones form when blobs of fluid lava are ejected from a vent and weld together around the opening.
+
+They are generally small and steep compared with broad shield volcanoes.
+
+### Complex / Compound Volcanoes
+
+These develop through a combination of volcanic structures and vents over prolonged periods.
+
+* May contain multiple cones, lava domes, craters and vents.
+
+* The volcanic system evolves through repeated eruptions of different types.
+
+* Mount Vesuvius, Etna and related complex volcanic systems illustrate how multiple volcanic structures can develop through long geological histories.
+
+-------------------------------------------------------
+## Volcanic Domes, Craters, Calderas and Volcano Fields
+-------------------------------------------------------
+
+### Volcanic / Lava Domes
+
+A lava dome develops when highly viscous lava is extruded slowly and accumulates around a vent rather than flowing far away.
+
+[FLOW]
+
+High-silica viscous magma → slow extrusion → lava cannot travel far → accumulation near vent → lava dome
+
+[/FLOW]
+
+Lava domes may become unstable and collapse, generating dangerous pyroclastic density currents.
+
+### Crater vs Caldera
+
+[TABLE]
+Crater | Caldera
+Generally smaller depression around a vent. | Much larger volcanic depression.
+May form around a summit vent. | Commonly forms after major magma withdrawal and collapse of the overlying volcanic structure.
+Usually several metres to kilometres across. | Can extend to several kilometres or more.
+[END TABLE]
+
+[FLOW]
+
+Large eruption → magma chamber loses support → roof collapses → large depression → caldera
+
+[/FLOW]
+
+Example: Crater Lake Caldera, Oregon, USA.
+
+### Volcanic Fields
+
+A volcanic field is a region containing numerous volcanic vents and small volcanic landforms rather than one dominant volcano.
+
+-------------------------------------------------------
+## Types of Volcanic Eruptions
+-------------------------------------------------------
+
+[TABLE]
+Type | Main characteristic | Typical material/behaviour
+Icelandic | Fissure eruption | Fluid basaltic lava; extensive lava sheets/plateaus
+Hawaiian | Effusive eruption | Highly fluid basaltic lava; shield volcanoes
+Strombolian | Moderate, repeated explosive bursts | Gas bubbles eject glowing lava fragments
+Vulcanian | Short-lived, relatively violent explosions | Ash, bombs and darker eruption columns
+Pelean | Highly viscous lava/dome processes | Dome collapse + pyroclastic flows
+Plinian | Very explosive eruption | Huge sustained eruption column reaching high into the atmosphere; abundant ash and pumice
+[END TABLE]
+
+[EXAM FOCUS]
+
+Mnemonic: I-H-S-V-P-P
+
+Icelandic → Hawaiian → Strombolian → Vulcanian → Pelean → Plinian
+
+[/EXAM FOCUS]
+
+### Explosivity Logic
+
+[FLOW]
+
+Low silica + low viscosity → easy gas escape → gentle/effusive lava flows
+
+[/FLOW]
+
+[FLOW]
+
+High silica + high viscosity + gas accumulation → pressure build-up → explosive eruption
+
+[/FLOW]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Do not memorise eruption names only: UPSC can connect the eruption type with silica content, viscosity, gas content, lava flow and landform.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Volcanic Explosivity Index (VEI)
+-------------------------------------------------------
+
+The Volcanic Explosivity Index (VEI) is a logarithmic classification of eruption explosivity, generally expressed from 0 to 8.
+
+* It considers factors such as erupted tephra volume and eruption-column height.
+
+* Higher VEI generally indicates larger and more explosive eruptions.
+
+* Very large eruptions can affect regional or global climate.
+
+[NOTE]
+
+Trap: VEI is not simply a direct measurement of “energy” and cannot perfectly describe every eruption because eruption style and duration vary.
+
+[/NOTE]
+
+-------------------------------------------------------
+## Where Do Volcanoes Occur?
+-------------------------------------------------------
+
+[FLOW]
+
+Divergent boundaries + Convergent boundaries + Hotspots → major zones of volcanism
+
+[/FLOW]
+
+[TABLE]
+Setting | Process | Examples
+Divergent boundary | Decompression melting during upwelling. | Mid-Atlantic Ridge, Iceland
+Ocean–continent convergence | Subduction of oceanic plate → mantle melting. | Andes, Cascades
+Ocean–ocean convergence | Subduction → volcanic island arc. | Japan, Aleutians, Mariana system
+Hotspot | Localized mantle upwelling/intraplate melting. | Hawaii, Yellowstone
+[END TABLE]
+
+-------------------------------------------------------
+## Volcanic Island Arcs
+-------------------------------------------------------
+
+Volcanic island arcs develop mainly at ocean–ocean convergent boundaries.
+
+[FLOW]
+
+Oceanic plate A + Oceanic plate B → denser plate subducts → water released from slab → mantle wedge melts → magma rises → volcanic island arc
+
+[/FLOW]
+
+Examples: Aleutian Islands, Japanese Arc, Philippine Arc and Indonesian arc systems.
+
+They are commonly associated with:
+
+* Deep-ocean trenches
+
+* Frequent earthquakes
+
+* Volcanic activity
+
+* Back-arc basins in some settings
+
+-------------------------------------------------------
+## Hotspots and Mantle Plumes
+-------------------------------------------------------
+
+A hotspot is a region of persistent volcanic activity that may occur away from a plate boundary.
+
+A mantle plume is a proposed narrow upwelling of anomalously hot, buoyant mantle material.
+
+[FLOW]
+
+Hot mantle material rises → decompression/partial melting → magma generation → hotspot volcanism
+
+[/FLOW]
+
+### Hotspot Track: Hawaii
+
+[FLOW]
+
+Hotspot remains relatively fixed → Pacific Plate moves over it → new volcano forms → plate carries older volcano away → older volcano becomes extinct → volcanic chain develops
+
+[/FLOW]
+
+In the Hawaiian–Emperor chain, volcanoes generally become older away from the present hotspot.
+
+This provides evidence about the direction and broad rate of plate movement.
+
+[EXAM FOCUS]
+
+2018 UPSC Mains: “Define mantle plume and explain its role in plate tectonics.” Therefore learn the connection between mantle plume → hotspot → intraplate volcanism → volcanic chains → rifting/flood basalts.
+
+[/EXAM FOCUS]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Nuance: The classic “deep, fixed mantle plume” model is useful for UPSC, but the precise origin and behaviour of every hotspot is scientifically debated. Not every hotspot must necessarily be explained by an identical deep plume mechanism.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Intrusive Volcanic Landforms
+-------------------------------------------------------
+
+When magma solidifies below the Earth's surface, it forms intrusive igneous bodies.
+
+[TABLE]
+Landform | Description
+Dyke | Discordant sheet-like intrusion cutting across existing rock layers, often approximately vertical or steeply inclined.
+Sill | Concordant sheet-like intrusion broadly parallel to existing rock layers.
+Laccolith | Dome-shaped concordant intrusion formed when viscous magma accumulates between rock layers and arches them upward.
+Lopolith | Large basin/saucer-shaped intrusion, commonly concordant with surrounding strata.
+Batholith | Very large intrusive igneous body, generally composed of granitic rocks, often exposed after prolonged erosion.
+Stock | Smaller intrusive body related to a batholith.
+[END TABLE]
+
+[FLOW]
+
+Magma intrudes → cools slowly underground → crystals grow → intrusive body
+
+[/FLOW]
+
+[EXAM FOCUS]
+
+Mnemonic: Dyke cuts | Sill sits | Laccolith lifts | Lopolith lowers | Batholith = Big
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## Geothermal Features
+-------------------------------------------------------
+
+Geothermal features are surface expressions of Earth's internal heat, commonly associated with volcanic or tectonically active regions.
+
+### Hot Springs
+
+Water heated by geothermal energy rises through fractures and reaches the surface as a hot spring.
+
+### Geysers
+
+A geyser is a hot spring system that periodically ejects water and steam under pressure.
+
+[FLOW]
+
+Groundwater enters fractures → heated at depth → pressure builds → sudden discharge → geyser eruption
+
+[/FLOW]
+
+### Fumaroles
+
+Fumaroles are vents through which steam and volcanic gases escape.
+
+Common gases include H₂O, CO₂ and H₂S.
+
+### Mudpots / Mud Pools
+
+Acidic geothermal water reacts with surrounding rocks and clay to create bubbling pools of mud.
+
+[TABLE]
+Feature | Main clue
+Hot spring | Hot groundwater reaches the surface.
+Geyser | Periodic explosive discharge of hot water/steam.
+Fumarole | Steam/gas emission.
+Mudpot | Hot acidic mud and bubbling gases.
+[END TABLE]
+
+### Indian Geothermal Examples
+
+* Puga Valley, Ladakh — major geothermal potential.
+
+* Chumathang, Ladakh — hot springs.
+
+* Manikaran, Himachal Pradesh — geothermal hot springs.
+
+* Tattapani, Chhattisgarh — geothermal hot springs.
+
+Geothermal energy can provide renewable electricity and direct heating, although environmental and engineering constraints vary by site.
+
+-------------------------------------------------------
+## Pseudovolcanic Features
+-------------------------------------------------------
+
+Some landforms resemble volcanic features but are produced by processes other than magma-driven volcanism.
+
+[TABLE]
+Feature | Formation | Example
+Meteorite crater | Impact of an extraterrestrial body. | Lonar Crater, Maharashtra
+Salt plug/dome | Upward movement of ductile salt under pressure. | Salt-dome regions
+Mud volcano | Expulsion of mud, water and gases from sedimentary/hydrocarbon-rich settings; not necessarily driven by magma. | Baratang, Andaman & Nicobar Islands; Azerbaijan
+[END TABLE]
+
+[EXAM FOCUS]
+
+Very important Prelims trap: Lonar is a meteorite-impact crater, not a volcanic crater.
+
+[/EXAM FOCUS]
+
+-------------------------------------------------------
+## India and Volcanism
+-------------------------------------------------------
+
+### Barren Island
+
+Barren Island in the Andaman Sea is India's only confirmed active volcano.
+
+* Located in the Andaman & Nicobar Islands.
+
+* Part of the volcanic arc system associated with subduction of the Indian Plate beneath the Burmese/Microplate system.
+
+* It has erupted repeatedly in the modern period.
+
+* The volcano is located about 140 km northeast of Port Blair.
+
+[EXAM FOCUS]
+
+2018 UPSC Prelims: Barren Island was directly tested. The question deliberately mixed its active status with an incorrect location and outdated eruption statement.
+
+[/EXAM FOCUS]
+
+### Deccan Traps
+
+The Deccan Traps are a vast province of ancient flood basalts formed by enormous volumes of fissure volcanism near the Cretaceous–Paleogene transition.
+
+[FLOW]
+
+Large-scale fissure volcanism → repeated basaltic lava flows → extensive layered lava province → Deccan Traps
+
+[/FLOW]
+
+* Dominantly basaltic.
+
+* Associated with ancient large igneous province volcanism.
+
+* Weathering of Deccan basalt is an important parent material for black cotton soil/regur.
+
+* The Deccan Traps are ancient volcanism, not an active volcanic field today.
+
+### Other Indian Volcanic / Volcanogenic Features
+
+* Narcondam Island — volcanic island, generally regarded as dormant.
+
+* Baratang — mud volcanoes; these are not magma-fed volcanoes.
+
+* Volcanic rocks and ancient volcanic provinces occur widely in peninsular India.
+
+-------------------------------------------------------
+## Volcanoes and the Pacific Ring of Fire
+-------------------------------------------------------
+
+The Circum-Pacific Belt / Ring of Fire is the major volcanic and seismic belt surrounding much of the Pacific Ocean.
+
+[FLOW]
+
+Pacific plate margins → extensive subduction → magma generation → volcanic arcs + trenches + earthquakes → Ring of Fire
+
+[/FLOW]
+
+Important volcanic regions include:
+
+* Andes
+
+* Central America
+
+* Cascades
+
+* Alaska–Aleutians
+
+* Kamchatka
+
+* Japan
+
+* Philippines
+
+* Indonesia
+
+* New Zealand
+
+The concentration is mainly linked to the enormous length of convergent/subduction boundaries surrounding the Pacific.
+
+-------------------------------------------------------
+## Hazards of Volcanic Eruptions
+-------------------------------------------------------
+
+[TABLE]
+Hazard | Nature / Impact
+Lava flows | Can bury settlements, roads, farmland and infrastructure. Usually relatively slow compared with pyroclastic flows.
+Pyroclastic density currents | Extremely hot, fast-moving mixtures of gas and fragmented material; among the most deadly volcanic hazards.
+Ashfall | Damages crops, machinery, roofs and aviation; causes respiratory problems.
+Volcanic gases | SO₂, CO₂ and other gases can cause respiratory hazards, acid deposition and localized environmental damage.
+Lahars | Volcanic mud/debris flows can travel rapidly down valleys and destroy settlements and infrastructure.
+Volcanic landslides | Collapse of unstable volcanic slopes can generate landslides and, in some cases, tsunamis.
+Tsunamis | Can result from submarine eruptions, volcanic flank collapse, caldera collapse or displacement of seawater.
+Acid rain | SO₂ converts into sulfurous/sulfuric compounds in the atmosphere, contributing to acid deposition.
+Aviation hazard | Volcanic ash can severely damage aircraft engines and reduce visibility.
+[END TABLE]
+
+[FLOW]
+
+Volcano → eruption → lava/ash/gases/pyroclastic material → direct hazards + secondary hazards → human, economic and environmental losses
+
+[/FLOW]
+
+-------------------------------------------------------
+## Volcanic Hazards: Environmental and Climatic Effects
+-------------------------------------------------------
+
+### Short-Term Cooling
+
+[FLOW]
+
+SO₂ released → sulfate aerosols form → sunlight reflected/scattered → temporary cooling
+
+[/FLOW]
+
+Large explosive eruptions can therefore produce short-term regional or global cooling.
+
+### Long-Term Warming Potential
+
+Volcanism also releases CO₂. Over geological timescales, sustained volcanic outgassing contributes to the long-term carbon cycle and can influence climate.
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Balanced UPSC framing: Large explosive eruptions can cause temporary cooling through sulfate aerosols, while volcanic CO₂ contributes to the long-term geological carbon cycle and warming potential.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## Benefits and Geographical Significance of Volcanism
+-------------------------------------------------------
+
+[TABLE]
+Dimension | Significance
+Landform formation | Creates volcanic cones, lava plateaus, islands, domes and new land.
+Soils | Weathered volcanic material can produce mineral-rich, fertile soils in suitable climates.
+Mineral resources | Volcanic and hydrothermal systems contribute to deposits of sulphides and metals such as copper, gold and others.
+Geothermal energy | Internal heat can be used for electricity generation and direct heating.
+Tourism | Volcanic mountains, geysers, hot springs, calderas and volcanic islands attract tourists.
+Scientific value | Volcanic rocks and deposits preserve evidence of Earth's geological history and mantle processes.
+New land | Volcanic eruptions can build islands and extend land surfaces.
+[END TABLE]
+
+-------------------------------------------------------
+## Volcanic Hazard Management
+-------------------------------------------------------
+
+[FLOW]
+
+Monitoring → hazard mapping → early warning → evacuation planning → resilient infrastructure → emergency response → recovery
+
+[/FLOW]
+
+### Monitoring and Prediction
+
+* Seismic monitoring: rising magma often produces earthquake swarms and tremors.
+
+* Ground deformation: GPS, InSAR and tilt measurements can identify inflation of volcanic systems.
+
+* Gas monitoring: changes in SO₂, CO₂ and other gases can indicate changing magmatic activity.
+
+* Thermal and satellite observations: detect heat anomalies and lava movement.
+
+* Visual monitoring: changes in crater activity, ash plumes and lava extrusion.
+
+[EXAM FOCUS]
+
+Important: Volcano prediction is generally a probabilistic assessment, not an exact prediction of the time and size of an eruption.
+
+[/EXAM FOCUS]
+
+### Preparedness
+
+* Hazard and evacuation maps.
+
+* Restricted development in high-risk zones.
+
+* Evacuation routes and shelters.
+
+* Public education and drills.
+
+* Ash-resistant infrastructure where appropriate.
+
+* Monitoring of rivers and valleys vulnerable to lahars.
+
+* Emergency communication systems.
+
+-------------------------------------------------------
+## Volcanoes: Active, Dormant and Extinct
+-------------------------------------------------------
+
+[TABLE]
+Category | Meaning
+Active | Volcano showing current activity or considered capable of erupting again; classification depends on scientific criteria, not merely a recent eruption.
+Dormant | Currently quiet but has potential to erupt again.
+Extinct | Not expected to erupt again under the present tectonic/magmatic conditions.
+[END TABLE]
+
+[CONCEPT CLARIFICATION / CORRECTION]
+
+Prelims trap: “Dormant” does not mean permanently dead. A dormant volcano may become active again.
+
+[/CLARIFICATION]
+
+-------------------------------------------------------
+## PYQ-Based Analysis
+-------------------------------------------------------
+
+[TABLE]
+Year | Stage | What UPSC tested | What to prepare
+2014 | Prelims | Volcanic action as a source of atmospheric CO₂. | Volcanism and the carbon cycle; distinguish volcanic CO₂ from biological sources/sinks.
+2018 | Prelims | Barren Island as an active Indian volcano; location and eruption-history traps. | Indian volcanoes + Andaman tectonics + active/dormant distinction.
+2018 | Mains | Mantle plume and its role in plate tectonics. | Hotspots, plume model, intraplate volcanism, Hawaiian chain, flood basalts, rifting.
+2021 | Mains | Global occurrence of volcanic eruptions in 2021 and their regional environmental impacts. | Volcanic hazards + regional environmental effects + case studies + disaster management.
+2024 | Prelims | Products of volcanic eruptions, including pyroclastic debris, ash/dust and volcanic gases. | Broad classification of volcanic products; do not focus only on lava.
+[END TABLE]
+
+[EXAM FOCUS]
+
+PYQ pattern: UPSC approaches volcanism from four angles — where volcanoes occur, how magma forms, what eruptions produce, and what their geographical/environmental impacts are.
+
+[/EXAM FOCUS]
+
+### Prelims Priority
+
+[TABLE]
+Topic | Priority
+Magma vs lava | ★★★★★
+Silica–viscosity–explosivity relationship | ★★★★★
+Volcano types | ★★★★★
+Eruption types | ★★★★★
+Plate-boundary volcanism | ★★★★★
+Barren Island + Indian volcanoes | ★★★★★
+Hotspots and mantle plumes | ★★★★☆
+Intrusive landforms | ★★★★☆
+Geothermal features | ★★★★☆
+Volcanic hazards | ★★★★★
+Ring of Fire mapping | ★★★★★
+Crater vs caldera vs meteorite crater | ★★★★☆
+[END TABLE]
+
+### Mains Dimensions
+
+[FLOW]
+
+Tectonic setting → magma generation → magma composition → viscosity → eruption style → landform
+
+[/FLOW]
+
+[FLOW]
+
+Subduction → volatile release → mantle melting → magma rise → volcanic arc → earthquakes + volcanic hazards
+
+[/FLOW]
+
+[FLOW]
+
+Divergence → decompression melting → basaltic magma → fissure/ridge volcanism → new crust
+
+[/FLOW]
+
+[FLOW]
+
+Hotspot → intraplate volcanism → age-progressive volcanic chain → evidence of plate movement
+
+[/FLOW]
+
+[FLOW]
+
+Volcanism → new land + fertile soils + minerals + geothermal energy + tourism
+
+[/FLOW]
+
+[FLOW]
+
+Volcanic eruption → ash + gases + pyroclastic flows + lava + lahars → environmental + human + economic impacts
+
+[/FLOW]
+
+Mains keyword bank: partial melting, decompression melting, flux melting, mantle wedge, volatile release, viscosity, silica content, pyroclastic density current, tephra, lahar, flood basalt, hotspot, mantle plume, magma chamber, fissure eruption, caldera, hydrothermal system, geothermal energy, volcanic hazard zonation.
+
+-------------------------------------------------------
+## High-Yield Mnemonics
+-------------------------------------------------------
+
+[TABLE]
+Concept | Mnemonic
+Main magma generation mechanisms | D-F-H → Decompression → Flux → Heat transfer
+Silica relationship | Si ↑ → Viscosity ↑ → Gas trapped ↑ → Explosivity ↑
+Major volcano types | C-C-S-S-F → Cinder → Complex → Composite → Shield → Spatter/Fissure
+Eruption types | I-H-S-V-P-P → Icelandic → Hawaiian → Strombolian → Vulcanian → Pelean → Plinian
+Intrusive forms | DSLLB → Dyke → Sill → Laccolith → Lopolith → Batholith
+Intrusive form logic | Dyke = cuts | Sill = sits | Laccolith = lifts | Lopolith = lowers | Batholith = Big
+Geothermal features | H-G-F-M → Hot spring → Geyser → Fumarole → Mudpot
+Hotspot chain | Hotspot stays → Plate moves → Volcano ages → Chain forms
+Volcanic hazards | L-P-A-G-L-T → Lava → Pyroclastic → Ash → Gas → Lahar → Tsunami
+Magma vs lava | Below = Magma | Surface = Lava
+India | Barren = Active | Baratang = Mud | Lonar = Meteorite | Deccan = Ancient Basalt
+[END TABLE]
+
+-------------------------------------------------------
+## Common Prelims Traps
+-------------------------------------------------------
+
+[TABLE]
+Trap | Correct concept
+Volcanism is an exogenic process. | Volcanism is endogenic.
+Magma and lava are identical terms. | Magma = below surface; Lava = erupted magma.
+High silica lava is more fluid. | High silica → high viscosity.
+Low silica lava is more explosive. | Low silica generally produces more fluid and effusive lava.
+Shield volcanoes are steep. | Shield volcanoes are broad with gentle slopes.
+Composite volcanoes are built only from lava. | They contain alternating lava + ash + pyroclastic layers.
+Cinder cones are large shield-like structures. | They are generally small, steep-sided pyroclastic cones.
+Fissure eruptions require a central crater. | Magma erupts through elongated cracks/fissures.
+Dyke is parallel to rock layers. | Dyke = discordant; Sill = concordant.
+Laccolith is a downward-bending intrusion. | Laccolith pushes overlying layers upward into a dome.
+Caldera = normal small crater. | Caldera is a much larger collapse depression.
+Every volcano occurs at a plate boundary. | Many do, but hotspot volcanism can occur within plates.
+All hotspots are located at divergent boundaries. | Many hotspots are intraplate, such as Hawaii.
+Hawaii is a subduction volcanic arc. | Hawaii = hotspot/intraplate volcanism.
+Andes are a volcanic island arc. | Andes = continental volcanic arc above Nazca subduction.
+Himalayas are a volcanic mountain chain. | They are primarily a continental-collision fold mountain system.
+Ring of Fire is mainly a hotspot belt. | It is dominated by subduction-related convergent margins.
+Lonar is a volcanic crater. | Lonar is a meteorite-impact crater.
+Baratang is an active magma-fed volcano. | Baratang features are mud volcanoes.
+Deccan Traps are active volcanoes. | Deccan Traps are an ancient flood-basalt province.
+Barren Island lies near Great Nicobar. | Its commonly cited location is about 140 km northeast of Port Blair.
+Dormant = extinct. | Dormant volcanoes may erupt again.
+Volcanic gases are mainly sulphur dioxide. | Water vapour is generally the most abundant volcanic gas, followed by CO₂ and SO₂ in typical magmatic systems.
+Every eruption causes global cooling. | Large explosive eruptions can cause temporary cooling; volcanic CO₂ also contributes to longer-term climate forcing.
+Pyroclastic flow is slow-moving lava. | Pyroclastic flow/current = hot, fast mixture of gas + ash + rock fragments.
+[END TABLE]
+
+-------------------------------------------------------
+## Short Revision Sheet
+-------------------------------------------------------
+
+Volcanism = movement of magma + volcanic products from Earth's interior.
+
+[FLOW]
+
+Internal heat → partial melting → magma → rise → intrusion/eruption → volcanic activity
+
+[/FLOW]
+
+Magma = underground | Lava = surface
+
+[FLOW]
+
+High silica → high viscosity → gas trapped → explosive
+
+[/FLOW]
+
+[FLOW]
+
+Low silica → low viscosity → easy flow → effusive
+
+[/FLOW]
+
+Felsic: high SiO₂ + viscous + explosive
+
+Mafic: low SiO₂ + fluid + effusive
+
+Shield: broad + gentle + basaltic + fluid lava
+
+Composite: steep + layered + lava + ash + pyroclastics
+
+Cinder: small + steep + pyroclastic fragments
+
+Fissure: lava through cracks + flood basalts
+
+[FLOW]
+
+Icelandic → fissure/flood basalt
+
+[/FLOW]
+
+[FLOW]
+
+Hawaiian → fluid basaltic lava
+
+[/FLOW]
+
+[FLOW]
+
+Strombolian → repeated moderate bursts
+
+[/FLOW]
+
+[FLOW]
+
+Vulcanian → short violent ash/bomb eruptions
+
+[/FLOW]
+
+[FLOW]
+
+Pelean → viscous dome + collapse + pyroclastic flow
+
+[/FLOW]
+
+[FLOW]
+
+Plinian → huge explosive eruption column + ash/pumice
+
+[/FLOW]
+
+[FLOW]
+
+Divergent → decompression melting → basalt → ridge/fissure volcanism
+
+[/FLOW]
+
+[FLOW]
+
+Subduction → volatile release → mantle melting → magma → volcanic arc
+
+[/FLOW]
+
+[FLOW]
+
+Hotspot → intraplate volcanism → volcanic chain
+
+[/FLOW]
+
+Dyke: cuts layers | Sill: parallel | Laccolith: dome upward | Lopolith: basin-shaped | Batholith: very large intrusion
+
+Crater: smaller vent depression | Caldera: large collapse depression
+
+Geothermal: Hot spring + Geyser + Fumarole + Mudpot
+
+India: Barren Island → only confirmed active volcano | Deccan Traps → ancient flood basalt | Baratang → mud volcano | Lonar → meteorite crater
+
+[FLOW]
+
+Volcanic eruption → lava + ash + gases + pyroclastics + bombs → direct and secondary hazards
+
+[/FLOW]
+
+Main hazards: Lava + Pyroclastic flows + Ash + Gases + Lahars + Landslides + Tsunamis.
+
+[FLOW]
+
+SO₂ → sulfate aerosols → temporary cooling
+
+[/FLOW]
+
+[FLOW]
+
+Volcanic CO₂ → long-term geological carbon-cycle influence
+
+[/FLOW]
+
+UPSC master chain:
+
+[FLOW]
+
+Tectonic setting → magma generation → composition → viscosity → eruption type → volcanic landform → hazard/benefit
+
+[/FLOW]
