@@ -789,3 +789,188 @@ th {
     text-align: left;
   }
 }
+
+/* =========================================================
+   PYQ Bank & Predictive Questions Styling
+   ========================================================= */
+.pyq-card {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--purple);
+  border-radius: 8px;
+  padding: 20px 22px;
+  margin: 22px 0;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.pyq-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+.pyq-card.predictive {
+  border-left-color: var(--orange);
+  background: var(--orange-bg);
+}
+.pyq-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px dashed var(--border);
+}
+.pyq-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.pyq-badge.prelims-badge {
+  background: var(--lav2);
+  color: var(--purple);
+}
+.pyq-badge.mains-badge {
+  background: var(--blue-bg);
+  color: var(--blue);
+  border: 1px solid var(--blue);
+}
+.pyq-badge.predictive-badge {
+  background: var(--orange);
+  color: #ffffff;
+}
+.pyq-meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.pyq-question {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.pyq-options {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 12px 0;
+}
+.pyq-options li {
+  padding: 8px 12px;
+  margin: 6px 0;
+  border-radius: 6px;
+  background: var(--lav);
+  border: 1px solid transparent;
+  font-size: 0.95rem;
+}
+.pyq-solution {
+  margin-top: 14px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.pyq-solution summary {
+  padding: 10px 14px;
+  font-weight: 700;
+  color: var(--purple);
+  cursor: pointer;
+  background: var(--lav2);
+  user-select: none;
+  transition: background 0.15s ease;
+}
+.pyq-solution summary:hover {
+  background: var(--lav);
+}
+.pyq-solution[open] summary {
+  border-bottom: 1px solid var(--border);
+}
+.solution-content {
+  padding: 16px 18px;
+  font-size: 0.95rem;
+}
+.solution-content .ans-key {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--green);
+  margin-bottom: 10px;
+}
+.solution-content .trap-box {
+  background: var(--red-bg);
+  border-left: 3px solid var(--red);
+  padding: 10px 14px;
+  margin-top: 12px;
+  border-radius: 4px;
+  font-size: 0.88rem;
+}
+.diagram-box {
+  background: var(--lav);
+  border: 1px dashed var(--purple2);
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 14px 0;
+  font-family: monospace;
+  white-space: pre-wrap;
+  font-size: 0.88rem;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+/* UPSC Mains Model Answer Booklet Styling */
+.mains-answer-sheet {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px 28px;
+  margin: 18px 0 28px 0;
+  box-shadow: var(--shadow);
+  border-left: 4px solid var(--blue);
+}
+.answer-meta-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.word-count-pill {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--blue);
+  background: var(--blue-bg);
+  padding: 3px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--blue);
+}
+.mains-section-head {
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: var(--purple);
+  margin: 16px 0 6px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 1px dashed var(--lav2);
+  padding-bottom: 4px;
+}
+.mains-point {
+  margin: 8px 0;
+  padding-left: 4px;
+  line-height: 1.6;
+}
+.mains-point strong {
+  color: var(--ink);
+}
+.scoring-tip {
+  background: var(--lav);
+  border-left: 3px solid var(--purple2);
+  padding: 8px 14px;
+  margin-top: 14px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: var(--ink);
+}
