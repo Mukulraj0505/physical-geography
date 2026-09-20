@@ -68,12 +68,30 @@
   </ul>
 </div>
 
+<!-- Quick Jump Bar for Mains Answers -->
+<nav class="mains-jump-bar" aria-label="Jump to Question">
+  <span class="jump-label">⚡ Quick Jump:</span>
+  <a href="#mains-2025" class="jump-tag">2025 (Crustal Tectonics)</a>
+  <a href="#mains-2024-sst" class="jump-tag">2024 (SST &amp; Cyclones)</a>
+  <a href="#mains-2024-aurora" class="jump-tag">2024 (Auroras)</a>
+  <a href="#mains-2023-fiord" class="jump-tag">2023 (Fiords)</a>
+  <a href="#mains-2022-rocks" class="jump-tag">2022 (Primary Rocks)</a>
+  <a href="#mains-2021-landslides" class="jump-tag">2021 (Landslides)</a>
+  <a href="#mains-2020-pacific" class="jump-tag">2020 (Circum-Pacific)</a>
+  <a href="#mains-2018-plumes" class="jump-tag">2018 (Mantle Plumes)</a>
+  <a href="#mains-2014-mountains" class="jump-tag">2014 (Fold Mountains)</a>
+  <a href="#mains-2013-inversion" class="jump-tag">2013 (Inversion)</a>
+  <a href="#mains-2013-uhi" class="jump-tag">2013 (Heat Islands)</a>
+  <a href="#mains-2013-drift" class="jump-tag">2013 (Continental Drift)</a>
+  <a href="#mains-predictives" class="jump-tag predictive-tag">🔮 5 Predictive Models</a>
+</nav>
+
 <!-- ========================================================= -->
 <h2>Theme 1: Geodynamics, Plate Tectonics &amp; Continental Architecture</h2>
 <!-- ========================================================= -->
 
 <!-- 2025 QUESTION -->
-<div class="mains-answer-sheet">
+<div id="mains-2025" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2025</span>
@@ -91,13 +109,18 @@
   <p><strong>Introduction:</strong> Plate Tectonics demonstrates that the Earth's lithosphere is fragmented into rigid plates moving over the ductile asthenosphere. Driven by <strong>mantle convection cells, slab pull, and ridge push</strong>, crustal plates undergo continuous divergence, convergence, and transform shear, dynamically reshaping continents and oceans over geological timescales.</p>
 
   <div class="diagram-box">
-[DIAGRAM: DYNAMIC CRUSTAL RESHAPING MECHANISMS]
+[SCHEMATIC: DYNAMIC CRUSTAL RESHAPING MECHANISMS]
 
-   DIVERGENT (Ocean Widening)          CONVERGENT (Basin Closing & Mountain Building)
-  Mid-Atlantic Ridge (Basalt Accretion)  Deep Trench (Subduction)    Fold Mountain Suture
-       ← [ Oceanic Plate ] →                   \  [ Oceanic ] →      ← [ Continental Plate ]
-            ▲                                   \                   /
-       [ Magma Plume ]                           ▼ (Melting in Asthenosphere)
+ (A) DIVERGENT (Ocean Basin Expansion)
+     Mid-Atlantic Ridge (Basalt Accretion &amp; Seafloor Spreading)
+     ← [ Oceanic Plate ] ───▲─── [ Oceanic Plate ] →
+                            │ (Decompression Melting)
+
+ (B) CONVERGENT (Basin Destruction &amp; Continental Buckling)
+     Deep-Sea Trench           Fold Mountain Belts (Himalayas / Andes)
+     [ Oceanic Plate ] ──► \   ▲
+                            \  │  Crustal Shortening / Magmatic Arc
+                             ▼ [ Slab Pull &amp; Asthenospheric Melting ]
   </div>
 
   <p><strong>I. Mechanisms Altering Ocean Basins:</strong></p>
@@ -122,7 +145,7 @@
 </div>
 
 <!-- 2020 QUESTION -->
-<div class="mains-answer-sheet">
+<div id="mains-2020-pacific" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2020</span>
@@ -172,7 +195,7 @@
 </div>
 
 <!-- 2018 QUESTION -->
-<div class="mains-answer-sheet">
+<div id="mains-2018-plumes" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2018</span>
@@ -218,7 +241,7 @@
 </div>
 
 <!-- 2014 QUESTION -->
-<div class="mains-answer-sheet">
+<div id="mains-2014-mountains" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2014</span>
@@ -254,7 +277,7 @@
 </div>
 
 <!-- 2013 QUESTION: CONTINENTAL DRIFT -->
-<div class="mains-answer-sheet">
+<div id="mains-2013-drift" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2013</span>
@@ -288,7 +311,7 @@
 <!-- ========================================================= -->
 
 <!-- 2022 QUESTION: PRIMARY ROCKS -->
-<div class="mains-answer-sheet">
+<div id="mains-2022-rocks" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2022</span>
@@ -333,7 +356,7 @@
 </div>
 
 <!-- 2021 QUESTION: LANDSLIDES -->
-<div class="mains-answer-sheet">
+<div id="mains-2021-landslides" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2021</span>
@@ -350,22 +373,38 @@
 
   <p><strong>Introduction:</strong> Both the Himalayas and Western Ghats are designated high-risk landslide hazard zones by the Geological Survey of India (GSI). However, their causal mechanisms differ due to contrasting tectonic regimes, lithology, and anthropogenic pressures.</p>
 
-  <div class="diagram-box">
-[COMPARATIVE MATRIX: HIMALAYAS VS WESTERN GHATS]
-
-Parameter         Himalayan Region                Western Ghats
-────────────────────────────────────────────────────────────────────────
-1. Tectonics      Active convergent collision     Stable Precambrian peninsular
-                  zone; neo-tectonism; highly     block; passive scarp margin;
-                  seismically volatile.           aseismic.
-2. Lithology      Weak, sheared, friable sedi-    Hard crystalline basalt/granite
-                  mentary rocks (shale, phyllite, capped by thick, porous
-                  unconsolidated gravels).        lateritic overburden.
-3. Geomorphic     High relief energy, glacial     Heavy, intense orographic SW
-                  wedging, snowmelt, youthful     monsoon rainfall; pore-water
-                  deep gorge incision.            pressure saturation.
-4. Human Trigger  Tunnels, blasting, mega-dams,   Commercial plantations (tea/rubber),
-                  Char Dham highway widening.     illegal quarrying, slope cuts.
+  <div style="overflow-x: auto; margin: 16px 0;">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:22%;">Parameter</th>
+          <th style="width:39%;">Himalayan Region</th>
+          <th style="width:39%;">Western Ghats</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>1. Tectonic Setting</strong></td>
+          <td>Active convergent collision zone; active neo-tectonism; highly seismically volatile.</td>
+          <td>Stable Precambrian peninsular shield; passive scarp fault margin; aseismic.</td>
+        </tr>
+        <tr>
+          <td><strong>2. Lithological Fabric</strong></td>
+          <td>Weak, sheared, friable sedimentary & metamorphic strata (shale, phyllite, gravels).</td>
+          <td>Hard crystalline basalt/granite-gneiss capped by thick, porous lateritic overburden.</td>
+        </tr>
+        <tr>
+          <td><strong>3. Geomorphic Driver</strong></td>
+          <td>High relief energy, frost wedging, snowmelt runoff, youthful deep gorge incision.</td>
+          <td>Torrential SW monsoon downpours; massive pore-water pressure along bedrock slip planes.</td>
+        </tr>
+        <tr>
+          <td><strong>4. Anthropogenic Pressures</strong></td>
+          <td>Tunnel blasting, massive hydroelectric dams, Char Dham highway slope slicing.</td>
+          <td>Commercial cash crops (tea/rubber), illegal quarrying, unscientific road cut slopes.</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 
   <p><strong>Summary of Differences:</strong></p>
@@ -378,7 +417,7 @@ Parameter         Himalayan Region                Western Ghats
 </div>
 
 <!-- 2023 QUESTION: FIORDS -->
-<div class="mains-answer-sheet">
+<div id="mains-2023-fiord" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2023</span>
@@ -421,7 +460,7 @@ Fiord Landscape Formed (Submerged deep marine corridor with steep rock walls)
 <!-- ========================================================= -->
 
 <!-- 2024 QUESTION: SST & CYCLONES -->
-<div class="mains-answer-sheet">
+<div id="mains-2024-sst" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2024</span>
@@ -463,7 +502,7 @@ Fiord Landscape Formed (Submerged deep marine corridor with steep rock walls)
 </div>
 
 <!-- 2024 QUESTION: AURORAS -->
-<div class="mains-answer-sheet">
+<div id="mains-2024-aurora" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2024</span>
@@ -504,7 +543,7 @@ Atoms are excited to higher orbital energy levels → De-excitation releases lig
 </div>
 
 <!-- 2013 QUESTION: TEMPERATURE INVERSION -->
-<div class="mains-answer-sheet">
+<div id="mains-2013-inversion" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2013</span>
@@ -524,13 +563,15 @@ Atoms are excited to higher orbital energy levels → De-excitation releases lig
   <p><strong>Ideal Conditions for Surface Radiation Inversion (CCL):</strong> Clear winter skies (unhindered terrestrial longwave radiation loss), Calm winds (preventing turbulent mixing), and Long winter nights.</p>
 
   <div class="diagram-box">
-[TEMPERATURE PROFILE: NORMAL VS INVERSION]
+[TEMPERATURE PROFILE: NORMAL LAPSE RATE VS INVERSION]
 
-Altitude (km) ▲            Altitude (km) ▲
-             │    /                     │                    │   / (Normal:             │        \ Inversion Layer (Warmer)
-             │  /   T decreases)        │        /
-             │ /                        │       / (Cold ground layer)
-             └────────► Temp (°C)       └────────► Temp (°C)
+  (A) Normal Atmosphere               (B) Temperature Inversion
+  Altitude ▲                          Altitude ▲
+           │   / (Cooler air)                  │   / Normal decrease
+           │  /                                │  \  Warmer Inversion Layer
+           │ /                                 │   / Rapid ground cooling
+           └────────► Temp (°C)                └────────► Temp (°C)
+       (T decreases with height)           (Cold ground air trapped below)
   </div>
 
   <p><strong>Effects on Weather &amp; Inhabitants:</strong></p>
@@ -543,7 +584,7 @@ Altitude (km) ▲            Altitude (km) ▲
 </div>
 
 <!-- 2013 QUESTION: URBAN HEAT ISLANDS -->
-<div class="mains-answer-sheet">
+<div id="mains-2013-uhi" class="mains-answer-sheet">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge mains-badge">UPSC CSE Mains 2013</span>
@@ -573,12 +614,12 @@ Altitude (km) ▲            Altitude (km) ▲
 </div>
 
 <!-- ========================================================= -->
-<h2>🔮 High-Yield Predictive Mains Answers (Expected in Upcoming CSE)</h2>
+<h2 id="mains-predictives">🔮 High-Yield Predictive Mains Answers (Expected in Upcoming CSE)</h2>
 <div class="subtitle">Complete Model Answers to High-Probability Questions Identified through Climatological &amp; Geotectonic Research</div>
 <!-- ========================================================= -->
 
 <!-- PREDICTIVE QUESTION 1 -->
-<div class="mains-answer-sheet" style="border-left-color: var(--orange); background: var(--orange-bg);">
+<div class="mains-answer-sheet predictive">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge predictive-badge">Predictive Model Answer 1</span>
@@ -617,7 +658,7 @@ Altitude (km) ▲            Altitude (km) ▲
 </div>
 
 <!-- PREDICTIVE QUESTION 2 -->
-<div class="mains-answer-sheet" style="border-left-color: var(--orange); background: var(--orange-bg);">
+<div class="mains-answer-sheet predictive">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge predictive-badge">Predictive Model Answer 2</span>
@@ -660,7 +701,7 @@ High-Amplitude Rossby Waves (North-South Meandering / Atmospheric Blocking)
 </div>
 
 <!-- PREDICTIVE QUESTION 3 -->
-<div class="mains-answer-sheet" style="border-left-color: var(--orange); background: var(--orange-bg);">
+<div class="mains-answer-sheet predictive">
   <div class="answer-meta-bar">
     <div>
       <span class="pyq-badge predictive-badge">Predictive Model Answer 3</span>

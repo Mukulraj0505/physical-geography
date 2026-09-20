@@ -95,6 +95,19 @@
   function initTableOfContents() {
     const tocList = document.getElementById('toc-list');
     const tocDrawer = document.getElementById('toc-drawer');
+    
+    // Create mobile backdrop if not existing
+    let backdrop = document.querySelector('.drawer-backdrop');
+    if (!backdrop) {
+      backdrop = document.createElement('div');
+      backdrop.className = 'drawer-backdrop';
+      document.body.appendChild(backdrop);
+      backdrop.addEventListener('click', () => {
+        if (tocDrawer) tocDrawer.classList.remove('open');
+        if (backdrop) backdrop.classList.remove('active');
+        backdrop.classList.remove('active');
+      });
+    }
     const tocBtn = document.getElementById('btn-toc');
     const tocClose = document.getElementById('toc-close');
     const mainPage = document.querySelector('main.page');
@@ -122,6 +135,7 @@
 
       a.addEventListener('click', () => {
         if (tocDrawer) tocDrawer.classList.remove('open');
+        if (backdrop) backdrop.classList.remove('active');
       });
 
       li.appendChild(a);
@@ -131,12 +145,14 @@
     if (tocBtn && tocDrawer) {
       tocBtn.addEventListener('click', () => {
         tocDrawer.classList.toggle('open');
+        if (backdrop) backdrop.classList.toggle('active', tocDrawer.classList.contains('open'));
       });
     }
 
     if (tocClose && tocDrawer) {
       tocClose.addEventListener('click', () => {
         tocDrawer.classList.remove('open');
+        if (backdrop) backdrop.classList.remove('active');
       });
     }
 
@@ -145,6 +161,7 @@
       if (tocDrawer && tocDrawer.classList.contains('open')) {
         if (!tocDrawer.contains(e.target) && (!tocBtn || !tocBtn.contains(e.target))) {
           tocDrawer.classList.remove('open');
+        if (backdrop) backdrop.classList.remove('active');
         }
       }
     });
@@ -220,7 +237,136 @@
     initFontSize();
     initProgressBar();
     initTableOfContents();
+    initPyqFeatures();
     initNavigation();
     initBackToTop();
   });
+
+  // --- 5. INTERACTIVE PYQ CONTROLLER (Prelims & Mains) ---
+  function initPyqFeatures() {
+    // A. Prelims Interactive MCQ Testing
+    const optionLists = document.querySelectorAll('.pyq-options');
+    optionLists.forEach(ul => {
+      const correctAns = (ul.getAttribute('data-correct') || '').toLowerCase().trim();
+      const options = ul.querySelectorAll('li[data-opt]');
+      const card = ul.closest('.pyq-card');
+      const details = card ? card.querySelector('details.pyq-solution') : null;
+
+      options.forEach(li => {
+        li.addEventListener('click', () => {
+          // If already checked via opened solution, do not re-select
+          options.forEach(opt => opt.classList.remove('selected'));
+          li.classList.add('selected');
+
+          // If solution is already open, show feedback immediately
+          if (details && details.open) {
+            evaluateOption(li, correctAns);
+          }
+        });
+      });
+
+      if (details) {
+        details.addEventListener('toggle', () => {
+          if (details.open) {
+            // Highlight correct option and check selected
+            options.forEach(opt => {
+              const optLetter = (opt.getAttribute('data-opt') || '').toLowerCase().trim();
+              if (optLetter === correctAns) {
+                opt.classList.add('correct-pick');
+              } else if (opt.classList.contains('selected')) {
+                opt.classList.add('wrong-pick');
+              }
+            });
+          }
+        });
+      }
+    });
+
+    function evaluateOption(selectedLi, correctAns) {
+      const optLetter = (selectedLi.getAttribute('data-opt') || '').toLowerCase().trim();
+      if (optLetter === correctAns) {
+        selectedLi.classList.add('correct-pick');
+      } else {
+        selectedLi.classList.add('wrong-pick');
+      }
+    }
+
+    // B. Filter Toolbar (Prelims)
+    const filterBtns = document.querySelectorAll('.pyq-filters .filter-btn');
+    const pyqCards = document.querySelectorAll('.pyq-card[data-theme]');
+    const themeHeadings = document.querySelectorAll('#prelims-pyqs h2');
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        const filterVal = btn.getAttribute('data-filter');
+
+        pyqCards.forEach(card => {
+          const cardTheme = card.getAttribute('data-theme');
+          if (filterVal === 'all' || cardTheme === filterVal) {
+            card.style.display = '';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+
+        // Hide/show headings appropriately
+        if (filterVal === 'all') {
+          themeHeadings.forEach(h => h.style.display = '');
+        } else {
+          themeHeadings.forEach(h => {
+            const hText = h.textContent.toLowerCase();
+            if (filterVal === 'predictive' && hText.includes('predictive')) {
+              h.style.display = '';
+            } else if (filterVal === 'theme-1' && hText.includes('theme 1')) {
+              h.style.display = '';
+            } else if (filterVal === 'theme-2' && hText.includes('theme 2')) {
+              h.style.display = '';
+            } else if (filterVal === 'theme-3' && hText.includes('theme 3')) {
+              h.style.display = '';
+            } else if (filterVal === 'theme-4' && hText.includes('theme 4')) {
+              h.style.display = '';
+            } else {
+              h.style.display = 'none';
+            }
+          });
+        }
+      });
+    });
+
+    // C. Expand / Collapse All (Prelims)
+    const expandBtn = document.getElementById('btn-expand-all');
+    const collapseBtn = document.getElementById('btn-collapse-all');
+
+    if (expandBtn) {
+      expandBtn.addEventListener('click', () => {
+        document.querySelectorAll('.pyq-solution').forEach(d => d.open = true);
+      });
+    }
+
+    if (collapseBtn) {
+      collapseBtn.addEventListener('click', () => {
+        document.querySelectorAll('.pyq-solution').forEach(d => d.open = false);
+      });
+    }
+
+    // D. Smooth Jump Links with Pulse Animation (Mains)
+    const jumpLinks = document.querySelectorAll('.mains-jump-bar a[href^="#"]');
+    jumpLinks.forEach(link => {
+      link.addEventListener('click', (e) => {
+        const targetId = link.getAttribute('href').substring(1);
+        const targetEl = document.getElementById(targetId);
+        if (targetEl) {
+          e.preventDefault();
+          targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          targetEl.classList.remove('highlight-pulse');
+          void targetEl.offsetWidth; // trigger reflow
+          targetEl.classList.add('highlight-pulse');
+        }
+      });
+    });
+  }
+
 })();

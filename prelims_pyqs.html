@@ -67,11 +67,27 @@
   </ul>
 </div>
 
+<!-- PYQ Interactive Filter & Action Toolbar -->
+<div class="pyq-toolbar" aria-label="PYQ Toolbar">
+  <div class="pyq-filters">
+    <button class="filter-btn active" data-filter="all">All Questions (23)</button>
+    <button class="filter-btn" data-filter="theme-1">Theme 1: Earth &amp; Cosmos</button>
+    <button class="filter-btn" data-filter="theme-2">Theme 2: Interior &amp; Seismology</button>
+    <button class="filter-btn" data-filter="theme-3">Theme 3: Petrology &amp; Tectonics</button>
+    <button class="filter-btn" data-filter="theme-4">Theme 4: Atmosphere &amp; Climate</button>
+    <button class="filter-btn" data-filter="predictive">🔮 Predictive MCQs (8)</button>
+  </div>
+  <div class="pyq-actions">
+    <button id="btn-expand-all" class="action-btn" title="Expand all explanations">📖 Expand All</button>
+    <button id="btn-collapse-all" class="action-btn" title="Collapse all explanations">📕 Collapse All</button>
+  </div>
+</div>
+
 <!-- ========================================================= -->
 <h2>Theme 1: Earth in the Universe, Planetary Motions &amp; Seasons</h2>
 <!-- ========================================================= -->
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-1">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2021</span>
     <span class="pyq-meta">Topic: Earth–Sun Relationship &amp; Solstice</span>
@@ -79,11 +95,11 @@
   <div class="pyq-question">
     On 21st June, the Sun:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> does not set below the horizon at the Arctic Circle</li>
-    <li><strong>(b)</strong> does not set below the horizon at Antarctic Circle</li>
-    <li><strong>(c)</strong> shines vertically overhead at noon on the Equator</li>
-    <li><strong>(d)</strong> shines vertically overhead at the Tropic of Capricorn</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> does not set below the horizon at the Arctic Circle</li>
+    <li data-opt="b"><strong>(b)</strong> does not set below the horizon at Antarctic Circle</li>
+    <li data-opt="c"><strong>(c)</strong> shines vertically overhead at noon on the Equator</li>
+    <li data-opt="d"><strong>(d)</strong> shines vertically overhead at the Tropic of Capricorn</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -97,7 +113,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-1">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2019</span>
     <span class="pyq-meta">Topic: Insolation &amp; Solar Noon Position</span>
@@ -105,11 +121,11 @@
   <div class="pyq-question">
     On 21st June, which of the following locations experiences the longest day length?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Hyderabad</li>
-    <li><strong>(b)</strong> Chennai</li>
-    <li><strong>(c)</strong> Bhopal</li>
-    <li><strong>(d)</strong> Delhi</li>
+  <ul class="pyq-options" data-correct="d">
+    <li data-opt="a"><strong>(a)</strong> Hyderabad</li>
+    <li data-opt="b"><strong>(b)</strong> Chennai</li>
+    <li data-opt="c"><strong>(c)</strong> Bhopal</li>
+    <li data-opt="d"><strong>(d)</strong> Delhi</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -123,7 +139,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-1">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2022</span>
     <span class="pyq-meta">Topic: Solar Physics &amp; Space Weather</span>
@@ -141,11 +157,11 @@
     </ol>
     Select the correct answer using the code given below:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1, 2, 4 and 5 only</li>
-    <li><strong>(b)</strong> 2, 3, 5, 6 and 7 only</li>
-    <li><strong>(c)</strong> 1, 3, 4, 6 and 7 only</li>
-    <li><strong>(d)</strong> 1, 2, 3, 4, 5, 6 and 7</li>
+  <ul class="pyq-options" data-correct="c">
+    <li data-opt="a"><strong>(a)</strong> 1, 2, 4 and 5 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2, 3, 5, 6 and 7 only</li>
+    <li data-opt="c"><strong>(c)</strong> 1, 3, 4, 6 and 7 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2, 3, 4, 5, 6 and 7</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -159,7 +175,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-1">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2013</span>
     <span class="pyq-meta">Topic: Earth Motions &amp; Day Length Variation</span>
@@ -167,11 +183,11 @@
   <div class="pyq-question">
     Variations in the length of daytime and nighttime from season to season are due to:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> the earth's rotation on its axis</li>
-    <li><strong>(b)</strong> the earth's revolution round the sun in an elliptical manner</li>
-    <li><strong>(c)</strong> latitudinal position of the place</li>
-    <li><strong>(d)</strong> revolution of the earth on a tilted axis</li>
+  <ul class="pyq-options" data-correct="d">
+    <li data-opt="a"><strong>(a)</strong> the earth's rotation on its axis</li>
+    <li data-opt="b"><strong>(b)</strong> the earth's revolution round the sun in an elliptical manner</li>
+    <li data-opt="c"><strong>(c)</strong> latitudinal position of the place</li>
+    <li data-opt="d"><strong>(d)</strong> revolution of the earth on a tilted axis</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -186,7 +202,7 @@
 <h2>Theme 2: Earth's Interior, Seismology &amp; Magnetism</h2>
 <!-- ========================================================= -->
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-2">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2018</span>
     <span class="pyq-meta">Topic: Earth's Magnetism &amp; Paleomagnetism</span>
@@ -200,11 +216,11 @@
     </ol>
     Which of the statements given above is/are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 only</li>
-    <li><strong>(b)</strong> 2 and 3 only</li>
-    <li><strong>(c)</strong> 1 and 3 only</li>
-    <li><strong>(d)</strong> 1, 2 and 3</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> 1 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 and 3 only</li>
+    <li data-opt="c"><strong>(c)</strong> 1 and 3 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2 and 3</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -215,7 +231,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-2">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2013</span>
     <span class="pyq-meta">Topic: Geomorphic Dynamics &amp; Endogenic Forces</span>
@@ -228,11 +244,11 @@
     </ol>
     Select the correct answer using the code given below:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 only</li>
-    <li><strong>(b)</strong> 2 only</li>
-    <li><strong>(c)</strong> Both 1 and 2</li>
-    <li><strong>(d)</strong> Neither 1 nor 2</li>
+  <ul class="pyq-options" data-correct="c">
+    <li data-opt="a"><strong>(a)</strong> 1 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 only</li>
+    <li data-opt="c"><strong>(c)</strong> Both 1 and 2</li>
+    <li data-opt="d"><strong>(d)</strong> Neither 1 nor 2</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -247,7 +263,7 @@
 <h2>Theme 3: Petrology, Geomorphic Processes &amp; Plate Tectonics</h2>
 <!-- ========================================================= -->
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-3">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2014</span>
     <span class="pyq-meta">Topic: Continental Drift Theory &amp; Evidences</span>
@@ -262,11 +278,11 @@
     </ol>
     Select the correct answer using the code given below:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 and 2 only</li>
-    <li><strong>(b)</strong> 2 only</li>
-    <li><strong>(c)</strong> 1, 3 and 4 only</li>
-    <li><strong>(d)</strong> None of the above</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> 1 and 2 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 only</li>
+    <li data-opt="c"><strong>(c)</strong> 1, 3 and 4 only</li>
+    <li data-opt="d"><strong>(d)</strong> None of the above</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -277,7 +293,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-3">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2022</span>
     <span class="pyq-meta">Topic: Petrology &amp; Rock Characteristics</span>
@@ -291,11 +307,11 @@
     </ol>
     Which of the statements given above are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 and 2 only</li>
-    <li><strong>(b)</strong> 2 and 3 only</li>
-    <li><strong>(c)</strong> 1 and 3 only</li>
-    <li><strong>(d)</strong> 1, 2 and 3</li>
+  <ul class="pyq-options" data-correct="d">
+    <li data-opt="a"><strong>(a)</strong> 1 and 2 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 and 3 only</li>
+    <li data-opt="c"><strong>(c)</strong> 1 and 3 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2 and 3</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -310,7 +326,7 @@
 <h2>Theme 4: Atmosphere, Insolation &amp; Climatology</h2>
 <!-- ========================================================= -->
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-4">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2024</span>
     <span class="pyq-meta">Topic: Atmospheric Heating &amp; Greenhouse Dynamics</span>
@@ -322,11 +338,11 @@
     <strong>Statement-II:</strong> Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long-wave radiation.<br><br>
     Which one of the following is correct in respect of the above statements?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</li>
-    <li><strong>(b)</strong> Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I</li>
-    <li><strong>(c)</strong> Statement-I is correct but Statement-II is incorrect</li>
-    <li><strong>(d)</strong> Statement-I is incorrect but Statement-II is correct</li>
+  <ul class="pyq-options" data-correct="d">
+    <li data-opt="a"><strong>(a)</strong> Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</li>
+    <li data-opt="b"><strong>(b)</strong> Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I</li>
+    <li data-opt="c"><strong>(c)</strong> Statement-I is correct but Statement-II is incorrect</li>
+    <li data-opt="d"><strong>(d)</strong> Statement-I is incorrect but Statement-II is correct</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -340,7 +356,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-4">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2024</span>
     <span class="pyq-meta">Topic: Tropospheric Structure &amp; Convection</span>
@@ -353,11 +369,11 @@
     </ol>
     Which of the statements given above is/are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 only</li>
-    <li><strong>(b)</strong> 2 only</li>
-    <li><strong>(c)</strong> Both 1 and 2</li>
-    <li><strong>(d)</strong> Neither 1 nor 2</li>
+  <ul class="pyq-options" data-correct="c">
+    <li data-opt="a"><strong>(a)</strong> 1 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 only</li>
+    <li data-opt="c"><strong>(c)</strong> Both 1 and 2</li>
+    <li data-opt="d"><strong>(d)</strong> Neither 1 nor 2</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -368,7 +384,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-4">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2019</span>
     <span class="pyq-meta">Topic: Nocturnal Radiative Cooling &amp; Dew Formation</span>
@@ -376,11 +392,11 @@
   <div class="pyq-question">
     Why are dewdrops not formed on a cloudy night?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Clouds absorb the radiation released from the Earth's surface.</li>
-    <li><strong>(b)</strong> Clouds reflect back the Earth's radiation.</li>
-    <li><strong>(c)</strong> The Earth's surface would have low temperature on cloudy nights.</li>
-    <li><strong>(d)</strong> Clouds deflect the blowing wind to ground level.</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Clouds absorb the radiation released from the Earth's surface.</li>
+    <li data-opt="b"><strong>(b)</strong> Clouds reflect back the Earth's radiation.</li>
+    <li data-opt="c"><strong>(c)</strong> The Earth's surface would have low temperature on cloudy nights.</li>
+    <li data-opt="d"><strong>(d)</strong> Clouds deflect the blowing wind to ground level.</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -391,7 +407,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-4">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2018</span>
     <span class="pyq-meta">Topic: Albedo of Earth Surfaces</span>
@@ -399,11 +415,11 @@
   <div class="pyq-question">
     Which of the following has the highest albedo?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Black soil</li>
-    <li><strong>(b)</strong> Fresh snow</li>
-    <li><strong>(c)</strong> Sand desert</li>
-    <li><strong>(d)</strong> Prairie grassland</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Black soil</li>
+    <li data-opt="b"><strong>(b)</strong> Fresh snow</li>
+    <li data-opt="c"><strong>(c)</strong> Sand desert</li>
+    <li data-opt="d"><strong>(d)</strong> Prairie grassland</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -414,7 +430,7 @@
   </details>
 </div>
 
-<div class="pyq-card">
+<div class="pyq-card" data-theme="theme-4">
   <div class="pyq-header">
     <span class="pyq-badge prelims-badge">UPSC CSE Prelims 2013</span>
     <span class="pyq-meta">Topic: Continentality &amp; Annual Range of Temperature</span>
@@ -429,11 +445,11 @@
     </ol>
     Select the correct answer using the code given below:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 only</li>
-    <li><strong>(b)</strong> 1 and 2 only</li>
-    <li><strong>(c)</strong> 2 and 3 only</li>
-    <li><strong>(d)</strong> 1, 2, 3 and 4</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> 1 only</li>
+    <li data-opt="b"><strong>(b)</strong> 1 and 2 only</li>
+    <li data-opt="c"><strong>(c)</strong> 2 and 3 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2, 3 and 4</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Official Key, Conceptual Explanation &amp; Trap Alert</summary>
@@ -449,7 +465,7 @@
 <div class="subtitle">Curated by Analyzing Emerging Geoscientific Trends, IPCC AR6 &amp; New UPSC Question Formats</div>
 <!-- ========================================================= -->
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 1</span>
     <span class="pyq-meta">Climatology: Marine Heatwaves (MHWs) &amp; Atmospheric Dynamics</span>
@@ -461,11 +477,11 @@
     <strong>Statement-II:</strong> Atmospheric blocking ridges suppress cloud formation, maximize incoming solar insolation, and reduce wind-driven ocean mixing, concentrating thermal energy in the upper ocean layer.<br><br>
     Which one of the following is correct in respect of the above statements?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</li>
-    <li><strong>(b)</strong> Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I</li>
-    <li><strong>(c)</strong> Statement-I is correct but Statement-II is incorrect</li>
-    <li><strong>(d)</strong> Statement-I is incorrect but Statement-II is correct</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</li>
+    <li data-opt="b"><strong>(b)</strong> Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I</li>
+    <li data-opt="c"><strong>(c)</strong> Statement-I is correct but Statement-II is incorrect</li>
+    <li data-opt="d"><strong>(d)</strong> Statement-I is incorrect but Statement-II is correct</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -476,7 +492,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 2</span>
     <span class="pyq-meta">Geomagnetism: South Atlantic Anomaly &amp; Geodynamo</span>
@@ -490,11 +506,11 @@
     </ol>
     How many of the above statements are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Only one</li>
-    <li><strong>(b)</strong> Only two</li>
-    <li><strong>(c)</strong> All three</li>
-    <li><strong>(d)</strong> None</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Only one</li>
+    <li data-opt="b"><strong>(b)</strong> Only two</li>
+    <li data-opt="c"><strong>(c)</strong> All three</li>
+    <li data-opt="d"><strong>(d)</strong> None</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -505,7 +521,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 3</span>
     <span class="pyq-meta">Deep Earth Interior: Core-Mantle Boundary &amp; ULVZs</span>
@@ -513,11 +529,11 @@
   <div class="pyq-question">
     In geophysics, 'Ultra-Low Velocity Zones' (ULVZs) are frequently observed by seismologists at the:
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Mohorovičić discontinuity between crust and mantle</li>
-    <li><strong>(b)</strong> Core-Mantle Boundary (D'' layer) at ~2,900 km depth</li>
-    <li><strong>(c)</strong> Lehmann discontinuity within the Earth's core</li>
-    <li><strong>(d)</strong> Lithosphere-Asthenosphere Boundary (LAB)</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Mohorovičić discontinuity between crust and mantle</li>
+    <li data-opt="b"><strong>(b)</strong> Core-Mantle Boundary (D'' layer) at ~2,900 km depth</li>
+    <li data-opt="c"><strong>(c)</strong> Lehmann discontinuity within the Earth's core</li>
+    <li data-opt="d"><strong>(d)</strong> Lithosphere-Asthenosphere Boundary (LAB)</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -528,7 +544,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 4</span>
     <span class="pyq-meta">Geomorphology: Peneplain vs Pediplain Evolutionary Models</span>
@@ -542,11 +558,11 @@
     </ol>
     How many of the pairs given above are correctly matched?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Only one</li>
-    <li><strong>(b)</strong> Only two</li>
-    <li><strong>(c)</strong> All three</li>
-    <li><strong>(d)</strong> None</li>
+  <ul class="pyq-options" data-correct="c">
+    <li data-opt="a"><strong>(a)</strong> Only one</li>
+    <li data-opt="b"><strong>(b)</strong> Only two</li>
+    <li data-opt="c"><strong>(c)</strong> All three</li>
+    <li data-opt="d"><strong>(d)</strong> None</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -557,7 +573,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 5</span>
     <span class="pyq-meta">Bioclimatology: Wet-Bulb Temperature Threshold</span>
@@ -571,11 +587,11 @@
     </ol>
     Which of the statements given above is/are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 and 2 only</li>
-    <li><strong>(b)</strong> 2 and 3 only</li>
-    <li><strong>(c)</strong> 1 only</li>
-    <li><strong>(d)</strong> 1, 2 and 3</li>
+  <ul class="pyq-options" data-correct="a">
+    <li data-opt="a"><strong>(a)</strong> 1 and 2 only</li>
+    <li data-opt="b"><strong>(b)</strong> 2 and 3 only</li>
+    <li data-opt="c"><strong>(c)</strong> 1 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2 and 3</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -586,7 +602,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 6</span>
     <span class="pyq-meta">Geochemistry &amp; Carbon Cycle: Chemical Silicate Weathering</span>
@@ -594,11 +610,11 @@
   <div class="pyq-question">
     Which of the following processes acts as Earth's natural long-term geological thermostat by sequestering atmospheric carbon dioxide over millions of years?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Mechanical thermal exfoliation of granitic domes</li>
-    <li><strong>(b)</strong> Chemical weathering of silicate rocks by carbonic acid</li>
-    <li><strong>(c)</strong> Oxidation of ferromagnesian basaltic minerals</li>
-    <li><strong>(d)</strong> Carbonation and dissolution of exposed limestone karst landscapes</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Mechanical thermal exfoliation of granitic domes</li>
+    <li data-opt="b"><strong>(b)</strong> Chemical weathering of silicate rocks by carbonic acid</li>
+    <li data-opt="c"><strong>(c)</strong> Oxidation of ferromagnesian basaltic minerals</li>
+    <li data-opt="d"><strong>(d)</strong> Carbonation and dissolution of exposed limestone karst landscapes</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -609,7 +625,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 7</span>
     <span class="pyq-meta">Atmospheric Physics: The Mesospheric Cooling Paradox</span>
@@ -617,11 +633,11 @@
   <div class="pyq-question">
     While rising concentrations of greenhouse gases (CO₂ and CH₄) cause warming in the troposphere, what is their observed impact on the mesosphere?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> Strong thermal expansion and rapid warming</li>
-    <li><strong>(b)</strong> Radiative cooling and atmospheric contraction</li>
-    <li><strong>(c)</strong> Complete stabilization of the lapse rate</li>
-    <li><strong>(d)</strong> Zero temperature change due to absence of water vapour</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> Strong thermal expansion and rapid warming</li>
+    <li data-opt="b"><strong>(b)</strong> Radiative cooling and atmospheric contraction</li>
+    <li data-opt="c"><strong>(c)</strong> Complete stabilization of the lapse rate</li>
+    <li data-opt="d"><strong>(d)</strong> Zero temperature change due to absence of water vapour</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
@@ -632,7 +648,7 @@
   </details>
 </div>
 
-<div class="pyq-card predictive">
+<div class="pyq-card" data-theme="theme-4" predictive">
   <div class="pyq-header">
     <span class="pyq-badge predictive-badge">Predictive MCQ 8</span>
     <span class="pyq-meta">Indian Physical Geography: Bhabar–Terai Piedmont Hydrology</span>
@@ -646,11 +662,11 @@
     </ol>
     Which of the statements given above are correct?
   </div>
-  <ul class="pyq-options">
-    <li><strong>(a)</strong> 1 and 2 only</li>
-    <li><strong>(b)</strong> 1 and 3 only</li>
-    <li><strong>(c)</strong> 2 and 3 only</li>
-    <li><strong>(d)</strong> 1, 2 and 3</li>
+  <ul class="pyq-options" data-correct="b">
+    <li data-opt="a"><strong>(a)</strong> 1 and 2 only</li>
+    <li data-opt="b"><strong>(b)</strong> 1 and 3 only</li>
+    <li data-opt="c"><strong>(c)</strong> 2 and 3 only</li>
+    <li data-opt="d"><strong>(d)</strong> 1, 2 and 3</li>
   </ul>
   <details class="pyq-solution">
     <summary>Reveal Explanation &amp; Core Concept</summary>
